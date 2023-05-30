@@ -1,0 +1,1001 @@
+impression_id,impression_city,posting_user_id,post_id,viewer_email,impression_country,timestamp,device
+fe62c00a-4cf5-4d7a-a99e-5bdd76eb1171,Jersey City,15,37,fe62c00a-4cf5-4d7a-a99e-5bdd76eb1171@example.com,Mauritania,2021-01-04T15:50:27.590Z,mobile
+4d883a2c-f75d-4344-ba00-cfaba84c7f9a,Rockhampton,7,20,4d883a2c-f75d-4344-ba00-cfaba84c7f9a@example.com,Tokelau,2021-01-04T08:21:38.956Z,unknown
+472f5f10-5dd9-43a1-aa4c-b70f721ef316,Brikama,1,7,472f5f10-5dd9-43a1-aa4c-b70f721ef316@example.com,Thailand,2021-01-10T01:25:14.764Z,tablet
+62c97cc9-3ca9-46b3-af5f-6fd0a363e3e6,Graz,12,109,62c97cc9-3ca9-46b3-af5f-6fd0a363e3e6@example.com,Jamaica,2021-01-10T11:25:17.629Z,mobile
+736b000d-a445-4ba3-950a-81483257481e,Cotonou,11,86,736b000d-a445-4ba3-950a-81483257481e@example.com,Belgium,2021-01-10T02:35:20.032Z,desktop
+4efc3a97-30ed-4822-adf8-c244fe8e6093,Paris,12,82,4efc3a97-30ed-4822-adf8-c244fe8e6093@example.com,Denmark,2021-01-07T21:08:21.258Z,unknown
+c30dee7f-1102-4c97-baa5-ab61ed2ac209,Busan,10,68,c30dee7f-1102-4c97-baa5-ab61ed2ac209@example.com,Chile,2021-01-07T09:46:04.522Z,mobile
+7987e8fa-8aec-4d45-a393-acf693f249ce,Mamoudzou,15,93,7987e8fa-8aec-4d45-a393-acf693f249ce@example.com,Mali,2021-01-08T17:49:20.015Z,unknown
+6c7d7ead-b06c-42fc-a7d4-d2b8e96ebc22,Banjul,13,29,6c7d7ead-b06c-42fc-a7d4-d2b8e96ebc22@example.com,Antigua and Barbuda,2021-01-04T11:25:47.538Z,tablet
+bd901a76-b295-4ff6-8b96-f8e7fcdcc415,Bissau,5,72,bd901a76-b295-4ff6-8b96-f8e7fcdcc415@example.com,Madagascar,2021-01-02T16:25:24.010Z,mobile
+6768aef2-4a80-4a2f-af6e-b2ad7dce27fe,Niamey,13,103,6768aef2-4a80-4a2f-af6e-b2ad7dce27fe@example.com,Uganda,2021-01-01T09:12:55.417Z,tablet
+a0bc4908-cd63-4ea1-92e1-117486eb573c,Malacca Town,3,19,a0bc4908-cd63-4ea1-92e1-117486eb573c@example.com,Puerto Rico,2021-01-05T15:57:37.708Z,unknown
+eb4aaed9-5461-447f-8cfc-c80232ae3a1f,Arbil,3,30,eb4aaed9-5461-447f-8cfc-c80232ae3a1f@example.com,Saint Pierre and Miquelon,2021-01-11T09:44:58.030Z,mobile
+dfd0f2a7-0f86-4f4d-a9cb-93f181c41c18,Ludhiana,9,12,dfd0f2a7-0f86-4f4d-a9cb-93f181c41c18@example.com,Armenia,2021-01-11T14:52:56.754Z,unknown
+38d93219-9c0d-498b-b316-f1b156e39885,Maputo,2,65,38d93219-9c0d-498b-b316-f1b156e39885@example.com,Nepal,2021-01-13T12:53:45.122Z,tablet
+79a43c39-f4d2-484d-9603-fc5b6ba95427,The Hague,1,117,79a43c39-f4d2-484d-9603-fc5b6ba95427@example.com,Swaziland,2021-01-01T01:34:40.148Z,tablet
+6a470b56-d288-45be-aac3-471e1aad4896,Tampere,12,17,6a470b56-d288-45be-aac3-471e1aad4896@example.com,Armenia,2021-01-03T17:57:56.476Z,mobile
+4f643ef2-46c1-49c4-aefa-ac4aee4d584e,Port Moresby,14,20,4f643ef2-46c1-49c4-aefa-ac4aee4d584e@example.com,Lebanon,2021-01-11T02:23:23.726Z,mobile
+e6fd652a-77b5-46c2-9bc3-6420aef4b25c,Arbil,2,20,e6fd652a-77b5-46c2-9bc3-6420aef4b25c@example.com,Mauritius,2021-01-08T23:23:57.724Z,mobile
+b0dd7d1f-64e5-4f44-a2ec-61de7a567b24,Leeds,10,21,b0dd7d1f-64e5-4f44-a2ec-61de7a567b24@example.com,Tajikistan,2021-01-14T02:31:34.543Z,unknown
+5025c53a-c36f-408e-8e7c-750025019bca,Alofi,6,84,5025c53a-c36f-408e-8e7c-750025019bca@example.com,Czech Republic,2021-01-07T02:17:17.108Z,unknown
+030c9462-084b-4742-b56c-5c251f909342,Lucknow,14,70,030c9462-084b-4742-b56c-5c251f909342@example.com,Niger,2021-01-05T20:54:40.987Z,tablet
+9fa5e614-146d-4ef8-af56-5da0c81e5350,Multan,11,38,9fa5e614-146d-4ef8-af56-5da0c81e5350@example.com,Indonesia,2021-01-05T10:45:22.954Z,unknown
+75353b45-5761-47d6-84f4-c71349490c79,Seville,11,39,75353b45-5761-47d6-84f4-c71349490c79@example.com,Equatorial Guinea,2021-01-11T23:45:20.322Z,desktop
+a50f4bd8-cce3-4da2-a6b6-8c03e74dcb27,Konya,14,68,a50f4bd8-cce3-4da2-a6b6-8c03e74dcb27@example.com,RWANDA,2021-01-10T04:41:43.388Z,unknown
+8e4bafd2-23cc-444d-8f1f-5a1c107c55cb,Bangalore,12,67,8e4bafd2-23cc-444d-8f1f-5a1c107c55cb@example.com,"Moldova, Republic of",2021-01-14T03:54:36.827Z,tablet
+7a6084a1-3254-40c3-997b-4bc45854ed9f,Kolkata,14,93,7a6084a1-3254-40c3-997b-4bc45854ed9f@example.com,Portugal,2021-01-01T00:40:11.576Z,desktop
+a015cd6c-105d-4baf-9ffe-6d27125dcbe7,Kandy,3,11,a015cd6c-105d-4baf-9ffe-6d27125dcbe7@example.com,Bouvet Island,2021-01-12T17:13:24.080Z,desktop
+7aeff226-75ec-4ed6-a4c4-22884cd721f1,Port Moresby,12,86,7aeff226-75ec-4ed6-a4c4-22884cd721f1@example.com,Central African Republic,2021-01-13T05:56:48.368Z,tablet
+f1dd7c37-68a5-4ff8-ab26-d05c1bfc2523,St. George's,13,88,f1dd7c37-68a5-4ff8-ab26-d05c1bfc2523@example.com,Tuvalu,2021-01-04T13:34:17.325Z,mobile
+f0a150f1-fb82-4dd0-8fcc-768c850c70dc,Sabha,14,17,f0a150f1-fb82-4dd0-8fcc-768c850c70dc@example.com,United Arab Emirates,2021-01-06T02:45:21.037Z,unknown
+09f5e87d-4dd7-4da0-a036-8d0ecb9571b0,Barcelona,1,75,09f5e87d-4dd7-4da0-a036-8d0ecb9571b0@example.com,Argentina,2021-01-02T02:52:32.973Z,tablet
+e4d3cd4e-384d-4707-ad94-9c4b5018bf9c,Curitiba,13,56,e4d3cd4e-384d-4707-ad94-9c4b5018bf9c@example.com,Libyan Arab Jamahiriya,2021-01-14T10:50:17.208Z,desktop
+f13a4c6b-1ce3-465f-be4a-8ddfb6e86c94,Atlanta,9,20,f13a4c6b-1ce3-465f-be4a-8ddfb6e86c94@example.com,Costa Rica,2021-01-13T18:37:36.681Z,mobile
+a3bcd711-b2bd-4f7b-8944-872d9befaac0,Abuja,2,2,a3bcd711-b2bd-4f7b-8944-872d9befaac0@example.com,Costa Rica,2021-01-11T20:51:11.508Z,desktop
+7fab8d97-e78c-41a3-808d-36dc957e9a96,St. Louis,12,22,7fab8d97-e78c-41a3-808d-36dc957e9a96@example.com,Holy See (Vatican City State),2021-01-10T11:28:15.747Z,unknown
+81763575-4a9e-40ee-8dd3-5842c11aae5e,Cairns,10,90,81763575-4a9e-40ee-8dd3-5842c11aae5e@example.com,Angola,2021-01-06T15:48:04.481Z,desktop
+4ace18bf-4272-4c65-a112-355ccc357450,Dibrugarh,9,112,4ace18bf-4272-4c65-a112-355ccc357450@example.com,Togo,2021-01-03T11:23:13.513Z,mobile
+0860fcf4-c6e6-44a4-96be-9c0ff164688d,Quebec City,10,95,0860fcf4-c6e6-44a4-96be-9c0ff164688d@example.com,Solomon Islands,2021-01-01T19:19:47.320Z,tablet
+fc99a202-05dc-4cbd-8da2-b53581ee2240,Barranquilla,9,43,fc99a202-05dc-4cbd-8da2-b53581ee2240@example.com,"Virgin Islands, British",2021-01-05T08:13:10.048Z,desktop
+5f90c079-66f3-4760-b2ee-61c932cc4faa,Kigali,11,34,5f90c079-66f3-4760-b2ee-61c932cc4faa@example.com,Finland,2021-01-08T05:47:37.728Z,desktop
+9f388372-350b-4f43-9d2d-f187049e6c64,Adak,8,11,9f388372-350b-4f43-9d2d-f187049e6c64@example.com,Somalia,2021-01-09T11:00:16.420Z,unknown
+58391843-aa88-42c8-b694-4662227cdb10,Huế,13,81,58391843-aa88-42c8-b694-4662227cdb10@example.com,Åland Islands,2021-01-12T04:08:16.362Z,mobile
+e34e8a43-1e6e-4381-86fb-af26c48c7bf1,Manaus,6,26,e34e8a43-1e6e-4381-86fb-af26c48c7bf1@example.com,Singapore,2021-01-06T01:32:47.427Z,desktop
+ad29da50-d615-4863-81f5-da1fe495e204,Chiang Mai,3,15,ad29da50-d615-4863-81f5-da1fe495e204@example.com,Monaco,2021-01-01T20:19:35.532Z,unknown
+0b58c159-eba3-431c-a999-c2b8efc0a714,Amsterdam,12,87,0b58c159-eba3-431c-a999-c2b8efc0a714@example.com,Burundi,2021-01-13T00:54:14.561Z,unknown
+5567c620-af30-4f7a-bc1a-825ee1875f39,Jayapura,12,89,5567c620-af30-4f7a-bc1a-825ee1875f39@example.com,United Kingdom,2021-01-08T16:10:15.076Z,tablet
+e306dfec-469c-485a-8fcd-fb5e1f2c75f6,Castries,7,46,e306dfec-469c-485a-8fcd-fb5e1f2c75f6@example.com,China,2021-01-09T02:03:48.320Z,desktop
+e61b67f2-99f2-49b2-8f1d-514edf2d4455,Mexico City,11,113,e61b67f2-99f2-49b2-8f1d-514edf2d4455@example.com,Austria,2021-01-11T16:12:46.966Z,mobile
+0f7da3ad-08b2-47d8-9bfc-8e79c357ebe3,Boston,1,43,0f7da3ad-08b2-47d8-9bfc-8e79c357ebe3@example.com,"Korea, Democratic People""S Republic of",2021-01-10T11:23:31.630Z,tablet
+da0e1de8-0af5-4090-97ea-f827665b0245,Philadelphia,14,82,da0e1de8-0af5-4090-97ea-f827665b0245@example.com,Venezuela,2021-01-13T19:40:02.116Z,desktop
+fe8d5aa1-6505-4874-9f24-1072a8c7a54b,South Tarawa,9,74,fe8d5aa1-6505-4874-9f24-1072a8c7a54b@example.com,Guadeloupe,2021-01-11T23:37:17.366Z,unknown
+f0e35ee8-8f14-444e-98c1-c18b3f22d00e,Kansas City,12,94,f0e35ee8-8f14-444e-98c1-c18b3f22d00e@example.com,Thailand,2021-01-13T20:44:16.336Z,desktop
+ff3b7ab3-7728-4921-be55-ab98e5d43340,Boston,9,93,ff3b7ab3-7728-4921-be55-ab98e5d43340@example.com,Netherlands,2021-01-01T14:39:29.367Z,unknown
+22c4a20e-2394-4fe3-968e-66846ffad1ed,Cannes,5,43,22c4a20e-2394-4fe3-968e-66846ffad1ed@example.com,"Virgin Islands, U.S.",2021-01-04T20:10:52.272Z,unknown
+640d94c1-a1b8-43f7-8ddc-0990cfddffc2,Nashville,2,70,640d94c1-a1b8-43f7-8ddc-0990cfddffc2@example.com,Bangladesh,2021-01-04T21:24:31.808Z,desktop
+2ba6fcbf-b153-4571-bcbb-26bea8820f41,Copenhagen,14,86,2ba6fcbf-b153-4571-bcbb-26bea8820f41@example.com,Christmas Island,2021-01-02T05:35:04.987Z,unknown
+da802ca7-915f-45ea-ac03-056c3e97eb90,Marrakech,3,61,da802ca7-915f-45ea-ac03-056c3e97eb90@example.com,Czech Republic,2021-01-11T05:09:03.959Z,tablet
+bccd7f8a-458f-41d8-92f9-bea9f759de6c,Gothenburg,7,104,bccd7f8a-458f-41d8-92f9-bea9f759de6c@example.com,Gabon,2021-01-06T15:30:24.689Z,unknown
+b29772a5-2081-48af-b9e7-02e234f3c297,Tampa,7,110,b29772a5-2081-48af-b9e7-02e234f3c297@example.com,"Virgin Islands, U.S.",2021-01-12T19:17:28.696Z,tablet
+82ca4b67-1a4c-4047-9669-d578953df477,Konya,15,49,82ca4b67-1a4c-4047-9669-d578953df477@example.com,French Polynesia,2021-01-07T21:05:52.908Z,mobile
+b96d6ea6-2012-48e1-b098-498fd0f07ade,Antananarivo,12,5,b96d6ea6-2012-48e1-b098-498fd0f07ade@example.com,Slovakia,2021-01-06T19:23:49.422Z,unknown
+f11f3943-55bc-43ff-b85f-b261530cd87c,Santiago,13,16,f11f3943-55bc-43ff-b85f-b261530cd87c@example.com,Georgia,2021-01-12T08:47:40.263Z,unknown
+0376a45c-4402-49dc-a286-122fa2b14c51,Phuket (city),1,67,0376a45c-4402-49dc-a286-122fa2b14c51@example.com,Puerto Rico,2021-01-08T14:38:10.281Z,desktop
+65aec98a-f57c-4843-934a-e60f3640cc5c,Valparaíso,15,29,65aec98a-f57c-4843-934a-e60f3640cc5c@example.com,Djibouti,2021-01-10T20:29:54.150Z,desktop
+f6b48863-93a6-4368-8e1e-7bd676c889dc,Nuuk,11,38,f6b48863-93a6-4368-8e1e-7bd676c889dc@example.com,France,2021-01-13T06:18:16.675Z,desktop
+27827ecd-6038-4f60-8474-9979c8ecefaf,Freetown,12,34,27827ecd-6038-4f60-8474-9979c8ecefaf@example.com,Japan,2021-01-13T23:59:28.905Z,desktop
+f0d9e515-6307-436a-8073-4cdf3e1ffb67,Suez,15,77,f0d9e515-6307-436a-8073-4cdf3e1ffb67@example.com,Bermuda,2021-01-08T18:42:12.546Z,mobile
+6e0b17ac-93d9-4d59-8d8e-0749bf75fece,Jayapura,3,109,6e0b17ac-93d9-4d59-8d8e-0749bf75fece@example.com,Guam,2021-01-04T16:39:55.917Z,mobile
+6498845c-ae45-46d0-b8b6-a08471211c6d,Phuket (city),2,102,6498845c-ae45-46d0-b8b6-a08471211c6d@example.com,Liberia,2021-01-07T00:48:12.486Z,unknown
+3f997e89-b19d-493b-959f-2ba87c0ca888,Riverside,15,19,3f997e89-b19d-493b-959f-2ba87c0ca888@example.com,Tonga,2021-01-09T04:01:29.196Z,unknown
+244ab65c-14ad-4740-903b-eb71c960d1cf,Philadelphia,5,7,244ab65c-14ad-4740-903b-eb71c960d1cf@example.com,Bolivia,2021-01-10T23:01:54.844Z,unknown
+3d83ef09-d3b9-4ecb-a315-358d5abc6367,Ashgabat,4,37,3d83ef09-d3b9-4ecb-a315-358d5abc6367@example.com,Guinea,2021-01-07T07:43:07.572Z,mobile
+6b882400-2b12-4be8-800a-e753c684b018,Surat Thani,14,42,6b882400-2b12-4be8-800a-e753c684b018@example.com,Ghana,2021-01-02T21:54:16.593Z,mobile
+33cf4762-1074-488d-9583-07f3f710f8fd,Edmonton,5,31,33cf4762-1074-488d-9583-07f3f710f8fd@example.com,Madagascar,2021-01-07T03:58:23.168Z,tablet
+9deeb4be-6af7-4b8b-9451-cbc8375d8c0e,Mexicali,13,50,9deeb4be-6af7-4b8b-9451-cbc8375d8c0e@example.com,France,2021-01-05T00:35:43.487Z,tablet
+45bc9c73-86d4-4be2-8f00-407988719741,Antwerp,9,90,45bc9c73-86d4-4be2-8f00-407988719741@example.com,Belgium,2021-01-14T02:55:27.794Z,mobile
+30eb16a8-4bd3-4fd5-b254-bd223f8e6c30,Surabaya,2,28,30eb16a8-4bd3-4fd5-b254-bd223f8e6c30@example.com,Djibouti,2021-01-10T12:49:24.412Z,unknown
+5a953f89-7041-4b75-a4fb-4561dba4ba5b,Hargeisa,10,13,5a953f89-7041-4b75-a4fb-4561dba4ba5b@example.com,Madagascar,2021-01-10T16:17:50.204Z,desktop
+e2fc49f9-5247-4159-b7d0-74369738eb6b,Providence,11,30,e2fc49f9-5247-4159-b7d0-74369738eb6b@example.com,Bolivia,2021-01-13T23:13:12.348Z,unknown
+c60472a9-147a-4adf-9cd3-20c42e4203ef,Cartagena,1,83,c60472a9-147a-4adf-9cd3-20c42e4203ef@example.com,Somalia,2021-01-06T08:38:14.175Z,desktop
+7b6a6d94-7ac9-40c4-ba6c-50ac42feb4be,Kansas City,1,60,7b6a6d94-7ac9-40c4-ba6c-50ac42feb4be@example.com,Bermuda,2021-01-11T17:16:00.568Z,desktop
+214772bc-c29d-458d-b4bd-ece77a994115,São José dos Campos,14,98,214772bc-c29d-458d-b4bd-ece77a994115@example.com,Latvia,2021-01-01T10:32:04.035Z,unknown
+57f2a580-8860-4e31-b5b4-c07221055ef6,Cockburn Town,5,41,57f2a580-8860-4e31-b5b4-c07221055ef6@example.com,Portugal,2021-01-05T21:04:13.665Z,unknown
+00b944ae-aedd-4098-8645-dcddf8928860,Havana,11,112,00b944ae-aedd-4098-8645-dcddf8928860@example.com,Tuvalu,2021-01-05T23:18:16.577Z,unknown
+5911ab1d-08bc-4bdc-98cd-6b8601314274,Pago Pago,4,107,5911ab1d-08bc-4bdc-98cd-6b8601314274@example.com,Oman,2021-01-12T06:36:37.137Z,mobile
+8eea4ba6-c18d-4b94-9882-f082ad7067a0,Mogadishu,5,89,8eea4ba6-c18d-4b94-9882-f082ad7067a0@example.com,Saudi Arabia,2021-01-12T00:26:09.654Z,mobile
+322ba99e-0a83-4a8f-add4-77281e4aeeb6,Minneapolis,8,36,322ba99e-0a83-4a8f-add4-77281e4aeeb6@example.com,Finland,2021-01-10T19:40:24.184Z,desktop
+20b4382a-0db6-4e2c-9aaa-616ffe7e54a0,Assis,1,67,20b4382a-0db6-4e2c-9aaa-616ffe7e54a0@example.com,Benin,2021-01-10T13:25:15.922Z,mobile
+aa1944be-72eb-4378-aa60-9d99c316d8bd,Yaren District,6,108,aa1944be-72eb-4378-aa60-9d99c316d8bd@example.com,Guinea-Bissau,2021-01-02T17:25:14.276Z,tablet
+acd9548a-53aa-4f54-ab5d-a51db6560ee0,Rotterdam,5,6,acd9548a-53aa-4f54-ab5d-a51db6560ee0@example.com,Ukraine,2021-01-08T07:05:44.651Z,unknown
+a4f696f8-0029-41e3-84eb-3f88fb1e5a3f,Birmingham,14,35,a4f696f8-0029-41e3-84eb-3f88fb1e5a3f@example.com,India,2021-01-06T07:18:49.374Z,tablet
+30d63704-1373-4917-b0cb-fa85ef733392,Antofagasta,15,59,30d63704-1373-4917-b0cb-fa85ef733392@example.com,Togo,2021-01-07T17:10:20.332Z,desktop
+f1bfd73f-d0ba-44c5-84de-2d368003dc8e,Mexico City,13,84,f1bfd73f-d0ba-44c5-84de-2d368003dc8e@example.com,Togo,2021-01-14T11:40:44.647Z,desktop
+45aef7b3-7aee-41c5-8bdf-a0d8d0eea68a,Mwanza,7,85,45aef7b3-7aee-41c5-8bdf-a0d8d0eea68a@example.com,Nepal,2021-01-07T17:20:15.981Z,desktop
+1f0cd1df-d42b-4907-91b7-2df9b8cca5ea,Chengdu,13,116,1f0cd1df-d42b-4907-91b7-2df9b8cca5ea@example.com,Kiribati,2021-01-12T16:45:49.291Z,desktop
+005aaff1-aac9-4001-93dd-4b69b97db487,Suez,15,44,005aaff1-aac9-4001-93dd-4b69b97db487@example.com,Liberia,2021-01-03T07:29:07.111Z,desktop
+8e9e101f-9558-48d1-9b3e-2c21ced8c746,Nouakchott,1,52,8e9e101f-9558-48d1-9b3e-2c21ced8c746@example.com,Niger,2021-01-06T23:52:10.352Z,desktop
+ae4e4096-d626-4350-9487-086552fc8a06,Lisbon,9,55,ae4e4096-d626-4350-9487-086552fc8a06@example.com,El Salvador,2021-01-01T01:02:36.021Z,unknown
+b5af8820-f88e-407d-be51-bcdbd4a3ec6b,Puerto Williams,13,99,b5af8820-f88e-407d-be51-bcdbd4a3ec6b@example.com,Mongolia,2021-01-10T11:26:35.780Z,mobile
+58fae7f2-76a0-4192-a103-26b9f964ef71,Ottawa,3,28,58fae7f2-76a0-4192-a103-26b9f964ef71@example.com,Mozambique,2021-01-12T14:24:50.255Z,desktop
+2c69d262-554f-4bc4-96b4-c5332553964d,Durban,3,64,2c69d262-554f-4bc4-96b4-c5332553964d@example.com,Gabon,2021-01-07T21:07:26.205Z,desktop
+f5208af7-cee2-491d-bcb3-bfd82fd8327d,Gold Coast,8,1,f5208af7-cee2-491d-bcb3-bfd82fd8327d@example.com,"Lao People""S Democratic Republic",2021-01-14T13:29:10.354Z,unknown
+e36e4c52-c703-4aa0-9a9a-a93145f8ca10,Liverpool,5,105,e36e4c52-c703-4aa0-9a9a-a93145f8ca10@example.com,"Moldova, Republic of",2021-01-09T20:26:26.308Z,mobile
+3cec06dd-8546-47f3-a2ee-025d3502de2a,Sacramento,14,44,3cec06dd-8546-47f3-a2ee-025d3502de2a@example.com,Grenada,2021-01-10T05:25:37.709Z,unknown
+55ce71e8-6919-4e98-9cb9-e37b8faa033f,Vatican City,1,96,55ce71e8-6919-4e98-9cb9-e37b8faa033f@example.com,Saint Lucia,2021-01-09T18:12:48.918Z,unknown
+fe05a7d5-77eb-4c54-be68-e5a4fee2e966,Tskhinvali,14,65,fe05a7d5-77eb-4c54-be68-e5a4fee2e966@example.com,Ecuador,2021-01-07T02:04:29.247Z,desktop
+d1faaac8-a12e-4061-8a59-294a1e726048,Medina,5,66,d1faaac8-a12e-4061-8a59-294a1e726048@example.com,Botswana,2021-01-01T10:27:05.164Z,mobile
+5d017aed-3c32-48e9-b228-a52b6cb39130,Cali,2,31,5d017aed-3c32-48e9-b228-a52b6cb39130@example.com,Hong Kong,2021-01-11T11:45:48.691Z,unknown
+5bacbefc-3c00-42a0-9e44-3d17355925bf,Apia,12,58,5bacbefc-3c00-42a0-9e44-3d17355925bf@example.com,Estonia,2021-01-05T17:17:06.531Z,desktop
+96a8e3a5-fe59-402a-a47c-22fa6b8fcab2,Baku,14,7,96a8e3a5-fe59-402a-a47c-22fa6b8fcab2@example.com,Aruba,2021-01-08T14:39:22.376Z,desktop
+65af861f-3e0f-4768-b660-0941c96aa55c,Rockhampton,1,13,65af861f-3e0f-4768-b660-0941c96aa55c@example.com,Poland,2021-01-03T15:00:19.488Z,tablet
+bf932a67-597b-4413-9935-3abe4f157ff1,Melbourne,15,100,bf932a67-597b-4413-9935-3abe4f157ff1@example.com,Estonia,2021-01-04T10:35:59.269Z,unknown
+b13a9193-1086-4c7e-a9aa-b261be10e7a7,Kawasaki,2,22,b13a9193-1086-4c7e-a9aa-b261be10e7a7@example.com,Haiti,2021-01-02T02:04:16.899Z,desktop
+3333ebbe-8515-45c2-918f-1797f39f4ca5,Chennai,13,22,3333ebbe-8515-45c2-918f-1797f39f4ca5@example.com,Greenland,2021-01-06T06:01:52.060Z,tablet
+c0c130e2-7872-4432-a58b-36af2076baff,Maputo,8,2,c0c130e2-7872-4432-a58b-36af2076baff@example.com,Zimbabwe,2021-01-10T17:19:44.089Z,desktop
+29d5abeb-a15e-4e36-9b46-a506f0d17fe9,Gibraltar,11,74,29d5abeb-a15e-4e36-9b46-a506f0d17fe9@example.com,Guatemala,2021-01-12T09:34:38.745Z,mobile
+e44879ea-7bd2-427a-b0dc-4b9598b73357,Livingstone,12,52,e44879ea-7bd2-427a-b0dc-4b9598b73357@example.com,Slovenia,2021-01-03T11:24:31.852Z,mobile
+63c12a4f-eac5-4741-9b4c-a5e0eb6bd6b2,Budapest,2,25,63c12a4f-eac5-4741-9b4c-a5e0eb6bd6b2@example.com,Benin,2021-01-07T10:35:23.986Z,unknown
+ed3f44b6-629c-4483-8120-936d99de71dc,Toronto,14,108,ed3f44b6-629c-4483-8120-936d99de71dc@example.com,Philippines,2021-01-11T02:41:43.478Z,tablet
+aa05c6da-5957-456b-acc5-11292252ca5a,Yaren District,9,90,aa05c6da-5957-456b-acc5-11292252ca5a@example.com,"Lao People""S Democratic Republic",2021-01-06T16:05:18.397Z,desktop
+b39b1f50-6902-45ed-bf8b-b6ea4afc71c5,Wuhan,14,40,b39b1f50-6902-45ed-bf8b-b6ea4afc71c5@example.com,Argentina,2021-01-02T23:18:39.747Z,desktop
+87757fe1-f3cb-41c2-b8f3-c7f1257846f1,Tianjin,8,17,87757fe1-f3cb-41c2-b8f3-c7f1257846f1@example.com,Northern Mariana Islands,2021-01-03T11:20:57.055Z,unknown
+693b4cfc-21a6-4316-8416-7bdd8a043c5e,La Serena,8,44,693b4cfc-21a6-4316-8416-7bdd8a043c5e@example.com,Monaco,2021-01-06T00:06:04.007Z,desktop
+8538a5e4-a86f-461b-b0f0-1b5615dc3e4f,Davao City,6,120,8538a5e4-a86f-461b-b0f0-1b5615dc3e4f@example.com,Northern Mariana Islands,2021-01-13T01:34:28.981Z,mobile
+241e6081-48b3-4d9f-b6bc-e59b3228f2a5,Prague,13,116,241e6081-48b3-4d9f-b6bc-e59b3228f2a5@example.com,Uganda,2021-01-01T19:58:00.675Z,tablet
+6a56ad50-22d7-4ad9-8f16-2c1482bd6e45,Bamako,13,117,6a56ad50-22d7-4ad9-8f16-2c1482bd6e45@example.com,Aruba,2021-01-08T08:16:22.278Z,mobile
+4c630235-0251-4e51-8d66-ab6604cbf48c,Jamestown,14,35,4c630235-0251-4e51-8d66-ab6604cbf48c@example.com,Guernsey,2021-01-02T14:17:23.989Z,tablet
+99ecbfe8-79d0-4ced-9f0c-3164b08ee091,Salzburg,14,78,99ecbfe8-79d0-4ced-9f0c-3164b08ee091@example.com,Suriname,2021-01-06T04:09:00.215Z,mobile
+985ffa11-0f1f-4711-ad7a-4f8cec6f9a1e,Albuquerque,8,38,985ffa11-0f1f-4711-ad7a-4f8cec6f9a1e@example.com,RWANDA,2021-01-01T17:57:00.288Z,desktop
+1a16bdc8-a7f5-43c0-ad03-7c75a4d14ec9,Fort-de-France,8,9,1a16bdc8-a7f5-43c0-ad03-7c75a4d14ec9@example.com,Iceland,2021-01-10T19:31:27.933Z,mobile
+01cd6cf9-8e9b-4c19-b285-996c1380f049,Saint-Denis,15,120,01cd6cf9-8e9b-4c19-b285-996c1380f049@example.com,Burkina Faso,2021-01-09T02:49:05.646Z,unknown
+e7aa1f95-9fa7-4534-9536-e8a361ad951c,Srinagar,2,98,e7aa1f95-9fa7-4534-9536-e8a361ad951c@example.com,Costa Rica,2021-01-07T14:02:17.253Z,desktop
+c6cb482e-0c00-4195-a5e9-dc265c92bf12,Konya,4,77,c6cb482e-0c00-4195-a5e9-dc265c92bf12@example.com,Cyprus,2021-01-03T00:46:12.246Z,mobile
+0bf68a49-bb7e-4eae-8cb3-f1e5e2d845df,Amsterdam,9,14,0bf68a49-bb7e-4eae-8cb3-f1e5e2d845df@example.com,Czech Republic,2021-01-14T10:40:37.092Z,unknown
+e0dbca90-5c77-40cc-bc17-20678fc78c4d,Yaoundé,13,42,e0dbca90-5c77-40cc-bc17-20678fc78c4d@example.com,San Marino,2021-01-11T08:25:38.110Z,desktop
+c2d714e9-1a7d-4989-9691-7799cdde6dd9,Labasa,9,105,c2d714e9-1a7d-4989-9691-7799cdde6dd9@example.com,Thailand,2021-01-05T01:04:06.489Z,desktop
+78f8b604-8527-4393-9379-dd6b18e32832,Yamoussoukro,7,114,78f8b604-8527-4393-9379-dd6b18e32832@example.com,Botswana,2021-01-05T12:40:38.739Z,unknown
+2b666fba-abbc-4fcb-af9d-bff08fd01cbe,Vientiane,13,53,2b666fba-abbc-4fcb-af9d-bff08fd01cbe@example.com,Equatorial Guinea,2021-01-08T19:25:17.009Z,desktop
+bebe2c93-e125-48ec-bb07-5208dca412f7,Copenhagen,14,112,bebe2c93-e125-48ec-bb07-5208dca412f7@example.com,Bermuda,2021-01-07T16:17:06.075Z,mobile
+1cf078e3-d169-43bf-93a1-dab72ec8e29c,Campinas,6,42,1cf078e3-d169-43bf-93a1-dab72ec8e29c@example.com,Montserrat,2021-01-11T13:20:17.995Z,mobile
+489526ef-d07c-44b0-ad3d-0910bcdc1798,Abidjan,5,9,489526ef-d07c-44b0-ad3d-0910bcdc1798@example.com,Bhutan,2021-01-12T04:24:33.512Z,unknown
+fc0585ce-90a0-4201-9035-705c50cf624f,Sabha,1,16,fc0585ce-90a0-4201-9035-705c50cf624f@example.com,Norway,2021-01-07T09:16:48.268Z,mobile
+d6d32741-e369-4517-b742-8eccbed05449,Banjul,14,47,d6d32741-e369-4517-b742-8eccbed05449@example.com,Brazil,2021-01-09T19:49:19.753Z,mobile
+7e641bab-0388-4037-ad55-8eaa34aac582,Huế,2,107,7e641bab-0388-4037-ad55-8eaa34aac582@example.com,Switzerland,2021-01-01T11:12:17.959Z,unknown
+97a46543-284b-4c09-979b-cfa721e6e00c,Longyearbyen,14,36,97a46543-284b-4c09-979b-cfa721e6e00c@example.com,Bahrain,2021-01-09T01:36:58.423Z,unknown
+bf73da80-86ec-4ba7-9fd8-bc4f4650ed24,Faisalabad,4,69,bf73da80-86ec-4ba7-9fd8-bc4f4650ed24@example.com,Congo,2021-01-13T01:20:40.077Z,desktop
+c7593577-61e8-4ddd-9057-111183449127,Bandar Seri Begawan,2,70,c7593577-61e8-4ddd-9057-111183449127@example.com,Ghana,2021-01-09T08:55:52.945Z,unknown
+cd523677-ac5a-4cbc-ab66-1680971b470a,Port Hedland,12,96,cd523677-ac5a-4cbc-ab66-1680971b470a@example.com,Kenya,2021-01-01T00:33:08.100Z,mobile
+3a4d63c2-7bb3-4e8e-bc49-bdd78c6e8796,Chennai,13,2,3a4d63c2-7bb3-4e8e-bc49-bdd78c6e8796@example.com,Guadeloupe,2021-01-10T15:52:08.180Z,mobile
+48757956-285a-4f25-a1d3-e60f7fdb636c,Cape Town,1,87,48757956-285a-4f25-a1d3-e60f7fdb636c@example.com,Saint Kitts and Nevis,2021-01-03T11:30:44.265Z,mobile
+5e557ba8-4900-432e-b4b1-2dfe02810d56,Nanjing,1,49,5e557ba8-4900-432e-b4b1-2dfe02810d56@example.com,Namibia,2021-01-04T12:53:53.367Z,unknown
+377e777b-da0e-4853-ae69-5818c3b60a28,Leeds,10,30,377e777b-da0e-4853-ae69-5818c3b60a28@example.com,Spain,2021-01-05T06:02:39.940Z,unknown
+ff407c37-f0fe-4206-8f2e-f60a24cdabf8,Birmingham,3,42,ff407c37-f0fe-4206-8f2e-f60a24cdabf8@example.com,Oman,2021-01-01T15:47:40.028Z,mobile
+ac9d5dec-1dc5-459e-ab63-52f7da421eaf,Mexicali,4,16,ac9d5dec-1dc5-459e-ab63-52f7da421eaf@example.com,Thailand,2021-01-11T10:02:56.043Z,desktop
+09d0e17f-016f-4836-afd3-bd278ab85a9e,Busan,1,50,09d0e17f-016f-4836-afd3-bd278ab85a9e@example.com,Serbia and Montenegro,2021-01-10T16:50:05.407Z,desktop
+8879cd0d-b252-4a69-b359-0c73ea2c4ecb,Pekanbaru,7,120,8879cd0d-b252-4a69-b359-0c73ea2c4ecb@example.com,French Polynesia,2021-01-09T01:48:20.038Z,mobile
+13130432-7289-4b1a-bc69-9d1262929e0b,San Francisco,4,54,13130432-7289-4b1a-bc69-9d1262929e0b@example.com,Maldives,2021-01-08T11:07:09.630Z,desktop
+762c3a2a-b74c-4c41-8778-28e60a0af111,Budapest,8,53,762c3a2a-b74c-4c41-8778-28e60a0af111@example.com,Martinique,2021-01-12T13:11:38.202Z,unknown
+c6e4c4c9-567f-4114-9f63-a74b4fcc303b,Harare,9,89,c6e4c4c9-567f-4114-9f63-a74b4fcc303b@example.com,Niue,2021-01-13T20:34:57.673Z,desktop
+7cf89bd8-c838-4d6f-bdc3-537e635ec44b,Jayapura,15,50,7cf89bd8-c838-4d6f-bdc3-537e635ec44b@example.com,Ecuador,2021-01-12T23:23:28.990Z,desktop
+7e6c0a5c-aa6f-43c2-8bfb-2bc43761cea5,Adelaide,6,70,7e6c0a5c-aa6f-43c2-8bfb-2bc43761cea5@example.com,Azerbaijan,2021-01-14T02:00:14.979Z,tablet
+536daa02-e68a-4d58-b7a8-a0fe21618f2b,Bratsk,12,50,536daa02-e68a-4d58-b7a8-a0fe21618f2b@example.com,Uruguay,2021-01-01T06:54:26.640Z,unknown
+d2479834-9a93-4f42-b866-7cd0e519c97c,Abuja,14,29,d2479834-9a93-4f42-b866-7cd0e519c97c@example.com,Costa Rica,2021-01-05T02:52:40.103Z,mobile
+06bd98cb-377a-47d8-94e2-c515823e87cd,Gold Coast,5,39,06bd98cb-377a-47d8-94e2-c515823e87cd@example.com,Japan,2021-01-12T14:14:41.134Z,unknown
+4c0042ff-3883-441b-8044-b20ef7a28381,Angra do Heroísmo,4,31,4c0042ff-3883-441b-8044-b20ef7a28381@example.com,Barbados,2021-01-10T18:43:01.152Z,tablet
+fb9588e9-da84-4dd3-8161-85f482748b7c,Edinburgh,11,52,fb9588e9-da84-4dd3-8161-85f482748b7c@example.com,Botswana,2021-01-08T23:17:32.536Z,unknown
+aa305b0e-14b7-4d86-a0b2-3d643283cb46,Mexico City,13,43,aa305b0e-14b7-4d86-a0b2-3d643283cb46@example.com,Cambodia,2021-01-06T11:04:19.082Z,desktop
+6f349e53-0173-4332-b776-b13c6963dad5,Mérida,9,117,6f349e53-0173-4332-b776-b13c6963dad5@example.com,Canada,2021-01-06T19:00:54.393Z,desktop
+128d9034-f729-40f6-8f95-461c7fa25d3b,Milan,14,24,128d9034-f729-40f6-8f95-461c7fa25d3b@example.com,Ethiopia,2021-01-04T17:23:46.459Z,mobile
+1dba281f-4f09-4645-84cb-8a71beadc2b0,Dili,15,89,1dba281f-4f09-4645-84cb-8a71beadc2b0@example.com,Antigua and Barbuda,2021-01-13T20:35:52.613Z,tablet
+a730b82d-1f1b-4314-8414-8b73a0300527,Dededo,12,33,a730b82d-1f1b-4314-8414-8b73a0300527@example.com,Bermuda,2021-01-14T21:17:43.756Z,unknown
+b57a9d5d-32fa-4248-9da3-815b04588b56,Antwerp,10,82,b57a9d5d-32fa-4248-9da3-815b04588b56@example.com,Bermuda,2021-01-12T06:32:25.549Z,tablet
+e27a4a6e-66bb-432c-a9be-a6e438657746,Douglas,7,45,e27a4a6e-66bb-432c-a9be-a6e438657746@example.com,Romania,2021-01-12T07:14:04.574Z,tablet
+8a1f1734-3c02-49dd-aedc-c5577b10ab68,Virginia Beach,14,59,8a1f1734-3c02-49dd-aedc-c5577b10ab68@example.com,Zimbabwe,2021-01-04T07:43:37.643Z,mobile
+0cc4a828-1818-475b-965b-32b37b288458,Newcastle,3,116,0cc4a828-1818-475b-965b-32b37b288458@example.com,Eritrea,2021-01-05T17:00:06.610Z,desktop
+6851d410-3101-4a1c-8ccd-80dde137f1ed,Dhaka,11,23,6851d410-3101-4a1c-8ccd-80dde137f1ed@example.com,Grenada,2021-01-07T06:32:09.162Z,mobile
+cbe956e9-880c-493c-b135-2d67330c3a20,Islamabad,13,68,cbe956e9-880c-493c-b135-2d67330c3a20@example.com,Faroe Islands,2021-01-02T11:24:18.264Z,unknown
+b00b0905-166b-4830-badc-fe90f3fa14ea,Baltimore,8,87,b00b0905-166b-4830-badc-fe90f3fa14ea@example.com,Guatemala,2021-01-03T10:26:36.047Z,desktop
+efa5b9c5-85b8-4025-8b32-a667a06ebcc7,Johannesburg,11,13,efa5b9c5-85b8-4025-8b32-a667a06ebcc7@example.com,Ukraine,2021-01-10T23:36:17.316Z,tablet
+b70ed738-9af8-4c1f-a613-385ec8af12aa,Damascus,7,72,b70ed738-9af8-4c1f-a613-385ec8af12aa@example.com,Nauru,2021-01-05T10:33:42.585Z,desktop
+3b3c5a37-e464-4ba6-b6e3-575c04a3767c,Hobart,13,27,3b3c5a37-e464-4ba6-b6e3-575c04a3767c@example.com,Brunei Darussalam,2021-01-01T09:00:24.473Z,tablet
+8e01cda7-6671-47e9-89cc-106946c93ff3,Barranquilla,2,15,8e01cda7-6671-47e9-89cc-106946c93ff3@example.com,Belarus,2021-01-11T22:36:00.542Z,desktop
+d266dc9f-a4d2-491a-95af-1220286eafa1,Avarua,3,53,d266dc9f-a4d2-491a-95af-1220286eafa1@example.com,"Taiwan, Province of China",2021-01-13T18:27:42.944Z,unknown
+c93db2f7-065e-4336-b180-7e10fd58f45f,Cebu City,1,62,c93db2f7-065e-4336-b180-7e10fd58f45f@example.com,Pitcairn,2021-01-02T01:58:02.676Z,tablet
+2fc0a447-046a-4181-ab45-0b475ddb113d,Harbin,8,31,2fc0a447-046a-4181-ab45-0b475ddb113d@example.com,Croatia,2021-01-01T03:16:48.959Z,mobile
+3e64bb57-f8a6-4d58-8ae8-4a75dfc33aae,Cusco,11,15,3e64bb57-f8a6-4d58-8ae8-4a75dfc33aae@example.com,"Congo, The Democratic Republic of the",2021-01-02T05:23:26.729Z,mobile
+5eb66ea5-1825-4659-ad80-9dad729967b0,Bergen,1,13,5eb66ea5-1825-4659-ad80-9dad729967b0@example.com,Cocos (Keeling) Islands,2021-01-01T10:46:28.335Z,desktop
+c1ee7df8-bedc-4270-b90e-cc8416316943,Bursa,13,23,c1ee7df8-bedc-4270-b90e-cc8416316943@example.com,Norfolk Island,2021-01-11T15:17:29.995Z,unknown
+37826e41-2bc1-46b8-b2a8-4ff70ba0bc6f,Denver,8,35,37826e41-2bc1-46b8-b2a8-4ff70ba0bc6f@example.com,South Africa,2021-01-14T09:49:52.236Z,mobile
+c2be184a-552c-4455-b1cd-28cd81b3b3ce,Pune,2,52,c2be184a-552c-4455-b1cd-28cd81b3b3ce@example.com,Malta,2021-01-03T02:12:03.196Z,desktop
+e5d640f3-c11d-4c7d-bae9-0b061eb68363,Valletta,8,56,e5d640f3-c11d-4c7d-bae9-0b061eb68363@example.com,Yemen,2021-01-10T07:12:08.504Z,desktop
+11ac4a6e-8649-403f-87d6-2e77874e6eba,Freetown,8,52,11ac4a6e-8649-403f-87d6-2e77874e6eba@example.com,Bahamas,2021-01-08T16:28:57.945Z,unknown
+373cb19c-1988-4df6-ac48-95df4bf57950,Kanpur,4,64,373cb19c-1988-4df6-ac48-95df4bf57950@example.com,Honduras,2021-01-14T13:33:05.159Z,unknown
+4b8fdbbb-5993-4665-91ec-be1ed7a8e6cf,Mogadishu,7,34,4b8fdbbb-5993-4665-91ec-be1ed7a8e6cf@example.com,Viet Nam,2021-01-01T21:44:20.989Z,mobile
+4425d0af-310b-4362-baa6-07f879bda451,Split (city),11,48,4425d0af-310b-4362-baa6-07f879bda451@example.com,Iceland,2021-01-08T19:55:21.281Z,tablet
+c4e2bbbc-82d6-41c1-a2b0-cd2529e5016b,Udon Thani,2,65,c4e2bbbc-82d6-41c1-a2b0-cd2529e5016b@example.com,Solomon Islands,2021-01-01T01:02:19.443Z,mobile
+fc66c2f1-e484-4ab9-9c04-88d3f35f2a32,Nukuʻalofa,14,88,fc66c2f1-e484-4ab9-9c04-88d3f35f2a32@example.com,Maldives,2021-01-10T05:58:02.755Z,mobile
+68cafddc-49e5-40b6-926f-aa385e206324,Kaliningrad,4,34,68cafddc-49e5-40b6-926f-aa385e206324@example.com,Singapore,2021-01-05T02:25:25.379Z,desktop
+e72824be-fc9e-42cf-87e6-d924feb640f5,Ponta Delgada,6,25,e72824be-fc9e-42cf-87e6-d924feb640f5@example.com,Timor-Leste,2021-01-14T16:26:12.202Z,tablet
+3b6b6ec4-4a01-4c4f-a32e-b36c4687102f,Kunming,5,79,3b6b6ec4-4a01-4c4f-a32e-b36c4687102f@example.com,"Taiwan, Province of China",2021-01-10T03:46:12.495Z,desktop
+f18b5f11-95c3-4a97-8725-ce82b13af4bb,Novosibirsk,13,98,f18b5f11-95c3-4a97-8725-ce82b13af4bb@example.com,Germany,2021-01-06T09:49:23.569Z,unknown
+ca1293ab-ac0d-4b01-b01c-beda83b19058,Dededo,14,46,ca1293ab-ac0d-4b01-b01c-beda83b19058@example.com,El Salvador,2021-01-07T03:22:22.958Z,unknown
+ffa808a2-234e-4659-806d-20dc579b2c41,Edinburgh,10,59,ffa808a2-234e-4659-806d-20dc579b2c41@example.com,Ghana,2021-01-02T07:04:03.640Z,unknown
+8dac5bb0-0795-42d8-b935-62cba7b1d93c,Tirana,8,23,8dac5bb0-0795-42d8-b935-62cba7b1d93c@example.com,Uzbekistan,2021-01-02T12:45:32.229Z,unknown
+6cdc5874-da8b-440d-9060-fa6d4b1357c6,Copenhagen,15,51,6cdc5874-da8b-440d-9060-fa6d4b1357c6@example.com,Angola,2021-01-13T03:49:26.565Z,tablet
+a8f58eb2-0a70-4dbe-8bb4-5eaef84ef171,Belmopan,9,75,a8f58eb2-0a70-4dbe-8bb4-5eaef84ef171@example.com,Tuvalu,2021-01-09T03:35:53.599Z,tablet
+cee562e3-ebb5-4e9a-89d5-06fcfc53dd0f,Kota Kinabalu,3,2,cee562e3-ebb5-4e9a-89d5-06fcfc53dd0f@example.com,Yemen,2021-01-06T00:04:21.266Z,mobile
+230d16f2-e32d-48fd-ae37-62e6d0a77dda,Kraków,8,71,230d16f2-e32d-48fd-ae37-62e6d0a77dda@example.com,Argentina,2021-01-02T22:05:47.414Z,mobile
+d6f7b03e-229c-4a36-b90b-bbf28ac09e62,Auckland,11,35,d6f7b03e-229c-4a36-b90b-bbf28ac09e62@example.com,Faroe Islands,2021-01-09T10:22:13.967Z,desktop
+b6625991-8b7d-4f77-8066-917947722116,Guwahati,14,35,b6625991-8b7d-4f77-8066-917947722116@example.com,Suriname,2021-01-13T08:18:21.949Z,tablet
+da686e6a-660f-46b4-88a4-4827e5c2e4ad,Pelotas,13,6,da686e6a-660f-46b4-88a4-4827e5c2e4ad@example.com,Poland,2021-01-03T00:12:14.829Z,mobile
+d5f48b94-0cdc-4834-9613-d9222a002a71,Christchurch,5,79,d5f48b94-0cdc-4834-9613-d9222a002a71@example.com,Argentina,2021-01-06T18:39:46.641Z,mobile
+bda5298e-778c-44a1-8fb3-0002f6adfe6b,Geelong,13,98,bda5298e-778c-44a1-8fb3-0002f6adfe6b@example.com,Netherlands,2021-01-08T23:03:39.862Z,mobile
+6a5b21f1-368f-4739-a8cc-fa4bed5512e3,Perth,8,62,6a5b21f1-368f-4739-a8cc-fa4bed5512e3@example.com,Cyprus,2021-01-03T21:47:52.898Z,mobile
+7f36f2f8-6b0c-43ed-9814-71f3b5b84749,Vilnius,11,1,7f36f2f8-6b0c-43ed-9814-71f3b5b84749@example.com,Somalia,2021-01-05T08:10:35.883Z,desktop
+eb613898-d6bd-45a9-a573-d7bfc563b3ef,Canberra,1,65,eb613898-d6bd-45a9-a573-d7bfc563b3ef@example.com,Greece,2021-01-12T13:04:55.291Z,mobile
+0f21ca38-4b33-4a1a-95c3-64b50f415862,Milan,6,103,0f21ca38-4b33-4a1a-95c3-64b50f415862@example.com,Antarctica,2021-01-08T05:58:49.558Z,mobile
+5c0c5e01-8934-4906-8872-dd814e3e2802,Horta (Azores),8,74,5c0c5e01-8934-4906-8872-dd814e3e2802@example.com,Burundi,2021-01-03T09:34:42.461Z,desktop
+bb986946-709c-49ee-a51f-e33672d5b111,Dakar,6,51,bb986946-709c-49ee-a51f-e33672d5b111@example.com,United States,2021-01-08T17:42:38.181Z,mobile
+731ca448-4b55-49f6-8162-5b319ef6f518,Omsk,14,93,731ca448-4b55-49f6-8162-5b319ef6f518@example.com,Cayman Islands,2021-01-04T11:16:20.837Z,desktop
+a0bb6256-4227-4bad-ae40-07f795e28670,Udon Thani,5,38,a0bb6256-4227-4bad-ae40-07f795e28670@example.com,Haiti,2021-01-14T15:38:01.578Z,desktop
+0229c958-72ee-44a1-b0bd-e304bdd3221b,Hong Kong,5,97,0229c958-72ee-44a1-b0bd-e304bdd3221b@example.com,South Georgia and the South Sandwich Islands,2021-01-07T18:30:28.132Z,mobile
+69e02040-334a-4f7b-a2f0-73ed75fe1b3a,Phnom Penh,13,48,69e02040-334a-4f7b-a2f0-73ed75fe1b3a@example.com,Turkey,2021-01-12T17:27:47.203Z,desktop
+2abb8a78-eaad-433c-827d-b11921d26ded,Perm,11,86,2abb8a78-eaad-433c-827d-b11921d26ded@example.com,Japan,2021-01-11T13:16:28.466Z,mobile
+172253ae-e610-4d94-8b0e-87fef6e18f96,Alofi,1,71,172253ae-e610-4d94-8b0e-87fef6e18f96@example.com,"Macedonia, The Former Yugoslav Republic of",2021-01-01T07:19:29.944Z,desktop
+552e1df2-697e-431f-a7ce-5e9d0d9bc70e,Harare,15,81,552e1df2-697e-431f-a7ce-5e9d0d9bc70e@example.com,Zambia,2021-01-07T14:21:04.433Z,desktop
+7191a896-9be2-4ef9-97e5-0bc4422b372f,Horta (Azores),5,90,7191a896-9be2-4ef9-97e5-0bc4422b372f@example.com,United States,2021-01-08T00:32:53.321Z,mobile
+43849695-edb5-4e70-ae74-1c28ad342391,Pretoria,2,25,43849695-edb5-4e70-ae74-1c28ad342391@example.com,Greece,2021-01-09T12:27:34.392Z,mobile
+4fd35122-d12f-40a0-a2e0-e91d2e474043,Bandar Seri Begawan,2,101,4fd35122-d12f-40a0-a2e0-e91d2e474043@example.com,Philippines,2021-01-14T18:00:25.403Z,unknown
+f526b0b5-72ce-4f8d-974f-b1b172d4abc4,Vitória,4,79,f526b0b5-72ce-4f8d-974f-b1b172d4abc4@example.com,Netherlands,2021-01-03T23:53:19.328Z,desktop
+1721173d-0df1-4ea3-a51c-45189bfb9dd8,Adelaide,14,30,1721173d-0df1-4ea3-a51c-45189bfb9dd8@example.com,"Cote D""Ivoire",2021-01-13T17:04:05.853Z,tablet
+bda7dd00-9331-407d-90fa-565c8c0696a8,Harare,7,38,bda7dd00-9331-407d-90fa-565c8c0696a8@example.com,AndorrA,2021-01-11T12:45:58.062Z,mobile
+7714a8c1-30bb-4181-9b7d-3c8a0a86a64d,Lagos,14,20,7714a8c1-30bb-4181-9b7d-3c8a0a86a64d@example.com,"Taiwan, Province of China",2021-01-14T09:01:11.369Z,mobile
+29009c7b-dc35-451c-bf2e-969c3a864687,Bangui,10,94,29009c7b-dc35-451c-bf2e-969c3a864687@example.com,Samoa,2021-01-01T09:39:09.777Z,unknown
+5368e86d-5a45-40d8-acf8-9c075c349a2b,Porto Alegre,1,93,5368e86d-5a45-40d8-acf8-9c075c349a2b@example.com,Benin,2021-01-03T15:43:57.607Z,mobile
+61fbefb8-3567-4469-ab45-3d78df674cc2,Valdivia,15,61,61fbefb8-3567-4469-ab45-3d78df674cc2@example.com,Martinique,2021-01-03T12:14:58.343Z,desktop
+b418dfd5-40dc-4dd4-be58-35da168195a5,Hargeisa,3,66,b418dfd5-40dc-4dd4-be58-35da168195a5@example.com,Benin,2021-01-01T05:55:34.475Z,unknown
+96eb9dd2-6a31-4756-8e55-f50400667a17,Lusaka,2,63,96eb9dd2-6a31-4756-8e55-f50400667a17@example.com,Panama,2021-01-14T08:15:36.270Z,mobile
+f6f04e23-2a69-406f-a7e8-bfa57a9b729d,Naypyidaw,3,25,f6f04e23-2a69-406f-a7e8-bfa57a9b729d@example.com,Bahamas,2021-01-03T00:21:50.923Z,mobile
+66522f9b-5264-4ab9-9e72-39b4ee788d9a,Puerto Williams,2,26,66522f9b-5264-4ab9-9e72-39b4ee788d9a@example.com,Switzerland,2021-01-12T14:02:23.517Z,mobile
+e61749c3-5542-4acf-b9bd-dc065fa3f368,Zürich,6,11,e61749c3-5542-4acf-b9bd-dc065fa3f368@example.com,Saint Pierre and Miquelon,2021-01-03T18:26:31.411Z,unknown
+b5f14e65-497f-4d6e-8b17-a1d112b9ddb9,Nouméa,7,62,b5f14e65-497f-4d6e-8b17-a1d112b9ddb9@example.com,Russian Federation,2021-01-01T11:25:40.414Z,tablet
+daa62e2c-234d-4591-8062-80205e293e6d,Thiès,2,117,daa62e2c-234d-4591-8062-80205e293e6d@example.com,Isle of Man,2021-01-12T11:59:20.983Z,mobile
+a2294bda-2171-4f9b-9a58-1d3af57a23ad,Virginia Beach,1,35,a2294bda-2171-4f9b-9a58-1d3af57a23ad@example.com,Christmas Island,2021-01-07T11:05:51.586Z,unknown
+cbcad82d-215a-4c6f-8dea-a6bb1dd19acd,Suva,12,65,cbcad82d-215a-4c6f-8dea-a6bb1dd19acd@example.com,Sudan,2021-01-07T03:44:54.951Z,tablet
+9d0716da-2f4c-4962-a432-89e4f890b309,Lisbon,7,43,9d0716da-2f4c-4962-a432-89e4f890b309@example.com,Colombia,2021-01-13T07:54:46.242Z,unknown
+17b0969c-7143-49dd-b27d-d0d444ba9af0,Riyadh,15,12,17b0969c-7143-49dd-b27d-d0d444ba9af0@example.com,Bosnia and Herzegovina,2021-01-05T13:00:45.238Z,tablet
+706ea6cf-864e-4eef-ad59-3772295689a1,Chiang Mai,2,82,706ea6cf-864e-4eef-ad59-3772295689a1@example.com,Falkland Islands (Malvinas),2021-01-05T13:26:38.490Z,tablet
+5da48208-bf28-403a-9b83-951da46b1680,Ho Chi Minh City,8,1,5da48208-bf28-403a-9b83-951da46b1680@example.com,Serbia and Montenegro,2021-01-11T02:23:56.389Z,unknown
+0c6abe9a-f96f-44c4-bc0c-0f566deb5184,Bangui,4,45,0c6abe9a-f96f-44c4-bc0c-0f566deb5184@example.com,Austria,2021-01-01T23:55:09.802Z,tablet
+9c23f360-bbbb-433a-899e-870029971e67,Palikir,13,31,9c23f360-bbbb-433a-899e-870029971e67@example.com,Cocos (Keeling) Islands,2021-01-10T15:39:10.650Z,mobile
+19af7da9-6ca2-4e63-8651-83cb9ce4b82d,Stuttgart,1,98,19af7da9-6ca2-4e63-8651-83cb9ce4b82d@example.com,India,2021-01-10T00:53:45.019Z,desktop
+9ca7f5db-381e-445a-aeae-22f3766978a8,Belmopan,8,11,9ca7f5db-381e-445a-aeae-22f3766978a8@example.com,Syrian Arab Republic,2021-01-06T19:28:18.344Z,unknown
+b9500ff0-7cb3-46c6-9749-51c3ad4f44aa,Blantyre,5,112,b9500ff0-7cb3-46c6-9749-51c3ad4f44aa@example.com,Guatemala,2021-01-10T10:14:12.293Z,tablet
+b4edad0a-5a97-48fa-bcf7-c7def238a75f,Bursa,3,71,b4edad0a-5a97-48fa-bcf7-c7def238a75f@example.com,Benin,2021-01-14T23:28:23.230Z,desktop
+a77fcd59-6000-4f5b-9f6e-e3d9356977f3,Minneapolis,14,11,a77fcd59-6000-4f5b-9f6e-e3d9356977f3@example.com,Falkland Islands (Malvinas),2021-01-08T20:27:01.748Z,desktop
+2883ed4d-289c-4db4-b40c-e4a258ccadd1,Mumbai,10,107,2883ed4d-289c-4db4-b40c-e4a258ccadd1@example.com,Ethiopia,2021-01-09T17:06:51.730Z,tablet
+df05f23a-bc3f-437e-aa6a-1021e472984d,Monrovia,4,95,df05f23a-bc3f-437e-aa6a-1021e472984d@example.com,Bermuda,2021-01-02T00:22:04.685Z,mobile
+a9a05a65-73cc-461d-9c79-3ee484fd3292,Alexandria,7,84,a9a05a65-73cc-461d-9c79-3ee484fd3292@example.com,Panama,2021-01-02T08:39:28.613Z,tablet
+c1d85d09-c40b-41e1-b8bf-3e53576b1c99,Port Hedland,15,32,c1d85d09-c40b-41e1-b8bf-3e53576b1c99@example.com,Turkmenistan,2021-01-01T10:25:24.644Z,mobile
+282c1c0e-0c59-428e-b647-5983b5b11f24,Port Vila,13,63,282c1c0e-0c59-428e-b647-5983b5b11f24@example.com,Denmark,2021-01-11T07:58:04.665Z,unknown
+2a897bb2-319e-41e3-a421-fbd506d32727,Liverpool,15,23,2a897bb2-319e-41e3-a421-fbd506d32727@example.com,Macao,2021-01-01T07:33:54.246Z,desktop
+14715643-1cfd-4740-9068-e4affc92700a,Timbuktu,4,54,14715643-1cfd-4740-9068-e4affc92700a@example.com,"Macedonia, The Former Yugoslav Republic of",2021-01-13T03:26:21.885Z,tablet
+d93fc532-83b1-44ea-a8c0-954551d47bae,Hat Yai,15,32,d93fc532-83b1-44ea-a8c0-954551d47bae@example.com,"Virgin Islands, U.S.",2021-01-04T14:49:39.199Z,tablet
+b7453c8a-3530-4c56-bc86-15dddc451114,Serekunda,2,1,b7453c8a-3530-4c56-bc86-15dddc451114@example.com,Puerto Rico,2021-01-08T07:18:44.665Z,tablet
+40e54acd-854d-4408-b790-a0e1290ad10a,Invercargill,4,101,40e54acd-854d-4408-b790-a0e1290ad10a@example.com,Dominican Republic,2021-01-13T07:39:18.606Z,unknown
+87271069-555d-4b83-b775-ab5e68c71518,Belém,12,79,87271069-555d-4b83-b775-ab5e68c71518@example.com,Antigua and Barbuda,2021-01-13T02:55:35.317Z,tablet
+6236442e-7931-4e26-9bef-7588f2665fce,Barcelona,2,100,6236442e-7931-4e26-9bef-7588f2665fce@example.com,Australia,2021-01-02T06:16:19.953Z,unknown
+0c315d7b-c4c7-4910-9b6c-58142c66dac0,Porto-Novo,3,98,0c315d7b-c4c7-4910-9b6c-58142c66dac0@example.com,Mongolia,2021-01-11T14:05:30.665Z,tablet
+64faad6b-563b-4bae-8777-aae966ce9c3d,Funafuti,6,92,64faad6b-563b-4bae-8777-aae966ce9c3d@example.com,Albania,2021-01-07T13:42:06.389Z,desktop
+9a7999dd-1284-4e76-8205-5690947af06e,Accra,2,1,9a7999dd-1284-4e76-8205-5690947af06e@example.com,Hong Kong,2021-01-03T04:20:27.075Z,desktop
+e0efc6d9-d1b6-4d89-ac79-32937a05f5e7,Bangkok,5,50,e0efc6d9-d1b6-4d89-ac79-32937a05f5e7@example.com,Greece,2021-01-04T17:37:25.981Z,unknown
+4280b25b-6d26-4646-95bb-140df4628471,London,12,47,4280b25b-6d26-4646-95bb-140df4628471@example.com,Hungary,2021-01-01T22:28:04.578Z,desktop
+82836e6d-9dcb-443a-98a6-94a2b1bc7d44,Willemstad,3,85,82836e6d-9dcb-443a-98a6-94a2b1bc7d44@example.com,Bolivia,2021-01-13T07:17:28.342Z,desktop
+37f48ab2-eb46-4130-903b-7bcdcd202b3a,São Tomé,8,116,37f48ab2-eb46-4130-903b-7bcdcd202b3a@example.com,Papua New Guinea,2021-01-03T08:43:05.451Z,desktop
+afad90f6-dc7b-4934-9c6f-9ff93e87ac7c,Forked River,12,52,afad90f6-dc7b-4934-9c6f-9ff93e87ac7c@example.com,Turks and Caicos Islands,2021-01-11T12:04:03.544Z,tablet
+c09e372a-0762-45b0-a292-882aeaacb3cf,New Orleans,12,114,c09e372a-0762-45b0-a292-882aeaacb3cf@example.com,Gibraltar,2021-01-05T13:54:27.716Z,unknown
+ac347246-e950-4504-a8ef-d2b39a22cf74,Ulan Bator,10,109,ac347246-e950-4504-a8ef-d2b39a22cf74@example.com,Cameroon,2021-01-05T00:19:06.079Z,tablet
+a2eefa19-fe99-4173-8964-4ac49eec26e3,Brikama,4,58,a2eefa19-fe99-4173-8964-4ac49eec26e3@example.com,Paraguay,2021-01-06T22:22:23.130Z,desktop
+d79a78e7-b81e-4dfd-a905-110869765a1f,Cairo,13,88,d79a78e7-b81e-4dfd-a905-110869765a1f@example.com,Brunei Darussalam,2021-01-04T09:56:45.718Z,unknown
+8c539816-e712-4021-8c78-ac4ebb5e15c8,Busan,14,16,8c539816-e712-4021-8c78-ac4ebb5e15c8@example.com,Romania,2021-01-04T16:53:26.697Z,tablet
+a3d914e3-9bfd-4e88-9ed6-9167d7933fcb,Tbilisi,15,33,a3d914e3-9bfd-4e88-9ed6-9167d7933fcb@example.com,Peru,2021-01-01T09:37:33.362Z,mobile
+774170bd-c7b3-4782-b8e3-6ea86c33dc29,Memphis,10,14,774170bd-c7b3-4782-b8e3-6ea86c33dc29@example.com,Christmas Island,2021-01-06T18:55:09.065Z,unknown
+77c8cad4-a67b-4162-81d0-b5995eb695b5,Vilnius,5,18,77c8cad4-a67b-4162-81d0-b5995eb695b5@example.com,Turkmenistan,2021-01-12T18:06:57.857Z,unknown
+43b75014-1fac-43a8-957f-f3ae74b2a25f,Rio Branco,8,81,43b75014-1fac-43a8-957f-f3ae74b2a25f@example.com,Sierra Leone,2021-01-01T07:27:38.558Z,mobile
+95b4ea3e-d06a-4dd3-b6fa-4f5481ac2ed5,Las Palmas de Gran Canaria,10,116,95b4ea3e-d06a-4dd3-b6fa-4f5481ac2ed5@example.com,Costa Rica,2021-01-05T19:08:35.706Z,tablet
+03f5d274-998a-40a2-afa0-a883af4e9e2e,Blantyre,10,76,03f5d274-998a-40a2-afa0-a883af4e9e2e@example.com,Guadeloupe,2021-01-08T19:29:38.495Z,mobile
+73ac9ee6-b259-4d30-b7fa-1ff894e1d07e,Port Elizabeth,1,20,73ac9ee6-b259-4d30-b7fa-1ff894e1d07e@example.com,Burundi,2021-01-10T17:51:12.951Z,unknown
+c6f27ee4-508e-4044-8292-6acb8da87b2c,Manchester,6,53,c6f27ee4-508e-4044-8292-6acb8da87b2c@example.com,Gambia,2021-01-06T12:42:30.891Z,tablet
+ebf641f6-9f7f-4187-915f-f9556e7e773f,Valencia,14,109,ebf641f6-9f7f-4187-915f-f9556e7e773f@example.com,Jamaica,2021-01-13T03:11:16.392Z,tablet
+b46b0378-d143-4f3b-bd1d-c4e3e132a355,Shenzhen,3,45,b46b0378-d143-4f3b-bd1d-c4e3e132a355@example.com,United States Minor Outlying Islands,2021-01-10T08:20:35.509Z,mobile
+4f293ae4-0d5b-458b-ae57-1bdfc9df1bf8,Valencia,8,7,4f293ae4-0d5b-458b-ae57-1bdfc9df1bf8@example.com,Falkland Islands (Malvinas),2021-01-11T17:16:04.608Z,tablet
+cea8d8cb-ef6c-4d69-bd29-7c300bdb187c,Conakry,2,4,cea8d8cb-ef6c-4d69-bd29-7c300bdb187c@example.com,Cyprus,2021-01-05T23:51:08.335Z,mobile
+8bbf0e9e-13cc-4e29-adf0-99ac8e5a32f1,Hobart,9,52,8bbf0e9e-13cc-4e29-adf0-99ac8e5a32f1@example.com,Lebanon,2021-01-10T00:15:16.929Z,tablet
+30a143d7-de6b-4337-b0b9-70dd4426face,Manama,10,6,30a143d7-de6b-4337-b0b9-70dd4426face@example.com,Uganda,2021-01-03T08:10:24.236Z,tablet
+b2dd05b4-b096-4d8a-af4d-50481c6f5c27,Accra,4,112,b2dd05b4-b096-4d8a-af4d-50481c6f5c27@example.com,Palau,2021-01-07T23:59:24.527Z,unknown
+2a3dfd7a-889e-4e77-8df0-af8bcd3bb7eb,Quebec City,4,93,2a3dfd7a-889e-4e77-8df0-af8bcd3bb7eb@example.com,Morocco,2021-01-07T05:50:36.146Z,desktop
+51dbe65b-f19a-4908-a3e6-0091c77d4d5c,Willemstad,2,118,51dbe65b-f19a-4908-a3e6-0091c77d4d5c@example.com,Tokelau,2021-01-07T02:13:41.721Z,mobile
+a0893874-cfa2-4c72-928d-de02d93aa459,Okinawa,4,42,a0893874-cfa2-4c72-928d-de02d93aa459@example.com,Eritrea,2021-01-11T21:38:18.058Z,mobile
+9c3230fd-9522-49e2-ae70-41a3fd658506,Tampa,2,14,9c3230fd-9522-49e2-ae70-41a3fd658506@example.com,British Indian Ocean Territory,2021-01-01T06:04:38.154Z,unknown
+5265cc98-eb15-4aa3-ae95-af9bb2f65f09,Kuching,12,112,5265cc98-eb15-4aa3-ae95-af9bb2f65f09@example.com,Faroe Islands,2021-01-13T12:50:56.426Z,desktop
+cc4dd31f-76b1-447e-bc93-ad4559c1b744,Alofi,11,80,cc4dd31f-76b1-447e-bc93-ad4559c1b744@example.com,Seychelles,2021-01-01T23:08:16.725Z,tablet
+a99606ed-0204-433a-97ea-17df7c0773f3,Nice,13,66,a99606ed-0204-433a-97ea-17df7c0773f3@example.com,Portugal,2021-01-02T06:40:03.528Z,unknown
+f86ef79d-a296-4a70-b19b-d54a3db53e4e,Invercargill,12,97,f86ef79d-a296-4a70-b19b-d54a3db53e4e@example.com,Libyan Arab Jamahiriya,2021-01-06T08:43:57.586Z,tablet
+fbded825-77be-4a85-a28e-ebf8d0b9db5c,Toronto,9,99,fbded825-77be-4a85-a28e-ebf8d0b9db5c@example.com,Czech Republic,2021-01-05T19:58:43.163Z,desktop
+555687c2-3f3a-453d-95ab-3ca7f6d20816,Greenwich,2,117,555687c2-3f3a-453d-95ab-3ca7f6d20816@example.com,Belarus,2021-01-06T20:42:37.286Z,unknown
+f7d324c9-7804-4000-8577-c8beeb637226,Shanghai,13,14,f7d324c9-7804-4000-8577-c8beeb637226@example.com,Northern Mariana Islands,2021-01-13T20:24:15.207Z,tablet
+75e478b5-b9df-4592-b06a-d2f3b61850f1,Pontianak,5,114,75e478b5-b9df-4592-b06a-d2f3b61850f1@example.com,Saint Helena,2021-01-06T11:29:19.281Z,unknown
+40216004-6dce-45a4-9ecb-938150cac37f,Budapest,6,60,40216004-6dce-45a4-9ecb-938150cac37f@example.com,Brazil,2021-01-01T09:12:17.483Z,tablet
+2e5d9bfe-62b2-47d5-af30-06f182c0f927,Edinburgh,13,56,2e5d9bfe-62b2-47d5-af30-06f182c0f927@example.com,Central African Republic,2021-01-10T16:17:17.102Z,mobile
+86fe88bd-4764-4eb4-b271-210890f4b3cc,Medan,2,69,86fe88bd-4764-4eb4-b271-210890f4b3cc@example.com,Switzerland,2021-01-07T05:46:10.745Z,desktop
+a98a8738-588f-4222-be3a-16780e16ab4b,Handan,9,4,a98a8738-588f-4222-be3a-16780e16ab4b@example.com,France,2021-01-04T23:57:25.780Z,desktop
+17bca485-aa1b-47fd-94c7-c02c8cb2e2ee,Omdurman,9,72,17bca485-aa1b-47fd-94c7-c02c8cb2e2ee@example.com,United States Minor Outlying Islands,2021-01-10T04:01:39.042Z,mobile
+9055cd25-b81b-49ad-9df0-95781d75b1ca,Jinan,5,85,9055cd25-b81b-49ad-9df0-95781d75b1ca@example.com,Mauritius,2021-01-05T23:31:14.173Z,tablet
+66b58af1-fa0f-4ca1-a5a7-4c042d4e8b24,Makati City,11,79,66b58af1-fa0f-4ca1-a5a7-4c042d4e8b24@example.com,Kyrgyzstan,2021-01-03T01:24:14.119Z,desktop
+9a87dc49-71c8-4e62-8c9b-eab706bd9521,Guwahati,3,1,9a87dc49-71c8-4e62-8c9b-eab706bd9521@example.com,"Lao People""S Democratic Republic",2021-01-04T18:05:57.446Z,mobile
+f2e2fd8d-90e1-4b7b-bffd-6de056ea1a7f,Punta Arenas,6,29,f2e2fd8d-90e1-4b7b-bffd-6de056ea1a7f@example.com,"Cote D""Ivoire",2021-01-04T05:34:44.103Z,mobile
+028dbeef-6bd6-4cee-bdf0-eaeb6e1a0508,Papeete,9,52,028dbeef-6bd6-4cee-bdf0-eaeb6e1a0508@example.com,Timor-Leste,2021-01-01T01:04:03.082Z,mobile
+79708cfb-38ca-4c51-b0e4-cbd2d07c49f4,Quito,6,91,79708cfb-38ca-4c51-b0e4-cbd2d07c49f4@example.com,Finland,2021-01-02T07:57:42.371Z,desktop
+f7362d39-9862-4960-8748-b8d3a32ca915,Medan,8,59,f7362d39-9862-4960-8748-b8d3a32ca915@example.com,Marshall Islands,2021-01-10T11:37:07.021Z,mobile
+643144f6-a081-403f-abef-db4eba510576,Libreville,9,12,643144f6-a081-403f-abef-db4eba510576@example.com,Azerbaijan,2021-01-11T19:14:45.742Z,mobile
+a3e2757e-e8c8-45fb-b65a-978ffa40a9ee,Cork (city),5,100,a3e2757e-e8c8-45fb-b65a-978ffa40a9ee@example.com,Indonesia,2021-01-06T21:45:51.968Z,unknown
+79e525d1-4dda-4763-afce-7a7ea669fc15,San José,14,30,79e525d1-4dda-4763-afce-7a7ea669fc15@example.com,Liechtenstein,2021-01-02T23:53:23.821Z,mobile
+e50cad19-b142-4ef9-8dae-d646c1fd18bb,Birkirkara,15,49,e50cad19-b142-4ef9-8dae-d646c1fd18bb@example.com,Burkina Faso,2021-01-12T20:01:54.635Z,desktop
+171d0ac4-7671-4faf-8113-38dac04627a5,Da Nang,12,7,171d0ac4-7671-4faf-8113-38dac04627a5@example.com,Peru,2021-01-11T06:52:14.979Z,desktop
+3d7d9a14-4ac1-4990-8dd2-62b3a8d44a77,Douala,5,119,3d7d9a14-4ac1-4990-8dd2-62b3a8d44a77@example.com,New Caledonia,2021-01-14T20:54:45.308Z,tablet
+0b9e13d3-d68a-41e6-b62a-0d26ccc6fbc1,Mandurah,12,46,0b9e13d3-d68a-41e6-b62a-0d26ccc6fbc1@example.com,Tonga,2021-01-10T16:38:13.339Z,mobile
+7332046f-82de-47ee-8e5f-060f7c16e75b,Kuwait City,2,23,7332046f-82de-47ee-8e5f-060f7c16e75b@example.com,"Korea, Democratic People""S Republic of",2021-01-01T03:53:53.456Z,desktop
+d23c52c0-4333-47d5-a4e7-b62d674bae8e,Bogotá,13,34,d23c52c0-4333-47d5-a4e7-b62d674bae8e@example.com,Austria,2021-01-08T03:00:32.591Z,mobile
+21d67048-baca-4f7a-bd67-05ab919e525c,Hangzhou,11,112,21d67048-baca-4f7a-bd67-05ab919e525c@example.com,Mauritania,2021-01-08T23:37:11.884Z,unknown
+c5319873-e484-4e94-a459-d42c01a5a3b9,Balikpapan,12,36,c5319873-e484-4e94-a459-d42c01a5a3b9@example.com,Trinidad and Tobago,2021-01-09T06:14:11.045Z,unknown
+0865d542-e94c-411a-a09e-569296ddfc17,Basse-Terre,9,92,0865d542-e94c-411a-a09e-569296ddfc17@example.com,Netherlands Antilles,2021-01-09T20:52:36.161Z,desktop
+8a0d82dc-0b61-4fe5-bbf5-e785bed2d28d,Davao City,7,45,8a0d82dc-0b61-4fe5-bbf5-e785bed2d28d@example.com,Madagascar,2021-01-08T21:22:40.308Z,mobile
+95005665-e86c-4876-9c25-1f26f3cc7d37,Philadelphia,9,52,95005665-e86c-4876-9c25-1f26f3cc7d37@example.com,Solomon Islands,2021-01-10T04:47:53.097Z,mobile
+d39f643e-c86f-43fe-bcf8-82375f87ed92,Bilbao,13,94,d39f643e-c86f-43fe-bcf8-82375f87ed92@example.com,Uzbekistan,2021-01-07T11:47:57.100Z,mobile
+10c32822-0ccc-4607-8468-4eb1cc150d4d,Fairbanks,12,27,10c32822-0ccc-4607-8468-4eb1cc150d4d@example.com,Dominican Republic,2021-01-02T19:03:42.269Z,tablet
+05aaf9a6-8b36-46ea-b45a-7649d02ef624,Xi'an,4,59,05aaf9a6-8b36-46ea-b45a-7649d02ef624@example.com,Macao,2021-01-09T05:20:24.867Z,desktop
+2435259b-aa39-4bf9-81a0-730cfb9fca13,Wollongong,14,21,2435259b-aa39-4bf9-81a0-730cfb9fca13@example.com,Chad,2021-01-09T04:50:16.469Z,unknown
+e2da2147-d4f7-461d-9de4-2141e1c0d580,Manzini,11,17,e2da2147-d4f7-461d-9de4-2141e1c0d580@example.com,Kazakhstan,2021-01-10T15:55:21.746Z,unknown
+1477a910-1aa5-45ed-a0e0-d03262d4f277,Xining,7,21,1477a910-1aa5-45ed-a0e0-d03262d4f277@example.com,AndorrA,2021-01-03T04:23:57.546Z,desktop
+1d616460-06c3-4836-a9a2-eae8fe233c92,Chengdu,7,88,1d616460-06c3-4836-a9a2-eae8fe233c92@example.com,Indonesia,2021-01-08T22:53:16.095Z,unknown
+37b80269-d9f0-471d-ade0-23bb848edcdf,Dammam,2,53,37b80269-d9f0-471d-ade0-23bb848edcdf@example.com,Malta,2021-01-13T10:40:50.799Z,mobile
+a8b6fba9-dd01-4890-bc99-bb96e83deec8,Valletta,8,20,a8b6fba9-dd01-4890-bc99-bb96e83deec8@example.com,Nicaragua,2021-01-10T17:34:57.286Z,tablet
+9b3ffec9-091f-402f-8f7c-56b2514451d2,City of Halifax,5,100,9b3ffec9-091f-402f-8f7c-56b2514451d2@example.com,Czech Republic,2021-01-02T17:56:21.060Z,unknown
+0333dbb4-6468-4682-8154-05206b92bafb,Pelotas,11,33,0333dbb4-6468-4682-8154-05206b92bafb@example.com,Faroe Islands,2021-01-03T16:44:02.696Z,mobile
+f8a032e5-ce66-4ecf-ae23-9ce7668f61f2,Charlotte Amalie,10,85,f8a032e5-ce66-4ecf-ae23-9ce7668f61f2@example.com,Samoa,2021-01-11T16:30:27.437Z,desktop
+e99a12f2-4145-48ae-aa5c-bc2c523c876f,Labasa,13,20,e99a12f2-4145-48ae-aa5c-bc2c523c876f@example.com,Bhutan,2021-01-01T15:29:04.223Z,tablet
+a5bda0a3-d4aa-46b6-8a86-306091caeb04,Mérida,9,101,a5bda0a3-d4aa-46b6-8a86-306091caeb04@example.com,Tokelau,2021-01-10T17:01:05.064Z,desktop
+a3959345-1682-4bc6-885f-f979d34ab3a2,Seoul,8,7,a3959345-1682-4bc6-885f-f979d34ab3a2@example.com,"Virgin Islands, British",2021-01-09T07:55:45.268Z,unknown
+1ff16421-f870-41ce-8bf4-a5dec5659449,Port Elizabeth,11,120,1ff16421-f870-41ce-8bf4-a5dec5659449@example.com,Azerbaijan,2021-01-06T08:43:11.943Z,tablet
+5513fe46-957d-409e-87df-0768d0eded69,Daegu,7,77,5513fe46-957d-409e-87df-0768d0eded69@example.com,Netherlands Antilles,2021-01-02T11:15:33.486Z,mobile
+0be291f9-112f-4c1a-9aed-c6b7f0b34e2a,Simferopol,9,89,0be291f9-112f-4c1a-9aed-c6b7f0b34e2a@example.com,New Zealand,2021-01-13T00:58:57.993Z,desktop
+2798b8de-2d6e-472a-8ac3-bf026b4dabfa,Montevideo,12,46,2798b8de-2d6e-472a-8ac3-bf026b4dabfa@example.com,Sudan,2021-01-01T13:58:28.568Z,mobile
+4736ab60-c3dd-4325-a396-db3a122d41f2,Manchester,1,48,4736ab60-c3dd-4325-a396-db3a122d41f2@example.com,Kiribati,2021-01-04T22:32:19.828Z,desktop
+b26d3b15-3e9a-499f-96de-c78bf767a245,Darwin,6,89,b26d3b15-3e9a-499f-96de-c78bf767a245@example.com,Panama,2021-01-13T23:04:40.663Z,desktop
+bc04fbc8-97be-4a49-9d62-72eac829617b,Adelaide,9,33,bc04fbc8-97be-4a49-9d62-72eac829617b@example.com,Togo,2021-01-03T22:43:34.283Z,unknown
+74be9d39-191f-4e01-b4ea-287579e86bec,Palikir,7,53,74be9d39-191f-4e01-b4ea-287579e86bec@example.com,Morocco,2021-01-10T04:38:37.325Z,tablet
+ec3b4ff7-f88b-4739-9534-8adbd0060bb8,Tel Aviv,12,103,ec3b4ff7-f88b-4739-9534-8adbd0060bb8@example.com,Serbia and Montenegro,2021-01-03T16:49:56.550Z,mobile
+1a047307-3cd4-49cf-b385-790cda1d3b5c,Ushuaia,12,58,1a047307-3cd4-49cf-b385-790cda1d3b5c@example.com,Cambodia,2021-01-02T05:45:52.153Z,desktop
+97a7e80d-60e1-4310-9037-ab925d301fe0,Riverside,4,111,97a7e80d-60e1-4310-9037-ab925d301fe0@example.com,Gambia,2021-01-02T08:02:20.206Z,unknown
+804adf8b-0b8d-4138-bde8-5dae2eb045ec,Port Moresby,14,77,804adf8b-0b8d-4138-bde8-5dae2eb045ec@example.com,United Arab Emirates,2021-01-04T18:50:13.274Z,desktop
+c57f7ab6-42b1-4f83-bdb1-755c35ff071f,Phuket (city),3,86,c57f7ab6-42b1-4f83-bdb1-755c35ff071f@example.com,Turkmenistan,2021-01-14T13:07:09.276Z,desktop
+0130a4bc-8b61-485e-ac2a-99f26648ae48,New Orleans,7,15,0130a4bc-8b61-485e-ac2a-99f26648ae48@example.com,Suriname,2021-01-11T00:51:18.308Z,unknown
+d1af1a2b-0fa8-4f34-8c5f-bbeb68b88c8f,Chengdu,13,67,d1af1a2b-0fa8-4f34-8c5f-bbeb68b88c8f@example.com,Denmark,2021-01-03T14:45:28.398Z,mobile
+7ee7fae5-42dc-4b93-8551-41858a9e0842,Okinawa,3,19,7ee7fae5-42dc-4b93-8551-41858a9e0842@example.com,Oman,2021-01-14T07:45:34.635Z,unknown
+df24407e-287e-4cb5-bfc3-ce8f91cdcb70,Chiang Mai,1,103,df24407e-287e-4cb5-bfc3-ce8f91cdcb70@example.com,Gambia,2021-01-07T19:37:36.051Z,tablet
+104b0847-c5e0-444d-8e5f-89a8e3b6f78f,Tunis,3,97,104b0847-c5e0-444d-8e5f-89a8e3b6f78f@example.com,Haiti,2021-01-07T13:59:25.805Z,desktop
+a4451c02-3954-44d5-b862-1aa26bae70f7,Chicago,6,1,a4451c02-3954-44d5-b862-1aa26bae70f7@example.com,Antarctica,2021-01-12T20:28:27.700Z,tablet
+9c77502f-9ecc-4896-8e1b-ab8b57cea707,Charlottetown,5,59,9c77502f-9ecc-4896-8e1b-ab8b57cea707@example.com,RWANDA,2021-01-06T05:59:22.180Z,mobile
+ebc19bd6-ca37-4233-894f-18d8ee5502d9,Strasbourg,10,37,ebc19bd6-ca37-4233-894f-18d8ee5502d9@example.com,Guatemala,2021-01-01T03:16:23.622Z,desktop
+50cee01b-48e9-4b42-9fc8-ade214430144,Jaipur,5,44,50cee01b-48e9-4b42-9fc8-ade214430144@example.com,Mauritania,2021-01-09T15:25:58.823Z,desktop
+dd473a2d-e82e-47ae-9c22-09520b8aed1d,Amritsar,2,6,dd473a2d-e82e-47ae-9c22-09520b8aed1d@example.com,Marshall Islands,2021-01-14T03:40:36.511Z,mobile
+71e9bb31-7aea-4bb4-9508-15150060737f,Wellington,7,19,71e9bb31-7aea-4bb4-9508-15150060737f@example.com,Christmas Island,2021-01-14T17:16:23.350Z,mobile
+c59dd064-8b0b-402f-88b3-c4451d5eb1e5,Kingstown,5,47,c59dd064-8b0b-402f-88b3-c4451d5eb1e5@example.com,"Micronesia, Federated States of",2021-01-04T03:51:40.325Z,mobile
+511ab715-608f-4f08-acc9-88e7223a9f1a,Antofagasta,3,110,511ab715-608f-4f08-acc9-88e7223a9f1a@example.com,Tunisia,2021-01-07T02:27:06.014Z,unknown
+9764a39e-760e-4961-9061-95a3ef4f76df,Thimphu,14,58,9764a39e-760e-4961-9061-95a3ef4f76df@example.com,"Moldova, Republic of",2021-01-09T08:05:50.392Z,unknown
+7dfdcf2d-4ee1-448e-b5bd-1d5b777baf25,Yangon,3,43,7dfdcf2d-4ee1-448e-b5bd-1d5b777baf25@example.com,Algeria,2021-01-07T06:57:09.242Z,unknown
+e2c3514b-7dfd-46cd-b7a4-5383813aeeda,Birmingham,9,11,e2c3514b-7dfd-46cd-b7a4-5383813aeeda@example.com,Vanuatu,2021-01-14T12:20:12.725Z,unknown
+eafb5ddf-fe08-4516-95c8-b71cbeedc329,Luanda,6,2,eafb5ddf-fe08-4516-95c8-b71cbeedc329@example.com,Netherlands,2021-01-09T05:08:15.693Z,mobile
+5364032f-2765-48ef-aaba-70454869c225,Bandar Seri Begawan,2,104,5364032f-2765-48ef-aaba-70454869c225@example.com,Guinea,2021-01-04T12:36:17.960Z,unknown
+44a054f6-00d6-47f6-9121-6db0394d347b,Memphis,10,98,44a054f6-00d6-47f6-9121-6db0394d347b@example.com,Isle of Man,2021-01-07T00:49:11.486Z,unknown
+0331155d-0108-43c3-b4db-431f84f3c5de,Yaoundé,12,68,0331155d-0108-43c3-b4db-431f84f3c5de@example.com,Samoa,2021-01-10T12:26:35.622Z,mobile
+51c218a8-dabf-49d2-bacc-d8c30eebeb5a,Regina,10,25,51c218a8-dabf-49d2-bacc-d8c30eebeb5a@example.com,AndorrA,2021-01-13T10:05:48.103Z,tablet
+d6aea5cb-2168-4d34-aa47-71b79f399f11,Virginia Beach,6,115,d6aea5cb-2168-4d34-aa47-71b79f399f11@example.com,"Moldova, Republic of",2021-01-11T01:58:56.472Z,tablet
+1e394bba-60de-43b7-ba99-04d6f415f965,Prague,5,16,1e394bba-60de-43b7-ba99-04d6f415f965@example.com,Lithuania,2021-01-06T17:42:24.478Z,desktop
+e90b333b-ddce-4d85-aebb-4490b167bfec,Taiyuan,12,25,e90b333b-ddce-4d85-aebb-4490b167bfec@example.com,Falkland Islands (Malvinas),2021-01-13T03:45:09.263Z,unknown
+fa4b857e-67d7-404d-a8b8-aad7ccc8eb92,Hai Phong,5,107,fa4b857e-67d7-404d-a8b8-aad7ccc8eb92@example.com,Kazakhstan,2021-01-14T11:00:14.307Z,mobile
+5b9c728f-ff77-40d2-a73a-929036cf0a0b,Koulikoro,1,106,5b9c728f-ff77-40d2-a73a-929036cf0a0b@example.com,Svalbard and Jan Mayen,2021-01-01T13:48:51.521Z,tablet
+47f81507-cafb-47fe-a6d5-85f5b0576db9,Jacksonville,3,92,47f81507-cafb-47fe-a6d5-85f5b0576db9@example.com,Kenya,2021-01-09T07:58:53.220Z,desktop
+a1372971-46e3-4941-806d-8c72956a1f57,Gdańsk,4,41,a1372971-46e3-4941-806d-8c72956a1f57@example.com,Niger,2021-01-06T03:59:44.372Z,mobile
+bf710d4a-d42f-46da-9539-8e96e1013599,Oslo,12,109,bf710d4a-d42f-46da-9539-8e96e1013599@example.com,Mozambique,2021-01-02T10:24:34.178Z,tablet
+3dfa27e5-e659-41e8-a298-e3bce3f86297,Mumbai,1,87,3dfa27e5-e659-41e8-a298-e3bce3f86297@example.com,Afghanistan,2021-01-12T11:30:33.378Z,unknown
+071c1456-f549-46ec-9d86-4e42f5ac332b,El Aaiún,10,25,071c1456-f549-46ec-9d86-4e42f5ac332b@example.com,Israel,2021-01-08T12:04:13.933Z,unknown
+1ab1c8db-9339-42bd-8bae-8de0d46c0f85,Medellín,2,32,1ab1c8db-9339-42bd-8bae-8de0d46c0f85@example.com,Gambia,2021-01-02T11:44:49.175Z,mobile
+db9a9450-68ed-476e-b1d9-039e63f6990c,Turin,3,78,db9a9450-68ed-476e-b1d9-039e63f6990c@example.com,Germany,2021-01-01T15:20:57.081Z,desktop
+367673b2-8b55-400f-be51-916f271f851e,Johannesburg,14,24,367673b2-8b55-400f-be51-916f271f851e@example.com,Libyan Arab Jamahiriya,2021-01-10T23:06:46.528Z,tablet
+afb03d8e-bb60-4e60-97b3-f256e9919c51,Assis,6,34,afb03d8e-bb60-4e60-97b3-f256e9919c51@example.com,Aruba,2021-01-07T13:26:45.195Z,tablet
+9199c5b0-e67a-4cd9-80eb-8eaeb840e214,Sydney,5,83,9199c5b0-e67a-4cd9-80eb-8eaeb840e214@example.com,Tokelau,2021-01-13T05:36:20.032Z,tablet
+c5c8c2eb-71d4-442b-9e23-90c79fec6705,Tianjin,14,2,c5c8c2eb-71d4-442b-9e23-90c79fec6705@example.com,Namibia,2021-01-01T03:11:37.551Z,unknown
+58e3311f-cf68-4a4e-a1be-6e844b81e88a,Kigali,11,18,58e3311f-cf68-4a4e-a1be-6e844b81e88a@example.com,Saint Kitts and Nevis,2021-01-13T17:20:00.391Z,unknown
+04582175-fa3c-4d71-affb-8d39a6fc4492,Saint-Pierre,14,73,04582175-fa3c-4d71-affb-8d39a6fc4492@example.com,American Samoa,2021-01-06T10:15:35.113Z,mobile
+015a569a-cfe2-40d1-b263-03776a380ea1,Zagreb,14,80,015a569a-cfe2-40d1-b263-03776a380ea1@example.com,"Taiwan, Province of China",2021-01-01T00:24:31.984Z,unknown
+bf99be99-16e4-4cc3-b2e1-1894320cfe36,Linz,11,115,bf99be99-16e4-4cc3-b2e1-1894320cfe36@example.com,Heard Island and Mcdonald Islands,2021-01-04T04:06:26.766Z,desktop
+ee45f1ac-7197-482d-95a7-78e374c73c52,Majuro,15,1,ee45f1ac-7197-482d-95a7-78e374c73c52@example.com,Guatemala,2021-01-14T14:25:26.211Z,desktop
+2c02efbd-7280-4d04-8b7a-bdaa9b696add,Algiers,9,42,2c02efbd-7280-4d04-8b7a-bdaa9b696add@example.com,Bermuda,2021-01-13T08:13:17.761Z,unknown
+8ff2ebd9-c421-4460-a094-992d24e52143,Bogotá,10,19,8ff2ebd9-c421-4460-a094-992d24e52143@example.com,Ukraine,2021-01-02T16:34:34.566Z,tablet
+ba3bc5cc-c138-4ca7-b322-ed0f8b26fc21,Tartu,14,64,ba3bc5cc-c138-4ca7-b322-ed0f8b26fc21@example.com,"Lao People""S Democratic Republic",2021-01-14T09:24:20.661Z,tablet
+86035f42-1b77-490a-960e-b7ac804c5227,Edinburgh,12,44,86035f42-1b77-490a-960e-b7ac804c5227@example.com,Guadeloupe,2021-01-07T11:32:24.297Z,tablet
+bcfdf379-50ef-4eca-83a6-0038bee76412,Ho Chi Minh City,8,45,bcfdf379-50ef-4eca-83a6-0038bee76412@example.com,Fiji,2021-01-03T15:50:27.852Z,tablet
+908e65cf-e877-49ff-a31f-7f994ef9c341,Nukuʻalofa,6,43,908e65cf-e877-49ff-a31f-7f994ef9c341@example.com,Kazakhstan,2021-01-04T12:31:18.850Z,unknown
+60a460de-c944-4bd1-ab60-df9a0967346e,Salt Lake City,1,24,60a460de-c944-4bd1-ab60-df9a0967346e@example.com,Lesotho,2021-01-02T20:41:54.517Z,mobile
+1cc4bdd1-08aa-4e76-bc2e-26642bfb65ad,Nicosia,1,80,1cc4bdd1-08aa-4e76-bc2e-26642bfb65ad@example.com,Togo,2021-01-03T12:21:21.728Z,mobile
+38381754-141a-4faa-87c9-7fac461ad1dc,Tehran,3,24,38381754-141a-4faa-87c9-7fac461ad1dc@example.com,Ethiopia,2021-01-12T22:32:09.119Z,tablet
+c3e3f92a-5bb1-4fa9-ad6d-52010125fc41,Omdurman,13,82,c3e3f92a-5bb1-4fa9-ad6d-52010125fc41@example.com,Tajikistan,2021-01-08T00:18:31.431Z,desktop
+72b80241-fe78-4e40-ac4d-8ed9f1236092,Minneapolis,1,120,72b80241-fe78-4e40-ac4d-8ed9f1236092@example.com,Gabon,2021-01-07T03:56:04.559Z,desktop
+6a5f5047-ebdd-4a5e-8e72-0f48c79df547,Podgorica,5,97,6a5f5047-ebdd-4a5e-8e72-0f48c79df547@example.com,Iraq,2021-01-04T04:24:25.585Z,tablet
+35b6dd3e-700b-4f81-9ca8-98068700ca8c,Yaren District,9,109,35b6dd3e-700b-4f81-9ca8-98068700ca8c@example.com,Belarus,2021-01-11T09:43:02.756Z,mobile
+4bc9d6df-1127-4cad-b190-8664d57f439f,Omsk,14,6,4bc9d6df-1127-4cad-b190-8664d57f439f@example.com,Guatemala,2021-01-11T22:12:23.875Z,tablet
+e5f05aa9-df31-4e77-a563-ca745165ed66,Yamoussoukro,14,39,e5f05aa9-df31-4e77-a563-ca745165ed66@example.com,Kyrgyzstan,2021-01-01T13:46:13.023Z,unknown
+d01242b9-cc2d-4e61-9d45-20188fa3eb98,Ciudad del Este,13,36,d01242b9-cc2d-4e61-9d45-20188fa3eb98@example.com,French Polynesia,2021-01-12T18:57:29.632Z,mobile
+905786d8-7a5f-4e2c-9c14-c59726aa48a6,Srinagar,1,82,905786d8-7a5f-4e2c-9c14-c59726aa48a6@example.com,Cayman Islands,2021-01-02T08:47:30.026Z,desktop
+de723f74-add0-4f7d-901a-fd04e28c7a2c,Beijing,4,36,de723f74-add0-4f7d-901a-fd04e28c7a2c@example.com,French Polynesia,2021-01-07T02:00:38.013Z,desktop
+bcedbb0c-ba5c-4cf2-b3fc-c12428fb67d6,Jersey City,2,1,bcedbb0c-ba5c-4cf2-b3fc-c12428fb67d6@example.com,Solomon Islands,2021-01-06T17:11:24.509Z,unknown
+61d4c469-d3bf-485d-8aab-4f68b665c6b6,Innsbruck,6,12,61d4c469-d3bf-485d-8aab-4f68b665c6b6@example.com,"Lao People""S Democratic Republic",2021-01-09T10:16:55.082Z,desktop
+4cb6e2e8-8d6e-4f21-accb-74fbaf691944,Koulikoro,1,103,4cb6e2e8-8d6e-4f21-accb-74fbaf691944@example.com,New Zealand,2021-01-05T14:18:54.996Z,desktop
+d5cc2353-3a49-4b4f-acd3-0ff06eafb459,Dhaka,6,54,d5cc2353-3a49-4b4f-acd3-0ff06eafb459@example.com,Sao Tome and Principe,2021-01-03T18:43:22.099Z,mobile
+7641bec1-db9e-4c9c-b586-99423d984b3e,Sana'a,9,91,7641bec1-db9e-4c9c-b586-99423d984b3e@example.com,Aruba,2021-01-09T08:49:05.802Z,unknown
+14736a35-a7ad-4c2f-950b-f95eb8be6b0e,Avarua,3,3,14736a35-a7ad-4c2f-950b-f95eb8be6b0e@example.com,Swaziland,2021-01-05T04:26:25.558Z,desktop
+b07093b2-d2bc-491e-b9a4-0b8a9e63df7b,Oklahoma City,2,112,b07093b2-d2bc-491e-b9a4-0b8a9e63df7b@example.com,Swaziland,2021-01-14T21:33:37.780Z,tablet
+f1ff8ac6-5567-41fe-99ab-aa23baf1d6fc,Pelotas,4,79,f1ff8ac6-5567-41fe-99ab-aa23baf1d6fc@example.com,Comoros,2021-01-08T11:28:22.073Z,desktop
+18df2f35-2d33-4351-937f-1a7d38f94df7,Sukhumi,12,65,18df2f35-2d33-4351-937f-1a7d38f94df7@example.com,Canada,2021-01-10T09:17:25.860Z,unknown
+63c74012-7c5e-45af-9561-7f635d56f649,Warsaw,5,48,63c74012-7c5e-45af-9561-7f635d56f649@example.com,Vanuatu,2021-01-04T21:55:22.726Z,desktop
+d7945a1c-6e8a-4d77-8491-1053595f833c,Banda Aceh,12,106,d7945a1c-6e8a-4d77-8491-1053595f833c@example.com,France,2021-01-07T15:15:00.799Z,desktop
+5ffdeb09-bbf2-4867-8743-fde3bf8140f1,Hangzhou,3,40,5ffdeb09-bbf2-4867-8743-fde3bf8140f1@example.com,Gabon,2021-01-02T22:50:15.628Z,desktop
+7a7dc8ef-844d-4ef5-bb3b-015cdd094cc1,Cotonou,5,117,7a7dc8ef-844d-4ef5-bb3b-015cdd094cc1@example.com,Martinique,2021-01-14T09:06:10.090Z,mobile
+376447e0-4103-417c-941d-c9503f2ecd4f,Barranquilla,12,99,376447e0-4103-417c-941d-c9503f2ecd4f@example.com,Argentina,2021-01-11T02:28:21.340Z,desktop
+58ff7714-b89f-4e24-8042-626a1a2a3e55,Hyderabad,14,114,58ff7714-b89f-4e24-8042-626a1a2a3e55@example.com,Seychelles,2021-01-08T08:16:44.341Z,unknown
+4aa7f4ab-2a29-499a-bf43-e4f48a03785f,Skopje,13,53,4aa7f4ab-2a29-499a-bf43-e4f48a03785f@example.com,Sri Lanka,2021-01-13T06:01:24.810Z,mobile
+6aad9dde-247a-4371-8d0e-f1805227b07c,Bursa,11,28,6aad9dde-247a-4371-8d0e-f1805227b07c@example.com,Equatorial Guinea,2021-01-04T10:48:20.145Z,tablet
+bc952edf-5ea0-4fc2-8ab3-ee7595d688dd,Abu Dhabi,5,48,bc952edf-5ea0-4fc2-8ab3-ee7595d688dd@example.com,Ecuador,2021-01-11T02:12:24.628Z,tablet
+210e4720-1a91-4203-bf77-cbd20796afe1,Jamestown,14,60,210e4720-1a91-4203-bf77-cbd20796afe1@example.com,Peru,2021-01-14T09:47:09.988Z,unknown
+a5c443ac-422a-42f2-b81d-7075095f920b,Kraków,6,100,a5c443ac-422a-42f2-b81d-7075095f920b@example.com,Jersey,2021-01-14T03:40:00.544Z,tablet
+618dc692-083c-4fcc-a53f-f9f00377a5e9,Cockburn Town,5,103,618dc692-083c-4fcc-a53f-f9f00377a5e9@example.com,Guam,2021-01-14T02:06:26.619Z,mobile
+fe8d5a08-3b97-4690-86f5-62ddb17b2b5a,Whitehorse,4,110,fe8d5a08-3b97-4690-86f5-62ddb17b2b5a@example.com,Zambia,2021-01-14T06:31:12.072Z,unknown
+fc9a0a1d-c669-44f3-9bbc-e57f7918964d,Bandung,8,85,fc9a0a1d-c669-44f3-9bbc-e57f7918964d@example.com,Indonesia,2021-01-11T11:01:15.261Z,mobile
+05d9d740-17f8-4f3d-b7be-668263fe2039,Bucharest,6,84,05d9d740-17f8-4f3d-b7be-668263fe2039@example.com,Denmark,2021-01-07T02:15:49.102Z,unknown
+92c738d5-44cc-41e8-8b1e-496b385310f9,Tskhinvali,10,101,92c738d5-44cc-41e8-8b1e-496b385310f9@example.com,Algeria,2021-01-03T11:17:22.351Z,tablet
+140a58ee-da64-4ea7-8b7d-56f7d9c5b8a0,Yaren District,6,10,140a58ee-da64-4ea7-8b7d-56f7d9c5b8a0@example.com,China,2021-01-14T02:46:14.732Z,tablet
+1e533f7e-3580-43c2-b742-a99bdf216481,Podgorica,11,86,1e533f7e-3580-43c2-b742-a99bdf216481@example.com,Northern Mariana Islands,2021-01-02T09:46:48.418Z,tablet
+5e2211f5-6985-4a52-96f9-cb085ddbf52d,Melbourne,7,7,5e2211f5-6985-4a52-96f9-cb085ddbf52d@example.com,Dominica,2021-01-13T07:37:49.068Z,unknown
+4442f975-f33e-4abe-b94e-0b3c2d1c27eb,Rabat,1,22,4442f975-f33e-4abe-b94e-0b3c2d1c27eb@example.com,Somalia,2021-01-10T22:04:43.947Z,desktop
+226f0a7c-6ebc-4faf-99b4-4a4089240ac6,Lucknow,14,87,226f0a7c-6ebc-4faf-99b4-4a4089240ac6@example.com,Norway,2021-01-13T03:10:32.454Z,desktop
+03d16fac-a42e-4347-a4a5-d51abfb1dc88,Rotterdam,3,12,03d16fac-a42e-4347-a4a5-d51abfb1dc88@example.com,Djibouti,2021-01-11T13:19:26.797Z,desktop
+56e99b49-4532-4830-bf32-5103775b7f70,Podgorica,5,90,56e99b49-4532-4830-bf32-5103775b7f70@example.com,Western Sahara,2021-01-07T09:17:29.265Z,unknown
+eb575233-a638-4dba-a247-d998871aa6f5,Adana,14,45,eb575233-a638-4dba-a247-d998871aa6f5@example.com,Greenland,2021-01-03T15:23:41.062Z,mobile
+3ea10fc7-d4db-431d-b243-200ac90b173d,Kandahar,9,81,3ea10fc7-d4db-431d-b243-200ac90b173d@example.com,Anguilla,2021-01-05T23:58:46.423Z,unknown
+0c572bd0-8b36-419b-bc72-d4fbab17ea57,Ouagadougou,4,50,0c572bd0-8b36-419b-bc72-d4fbab17ea57@example.com,Australia,2021-01-07T15:34:21.020Z,desktop
+35604eef-bb23-490f-a3cc-f0c3c280bb8e,Fort-de-France,13,83,35604eef-bb23-490f-a3cc-f0c3c280bb8e@example.com,Turkey,2021-01-13T13:44:13.279Z,unknown
+39f48909-25d6-43f0-bd92-b3b850f50ed5,Nashville,12,102,39f48909-25d6-43f0-bd92-b3b850f50ed5@example.com,Panama,2021-01-11T16:23:07.743Z,unknown
+948fb273-2840-4795-98fd-2fb0e78fae95,Yokohama,13,4,948fb273-2840-4795-98fd-2fb0e78fae95@example.com,Puerto Rico,2021-01-03T13:01:08.506Z,mobile
+b211a574-28c4-4d90-b0ee-354a8114db9f,Las Vegas,14,26,b211a574-28c4-4d90-b0ee-354a8114db9f@example.com,Dominica,2021-01-10T05:18:25.648Z,desktop
+df9d113e-961d-4ffd-accf-06a84ea8a259,Nice,7,34,df9d113e-961d-4ffd-accf-06a84ea8a259@example.com,Sudan,2021-01-12T15:13:26.554Z,desktop
+265b8944-023b-4ea1-a2e3-d73ac43e98de,Adana,12,94,265b8944-023b-4ea1-a2e3-d73ac43e98de@example.com,New Zealand,2021-01-06T01:24:51.802Z,desktop
+babf574f-934d-4631-bf61-7573cfcafe80,Rome,14,30,babf574f-934d-4631-bf61-7573cfcafe80@example.com,Saint Lucia,2021-01-09T05:56:26.714Z,tablet
+51025776-15bb-4bde-92e7-ab23cec3ebe1,Apia,12,12,51025776-15bb-4bde-92e7-ab23cec3ebe1@example.com,Mauritania,2021-01-10T03:33:54.837Z,mobile
+973b22f1-fe14-41a6-82c2-27cff15bc746,Turin,13,62,973b22f1-fe14-41a6-82c2-27cff15bc746@example.com,United States Minor Outlying Islands,2021-01-01T16:01:14.398Z,unknown
+3a73a600-d24e-4a72-9001-c30e4c6ae1df,Pristina,12,20,3a73a600-d24e-4a72-9001-c30e4c6ae1df@example.com,Puerto Rico,2021-01-14T22:24:46.467Z,unknown
+2a4a8d8e-a627-42cf-a56b-0a8bcf662f6b,Vientiane,5,97,2a4a8d8e-a627-42cf-a56b-0a8bcf662f6b@example.com,Svalbard and Jan Mayen,2021-01-14T13:48:19.439Z,unknown
+0ba822e0-400f-46c6-90c8-f486d814a7a4,Thessaloniki,15,64,0ba822e0-400f-46c6-90c8-f486d814a7a4@example.com,Afghanistan,2021-01-03T23:08:56.966Z,mobile
+4de73c6b-4153-48d4-850d-ea7c20e4c8a4,Adana,8,26,4de73c6b-4153-48d4-850d-ea7c20e4c8a4@example.com,Finland,2021-01-10T02:34:51.640Z,desktop
+2ab68be4-04ea-4c09-9a27-ec24b12ebd77,Hanoi,7,15,2ab68be4-04ea-4c09-9a27-ec24b12ebd77@example.com,Guam,2021-01-03T16:57:56.705Z,mobile
+987717c7-e8d2-4507-9609-b3247f31cf05,Batticaloa,3,105,987717c7-e8d2-4507-9609-b3247f31cf05@example.com,"Iran, Islamic Republic Of",2021-01-11T12:53:15.600Z,desktop
+72efbd97-ac41-442f-b8cc-5c769149892f,Mumbai,11,37,72efbd97-ac41-442f-b8cc-5c769149892f@example.com,Suriname,2021-01-05T22:23:25.048Z,mobile
+184734d1-b68b-4ae8-9d1a-2e837b0caa85,Boston,14,14,184734d1-b68b-4ae8-9d1a-2e837b0caa85@example.com,Mauritania,2021-01-13T03:55:07.009Z,tablet
+3f1b715c-fac3-46e1-a37b-dcb919ec3196,Antananarivo,6,33,3f1b715c-fac3-46e1-a37b-dcb919ec3196@example.com,Armenia,2021-01-08T04:48:02.025Z,tablet
+ade7e93e-d96f-459d-bb41-31ea825c90ae,Vitória,13,107,ade7e93e-d96f-459d-bb41-31ea825c90ae@example.com,Djibouti,2021-01-02T00:52:46.745Z,tablet
+9c4d1888-8c33-4089-9f34-4d5a4416f8ef,Gaborone,5,51,9c4d1888-8c33-4089-9f34-4d5a4416f8ef@example.com,Ghana,2021-01-04T14:08:48.219Z,tablet
+06652ae4-3fb8-4d3a-9793-d816f9695da8,Santa Cruz de la Sierra,12,80,06652ae4-3fb8-4d3a-9793-d816f9695da8@example.com,Finland,2021-01-01T19:38:21.232Z,desktop
+437818d0-c560-4849-9094-b363c48172c5,Makati City,3,92,437818d0-c560-4849-9094-b363c48172c5@example.com,"Palestinian Territory, Occupied",2021-01-02T10:11:11.407Z,desktop
+b27f45c9-7e3e-42ef-89b4-07d0f1304cc0,Vitória,2,3,b27f45c9-7e3e-42ef-89b4-07d0f1304cc0@example.com,Niger,2021-01-02T12:34:44.724Z,unknown
+fce6c60c-265f-4aca-8da8-c75f13788a13,Porto Alegre,3,7,fce6c60c-265f-4aca-8da8-c75f13788a13@example.com,Samoa,2021-01-12T14:42:52.575Z,tablet
+2fd18167-38d1-4ed7-b4b8-be13a433ada1,Phuket (city),9,99,2fd18167-38d1-4ed7-b4b8-be13a433ada1@example.com,Somalia,2021-01-04T06:03:05.489Z,mobile
+6e44c405-c064-4f09-84bf-781c48cdbf8b,Canberra,1,108,6e44c405-c064-4f09-84bf-781c48cdbf8b@example.com,Germany,2021-01-10T04:56:50.643Z,unknown
+9525404c-0056-4ed3-9d5a-1ab37a6a7b29,Concepción,15,92,9525404c-0056-4ed3-9d5a-1ab37a6a7b29@example.com,Cambodia,2021-01-04T06:42:04.228Z,tablet
+b66f603c-609d-49ac-b8fc-9df920b594ba,Baltimore,10,18,b66f603c-609d-49ac-b8fc-9df920b594ba@example.com,"Moldova, Republic of",2021-01-05T19:48:52.358Z,mobile
+1bc1e75b-b57e-43a5-aa12-0d25771961fb,Saint Petersburg,12,85,1bc1e75b-b57e-43a5-aa12-0d25771961fb@example.com,Norfolk Island,2021-01-11T08:13:58.623Z,unknown
+b71a582e-5666-4223-924e-e7ecca342d9e,Basse-Terre,6,40,b71a582e-5666-4223-924e-e7ecca342d9e@example.com,Bangladesh,2021-01-04T14:32:10.594Z,tablet
+b1672968-42fc-4601-8bc2-687b26d36ba5,Vladivostok,15,104,b1672968-42fc-4601-8bc2-687b26d36ba5@example.com,Togo,2021-01-06T19:50:29.907Z,desktop
+c257e665-8b79-4d64-803a-d0c5f49cc27d,Podgorica,3,17,c257e665-8b79-4d64-803a-d0c5f49cc27d@example.com,Austria,2021-01-10T18:38:21.211Z,mobile
+2bb28924-c8c4-417b-a4af-e1259c16b748,Port of Spain,3,17,2bb28924-c8c4-417b-a4af-e1259c16b748@example.com,Barbados,2021-01-06T04:21:20.779Z,desktop
+d700cb5a-2f70-4ecf-a6a0-a828eb642cc6,Brussels,8,3,d700cb5a-2f70-4ecf-a6a0-a828eb642cc6@example.com,Sweden,2021-01-11T15:37:57.839Z,unknown
+1e68e39c-43c5-4df8-bd65-ef7556d767ca,City of San Marino,3,41,1e68e39c-43c5-4df8-bd65-ef7556d767ca@example.com,Colombia,2021-01-04T17:05:52.659Z,desktop
+314bd423-1f14-410f-8e5a-4300785465ae,Cologne,1,118,314bd423-1f14-410f-8e5a-4300785465ae@example.com,Guam,2021-01-14T21:37:47.264Z,tablet
+16bca50f-2a4e-4510-a9db-12779e7bf0d8,Jakarta,2,1,16bca50f-2a4e-4510-a9db-12779e7bf0d8@example.com,Poland,2021-01-01T08:56:31.006Z,tablet
+a2fce858-d84b-42cc-9e88-31e83879eba5,Bogotá,15,14,a2fce858-d84b-42cc-9e88-31e83879eba5@example.com,United Arab Emirates,2021-01-13T05:10:33.140Z,mobile
+fce5b683-dd99-4156-b305-49e3ce5558d6,Lilongwe,13,53,fce5b683-dd99-4156-b305-49e3ce5558d6@example.com,Ghana,2021-01-14T03:40:52.973Z,mobile
+711d9a6f-9b25-4533-b5f7-9142ca72f1f3,Kathmandu,4,81,711d9a6f-9b25-4533-b5f7-9142ca72f1f3@example.com,Marshall Islands,2021-01-10T15:59:44.984Z,unknown
+90abb946-b177-4e5c-a053-b59bb4257c57,Tirana,14,30,90abb946-b177-4e5c-a053-b59bb4257c57@example.com,French Guiana,2021-01-02T20:39:05.524Z,tablet
+d3f7d000-ab26-4952-bf48-d5e1cfedf7f4,Murmansk,7,5,d3f7d000-ab26-4952-bf48-d5e1cfedf7f4@example.com,Lebanon,2021-01-09T10:41:04.437Z,tablet
+4097ce4f-6a14-49e1-a96e-dacccfc97f1d,Algiers,3,102,4097ce4f-6a14-49e1-a96e-dacccfc97f1d@example.com,Cyprus,2021-01-06T00:05:46.372Z,unknown
+0312fb39-6840-4b6e-b5d2-2657b20ad0cc,Lahore,9,55,0312fb39-6840-4b6e-b5d2-2657b20ad0cc@example.com,Comoros,2021-01-08T01:59:49.375Z,tablet
+888f6aab-5da6-4f50-ab76-013ec035b918,Taichung,15,119,888f6aab-5da6-4f50-ab76-013ec035b918@example.com,Isle of Man,2021-01-03T22:52:24.589Z,unknown
+261cc4db-a8d3-4b45-8eba-6ffdcc40c56e,Douala,9,71,261cc4db-a8d3-4b45-8eba-6ffdcc40c56e@example.com,Morocco,2021-01-07T21:51:12.652Z,desktop
+4a00d734-ac3a-4eea-8ba8-e50827c7f40a,Antwerp,2,57,4a00d734-ac3a-4eea-8ba8-e50827c7f40a@example.com,Mexico,2021-01-12T12:15:14.825Z,mobile
+4d7ee039-7fdc-429b-8488-780459258b40,Astana,12,52,4d7ee039-7fdc-429b-8488-780459258b40@example.com,Aruba,2021-01-07T20:38:26.743Z,unknown
+cb29a002-74a6-471f-ac89-a2a3ab8b0ddb,Praia,7,73,cb29a002-74a6-471f-ac89-a2a3ab8b0ddb@example.com,Netherlands Antilles,2021-01-06T13:28:36.084Z,desktop
+0e8c007d-2892-400c-b9bc-8c2498d95aa7,Bilbao,1,26,0e8c007d-2892-400c-b9bc-8c2498d95aa7@example.com,Guinea,2021-01-14T10:35:29.707Z,mobile
+6b42b664-61fe-491a-aea9-8656a1fceac6,Dublin,13,39,6b42b664-61fe-491a-aea9-8656a1fceac6@example.com,Norway,2021-01-06T19:56:55.167Z,unknown
+bd057a99-2bdf-4578-9e6f-c0dd956fe88e,Valletta,9,1,bd057a99-2bdf-4578-9e6f-c0dd956fe88e@example.com,Netherlands,2021-01-11T04:24:05.361Z,desktop
+7760cb05-632c-4505-9e19-6b5108ee6955,Bangui,14,16,7760cb05-632c-4505-9e19-6b5108ee6955@example.com,Monaco,2021-01-11T23:29:35.423Z,mobile
+afeb5a56-a5dc-4b7a-8f72-6b1ac496266b,Tampere,11,93,afeb5a56-a5dc-4b7a-8f72-6b1ac496266b@example.com,Romania,2021-01-01T16:29:15.402Z,tablet
+58f00cd8-43e1-4e83-a8e5-80dfd7e178b6,Istanbul,8,51,58f00cd8-43e1-4e83-a8e5-80dfd7e178b6@example.com,South Africa,2021-01-01T15:27:15.553Z,tablet
+aaac16cb-b928-4ec4-8480-708a23823dda,Petropavlovsk-Kamchatsky,4,68,aaac16cb-b928-4ec4-8480-708a23823dda@example.com,Uzbekistan,2021-01-10T14:11:22.829Z,unknown
+0bf16a5f-d3aa-4136-b1e0-9fe8c5aaa594,Darwin,13,48,0bf16a5f-d3aa-4136-b1e0-9fe8c5aaa594@example.com,Belarus,2021-01-01T13:25:18.249Z,mobile
+b0372ac8-3437-480d-8b1d-afae24de01be,Kanpur,14,91,b0372ac8-3437-480d-8b1d-afae24de01be@example.com,Kiribati,2021-01-04T11:37:24.279Z,tablet
+c9af14aa-c668-46c7-af0c-e3baa64b5636,Havana,1,30,c9af14aa-c668-46c7-af0c-e3baa64b5636@example.com,Croatia,2021-01-07T21:06:52.520Z,mobile
+a57cefc1-cbff-4e8a-ba58-c692dea0af3a,Valletta,14,92,a57cefc1-cbff-4e8a-ba58-c692dea0af3a@example.com,Dominica,2021-01-07T03:35:55.691Z,tablet
+cfadd697-39c1-4ee8-ae96-12b2d714950b,Sarajevo,15,97,cfadd697-39c1-4ee8-ae96-12b2d714950b@example.com,Mongolia,2021-01-02T10:10:09.437Z,unknown
+02744a72-4179-4891-a2b8-7f3f073381c8,Saint-Pierre,6,12,02744a72-4179-4891-a2b8-7f3f073381c8@example.com,"Virgin Islands, U.S.",2021-01-01T12:34:24.814Z,mobile
+045d6bfa-2c4a-4dfb-8743-d72a045834fd,Jamestown,13,111,045d6bfa-2c4a-4dfb-8743-d72a045834fd@example.com,Samoa,2021-01-13T17:34:25.484Z,tablet
+a7b023c2-5c85-4fa2-9967-da0a4952e786,Monrovia,12,20,a7b023c2-5c85-4fa2-9967-da0a4952e786@example.com,New Caledonia,2021-01-13T21:44:58.145Z,unknown
+e93883f9-7f89-48d6-9d6a-6887183b0a0a,Whitehorse,2,61,e93883f9-7f89-48d6-9d6a-6887183b0a0a@example.com,Christmas Island,2021-01-07T07:16:36.538Z,unknown
+ec6e296e-a119-4755-acea-49730b31cfd6,Cape Town,10,100,ec6e296e-a119-4755-acea-49730b31cfd6@example.com,Mexico,2021-01-01T16:32:19.128Z,tablet
+7dc1acd9-e799-4faf-a2a8-2493506c6462,Mashhad,4,39,7dc1acd9-e799-4faf-a2a8-2493506c6462@example.com,Senegal,2021-01-04T17:47:52.721Z,unknown
+869e50e0-d90b-47ad-828d-3d25f9cf1db4,Palikir,12,101,869e50e0-d90b-47ad-828d-3d25f9cf1db4@example.com,Albania,2021-01-10T19:28:46.501Z,unknown
+cc4b2db0-3c97-469e-8f37-27c61f49608a,Santiago,2,77,cc4b2db0-3c97-469e-8f37-27c61f49608a@example.com,Singapore,2021-01-14T06:54:38.147Z,mobile
+a83e907a-4098-4894-96a7-84d084499924,Tabriz,5,107,a83e907a-4098-4894-96a7-84d084499924@example.com,Lebanon,2021-01-12T18:52:06.599Z,mobile
+156e4407-3fa4-455c-b0dc-c01ba695e1f8,Nanning,10,91,156e4407-3fa4-455c-b0dc-c01ba695e1f8@example.com,Iceland,2021-01-07T08:19:22.522Z,mobile
+d8d5e67c-bda0-4e58-b51d-5028a5cfcaf3,Guadalajara,6,96,d8d5e67c-bda0-4e58-b51d-5028a5cfcaf3@example.com,Papua New Guinea,2021-01-14T21:15:20.405Z,unknown
+d9aa64b4-4f64-4f81-9393-7a82896c9afb,Hangzhou,8,31,d9aa64b4-4f64-4f81-9393-7a82896c9afb@example.com,"Micronesia, Federated States of",2021-01-04T09:43:59.895Z,tablet
+370f91e5-1c82-4405-8f18-37dbec41b903,Gaza,6,109,370f91e5-1c82-4405-8f18-37dbec41b903@example.com,Indonesia,2021-01-11T11:25:54.839Z,tablet
+19bf3fff-286d-4f7e-bb2c-d0afebf9d1ce,Omdurman,3,73,19bf3fff-286d-4f7e-bb2c-d0afebf9d1ce@example.com,Bangladesh,2021-01-05T13:36:38.648Z,desktop
+f7f09a12-295d-4c67-9d7d-784b4a6b31ee,Liverpool,8,79,f7f09a12-295d-4c67-9d7d-784b4a6b31ee@example.com,Niue,2021-01-03T09:48:19.226Z,unknown
+5c4541bf-b81e-41ed-b296-1fe583b96f84,Helsinki,7,38,5c4541bf-b81e-41ed-b296-1fe583b96f84@example.com,Guadeloupe,2021-01-10T14:17:39.748Z,tablet
+9b82a0bf-d029-4646-aaff-6958a102fb1f,Boston,6,44,9b82a0bf-d029-4646-aaff-6958a102fb1f@example.com,Oman,2021-01-03T12:52:26.633Z,tablet
+79721b82-db1f-4af5-b509-ef608e1df92f,Bamako,10,68,79721b82-db1f-4af5-b509-ef608e1df92f@example.com,Georgia,2021-01-02T05:40:15.997Z,tablet
+148459dc-3eda-4653-a088-930614a643d9,Chennai,12,4,148459dc-3eda-4653-a088-930614a643d9@example.com,Mozambique,2021-01-09T17:00:34.382Z,unknown
+9fd255e8-d3cc-4eba-9522-12fece1ff3ee,Bulawayo,14,89,9fd255e8-d3cc-4eba-9522-12fece1ff3ee@example.com,Gabon,2021-01-03T05:09:42.134Z,unknown
+73e5631f-c73d-4d67-9a87-7cc475fe43ec,Espoo,12,21,73e5631f-c73d-4d67-9a87-7cc475fe43ec@example.com,Bosnia and Herzegovina,2021-01-06T00:08:30.812Z,unknown
+a62197b6-e1e7-4291-91fd-5f9d4c0b59d6,Timbuktu,3,77,a62197b6-e1e7-4291-91fd-5f9d4c0b59d6@example.com,United Kingdom,2021-01-04T05:04:04.203Z,desktop
+31514f7d-7ecc-41db-b761-dd37e0de7c41,Forked River,13,101,31514f7d-7ecc-41db-b761-dd37e0de7c41@example.com,Gambia,2021-01-05T16:22:53.611Z,unknown
+1ecf0395-1a8d-4cf5-bbb4-447f694cd30c,Bulawayo,7,89,1ecf0395-1a8d-4cf5-bbb4-447f694cd30c@example.com,Swaziland,2021-01-05T03:38:25.285Z,tablet
+4547e2b3-b97d-4ebc-9954-e15804e36b60,Nakhon Ratchasima,2,101,4547e2b3-b97d-4ebc-9954-e15804e36b60@example.com,Niger,2021-01-01T01:25:25.623Z,desktop
+9c2c1fe0-363f-4f92-864f-ed729e30492e,Forked River,3,83,9c2c1fe0-363f-4f92-864f-ed729e30492e@example.com,France,2021-01-13T12:33:50.019Z,tablet
+fd3dcdbd-0da7-4043-a259-fbe91df23dbc,Adamstown,5,83,fd3dcdbd-0da7-4043-a259-fbe91df23dbc@example.com,Brazil,2021-01-11T21:28:50.096Z,desktop
+d6ff7825-01a5-4d4c-abac-85f3d77178e1,Milan,6,30,d6ff7825-01a5-4d4c-abac-85f3d77178e1@example.com,Netherlands Antilles,2021-01-01T01:16:02.001Z,desktop
+d79cda97-4d6e-455d-91b9-98b865aa3066,Seattle,12,13,d79cda97-4d6e-455d-91b9-98b865aa3066@example.com,Honduras,2021-01-09T23:25:54.481Z,mobile
+9c8f5c1c-563b-4c8a-8ff1-bd6cdf4efcdb,Kansas City,7,59,9c8f5c1c-563b-4c8a-8ff1-bd6cdf4efcdb@example.com,Togo,2021-01-13T11:01:58.647Z,tablet
+18f187ae-9570-40a2-af23-72bb81a8c426,Algiers,5,57,18f187ae-9570-40a2-af23-72bb81a8c426@example.com,Hungary,2021-01-04T02:26:24.496Z,mobile
+7bedf55c-3c98-44f5-9dbd-3af3d6585980,City of Halifax,4,111,7bedf55c-3c98-44f5-9dbd-3af3d6585980@example.com,Sri Lanka,2021-01-02T20:28:51.376Z,tablet
+d27f7919-79bf-4e01-8914-7d3ae1140f4c,Phoenix,6,6,d27f7919-79bf-4e01-8914-7d3ae1140f4c@example.com,"Korea, Democratic People""S Republic of",2021-01-03T19:40:08.782Z,unknown
+6abc2393-738e-4934-9d3d-443a31ad13ee,Leipzig,8,94,6abc2393-738e-4934-9d3d-443a31ad13ee@example.com,Martinique,2021-01-02T03:56:19.246Z,mobile
+e15a2a20-174c-4910-b599-e08b4412ce1e,Cairo,1,107,e15a2a20-174c-4910-b599-e08b4412ce1e@example.com,Estonia,2021-01-10T15:39:56.948Z,mobile
+f5094ee5-3605-4ae4-8e04-851b8c2231a9,Nassau,5,36,f5094ee5-3605-4ae4-8e04-851b8c2231a9@example.com,Armenia,2021-01-01T12:07:32.338Z,tablet
+ce58206d-103e-4c5b-86ab-ac3105419508,Cuiabá,13,111,ce58206d-103e-4c5b-86ab-ac3105419508@example.com,Brazil,2021-01-04T15:37:33.411Z,tablet
+883126f0-bbb2-4778-9d0a-aef94e3352d3,Magadan,7,96,883126f0-bbb2-4778-9d0a-aef94e3352d3@example.com,Bahrain,2021-01-07T10:54:35.741Z,desktop
+2a612e64-b74f-4da7-b4d6-be63d1713f87,Macapá,13,72,2a612e64-b74f-4da7-b4d6-be63d1713f87@example.com,Mozambique,2021-01-14T13:04:01.111Z,mobile
+57bdd992-c1be-4ced-bf4d-fae9f7f4341e,Port Said,14,19,57bdd992-c1be-4ced-bf4d-fae9f7f4341e@example.com,Central African Republic,2021-01-04T03:57:29.272Z,mobile
+75f86a27-4e42-462e-ad64-766c75dae6ea,Valencia,15,79,75f86a27-4e42-462e-ad64-766c75dae6ea@example.com,Mayotte,2021-01-05T08:26:06.594Z,desktop
+244f829b-defd-43bc-9472-eb1531b974be,Skopje,13,24,244f829b-defd-43bc-9472-eb1531b974be@example.com,United States,2021-01-09T01:39:05.062Z,desktop
+d9f1a084-47c4-4c6c-ae1c-efc6312c8c24,Port Vila,5,39,d9f1a084-47c4-4c6c-ae1c-efc6312c8c24@example.com,Kuwait,2021-01-01T23:41:25.114Z,desktop
+7d3a4607-8147-401d-81b3-089f11ab6366,Nouakchott,10,3,7d3a4607-8147-401d-81b3-089f11ab6366@example.com,South Georgia and the South Sandwich Islands,2021-01-09T20:41:17.748Z,tablet
+86fb2146-075b-4349-8e77-ab2d5c4b0b2f,Miami,10,73,86fb2146-075b-4349-8e77-ab2d5c4b0b2f@example.com,Guinea-Bissau,2021-01-09T15:08:54.436Z,unknown
+9fa01de2-3db2-4cf6-95a1-27a2a57a55d6,La Paz,2,95,9fa01de2-3db2-4cf6-95a1-27a2a57a55d6@example.com,Qatar,2021-01-01T04:48:40.410Z,mobile
+199c5999-4a97-4d7c-9d4f-e625a1662c54,Serekunda,6,4,199c5999-4a97-4d7c-9d4f-e625a1662c54@example.com,"Micronesia, Federated States of",2021-01-07T03:36:36.597Z,desktop
+bd071316-c4e5-4c66-bb6f-54cb20ed09a3,Lyon,1,106,bd071316-c4e5-4c66-bb6f-54cb20ed09a3@example.com,Nauru,2021-01-07T14:05:19.703Z,tablet
+f56e2d9e-401b-403b-95c7-17e8f430b918,Shigatse,10,118,f56e2d9e-401b-403b-95c7-17e8f430b918@example.com,Dominican Republic,2021-01-11T09:16:46.481Z,mobile
+25c5cad2-6f8e-45de-9ebb-00adb34fc03c,Zanzibar City,2,64,25c5cad2-6f8e-45de-9ebb-00adb34fc03c@example.com,Cyprus,2021-01-10T20:14:25.149Z,desktop
+2401bf43-e9df-41b6-a988-0e1a7d99e19f,Gaborone,4,9,2401bf43-e9df-41b6-a988-0e1a7d99e19f@example.com,Benin,2021-01-13T17:57:45.147Z,tablet
+12747fd0-9a75-4552-8183-d7ad95f2c691,Antwerp,7,93,12747fd0-9a75-4552-8183-d7ad95f2c691@example.com,Angola,2021-01-05T03:42:54.783Z,unknown
+275f85d1-725b-4636-907c-1065476123e6,Kuwait City,6,93,275f85d1-725b-4636-907c-1065476123e6@example.com,Isle of Man,2021-01-03T23:34:06.446Z,mobile
+b7eab2c9-0300-4672-9cf8-fd0aa149c5e7,Malacca Town,13,27,b7eab2c9-0300-4672-9cf8-fd0aa149c5e7@example.com,Romania,2021-01-03T16:39:56.056Z,unknown
+8857024c-cc6d-4be5-920e-8d85a802860d,Maputo,13,9,8857024c-cc6d-4be5-920e-8d85a802860d@example.com,Belize,2021-01-10T00:44:49.833Z,tablet
+844fa6f4-e91a-4262-98a5-cd69830512aa,Sydney,11,31,844fa6f4-e91a-4262-98a5-cd69830512aa@example.com,Brazil,2021-01-10T18:01:04.323Z,tablet
+fe12c400-f8a1-4acb-aaf4-72f1b434e9e6,Christchurch,15,76,fe12c400-f8a1-4acb-aaf4-72f1b434e9e6@example.com,Falkland Islands (Malvinas),2021-01-11T20:39:58.681Z,tablet
+da0c7ce1-5e9f-4ad4-9fee-522a5a046b69,Maceió,6,47,da0c7ce1-5e9f-4ad4-9fee-522a5a046b69@example.com,"Palestinian Territory, Occupied",2021-01-01T11:39:33.248Z,unknown
+e64aee53-50b1-4233-9832-f7380048a5be,Cape Town,14,75,e64aee53-50b1-4233-9832-f7380048a5be@example.com,Libyan Arab Jamahiriya,2021-01-10T04:36:59.044Z,unknown
+5c4647c9-ba26-411a-a208-fe6621c9f5c2,Bandar Seri Begawan,9,74,5c4647c9-ba26-411a-a208-fe6621c9f5c2@example.com,Tokelau,2021-01-06T18:15:06.520Z,desktop
+350328ed-bbd5-401a-aff9-d40677ba8f0b,Juneau,1,105,350328ed-bbd5-401a-aff9-d40677ba8f0b@example.com,Luxembourg,2021-01-07T06:38:39.332Z,mobile
+34508700-0d84-4cad-bc72-d05ca25e7ee4,Chicago,10,33,34508700-0d84-4cad-bc72-d05ca25e7ee4@example.com,Chile,2021-01-11T18:32:46.413Z,desktop
+fe1c3fe2-eadd-4808-a851-a96d09b8aaed,Hargeisa,3,56,fe1c3fe2-eadd-4808-a851-a96d09b8aaed@example.com,Hungary,2021-01-09T04:13:35.250Z,unknown
+973b1203-c9d5-4d8f-8506-9e33caf1b589,Barranquilla,6,21,973b1203-c9d5-4d8f-8506-9e33caf1b589@example.com,Eritrea,2021-01-10T21:45:04.282Z,tablet
+70b4dd87-f567-4fed-b780-a4d653e07b36,Balikpapan,12,68,70b4dd87-f567-4fed-b780-a4d653e07b36@example.com,Philippines,2021-01-01T14:31:11.088Z,unknown
+9f8e2c9d-9415-4f67-8cf8-e4ba697d97a2,Serekunda,9,112,9f8e2c9d-9415-4f67-8cf8-e4ba697d97a2@example.com,China,2021-01-12T06:53:25.895Z,tablet
+a61c61fb-0f8e-46ec-915a-dad2bb0eb81b,Ashgabat,7,79,a61c61fb-0f8e-46ec-915a-dad2bb0eb81b@example.com,Niger,2021-01-06T01:11:33.704Z,unknown
+febc661a-d469-4fc2-ad20-3066deee8f17,San Fernando,1,90,febc661a-d469-4fc2-ad20-3066deee8f17@example.com,AndorrA,2021-01-13T21:08:08.720Z,mobile
+8f7a8cce-1c8e-4426-86cf-1779de4fa0d7,Bergen,8,60,8f7a8cce-1c8e-4426-86cf-1779de4fa0d7@example.com,Comoros,2021-01-12T21:32:36.452Z,tablet
+0f7fe7c9-8bae-4503-a9e2-7285014bc34b,Vancouver,9,98,0f7fe7c9-8bae-4503-a9e2-7285014bc34b@example.com,Estonia,2021-01-14T14:15:08.468Z,desktop
+2d5fc64a-ad35-49d7-8962-93a5842f17e8,Split (city),3,112,2d5fc64a-ad35-49d7-8962-93a5842f17e8@example.com,Austria,2021-01-01T16:49:31.227Z,tablet
+e0c3c5d1-4c94-423f-841a-00e26ba2793c,Jerusalem,14,49,e0c3c5d1-4c94-423f-841a-00e26ba2793c@example.com,Ethiopia,2021-01-01T02:31:59.027Z,mobile
+964c8b07-eb90-4df4-80d1-7ae5264cfe37,Porto-Novo,14,68,964c8b07-eb90-4df4-80d1-7ae5264cfe37@example.com,Afghanistan,2021-01-10T22:40:39.232Z,unknown
+e78b1acf-ef1d-4298-bb96-36ac7daa629a,Khartoum,13,18,e78b1acf-ef1d-4298-bb96-36ac7daa629a@example.com,Burundi,2021-01-11T08:27:35.913Z,tablet
+ea86e3d3-b792-43d9-99e1-3b558fe411c0,Belmopan,8,79,ea86e3d3-b792-43d9-99e1-3b558fe411c0@example.com,Niue,2021-01-14T18:47:01.616Z,tablet
+721cb4e8-9950-44f1-866d-9dc513e780e8,Ottawa,4,35,721cb4e8-9950-44f1-866d-9dc513e780e8@example.com,United States,2021-01-10T20:54:05.877Z,desktop
+81123962-9574-4780-9459-fde0baf72255,Ndola,15,58,81123962-9574-4780-9459-fde0baf72255@example.com,Angola,2021-01-02T20:24:41.215Z,tablet
+280ac0fe-437b-4481-acf4-2b89edfc1755,São José dos Campos,8,43,280ac0fe-437b-4481-acf4-2b89edfc1755@example.com,Myanmar,2021-01-12T05:27:45.495Z,unknown
+de91cd60-11e8-4144-a7b4-3bbc12918d13,Houston,2,11,de91cd60-11e8-4144-a7b4-3bbc12918d13@example.com,"Palestinian Territory, Occupied",2021-01-03T03:20:17.158Z,unknown
+9de901bc-7ac3-484c-adb6-bf92e6bcb0ab,Ouagadougou,3,117,9de901bc-7ac3-484c-adb6-bf92e6bcb0ab@example.com,Switzerland,2021-01-04T08:11:36.307Z,tablet
+59c8762c-8659-4c4b-8a8b-2e825ee3416f,Dodoma,10,119,59c8762c-8659-4c4b-8a8b-2e825ee3416f@example.com,Equatorial Guinea,2021-01-12T08:02:11.551Z,mobile
+ed34a0e5-c06b-4724-b1c9-6c3cf01a1eef,Hilo,13,114,ed34a0e5-c06b-4724-b1c9-6c3cf01a1eef@example.com,Pakistan,2021-01-09T16:05:20.948Z,tablet
+bf53a861-96e3-496d-b628-591f55cd1e44,Blantyre,15,55,bf53a861-96e3-496d-b628-591f55cd1e44@example.com,Colombia,2021-01-12T22:56:50.566Z,mobile
+0a3b5e3a-4b32-48bb-9029-efdc6ca361f7,Medellín,11,107,0a3b5e3a-4b32-48bb-9029-efdc6ca361f7@example.com,Dominica,2021-01-05T13:45:02.686Z,desktop
+04b19693-9694-48a6-933a-1621d660fe15,Kinshasa,4,89,04b19693-9694-48a6-933a-1621d660fe15@example.com,El Salvador,2021-01-02T10:15:19.940Z,desktop
+9659078f-7bb5-41c8-b32a-43e065f08537,Makati City,12,30,9659078f-7bb5-41c8-b32a-43e065f08537@example.com,Yemen,2021-01-11T02:59:16.981Z,desktop
+e73df985-b41f-4e55-ad80-b914ef38c868,İzmir,11,56,e73df985-b41f-4e55-ad80-b914ef38c868@example.com,Austria,2021-01-09T08:13:48.373Z,desktop
+47a20bc3-d341-467d-bc85-ed35c4a31aad,Castries,11,38,47a20bc3-d341-467d-bc85-ed35c4a31aad@example.com,Western Sahara,2021-01-08T09:01:07.792Z,mobile
+e65132de-0b94-4e91-855f-0573eed6eed6,Kingston,10,63,e65132de-0b94-4e91-855f-0573eed6eed6@example.com,"Korea, Republic of",2021-01-11T08:18:41.011Z,unknown
+f6e8cee3-3335-4d12-992c-5d2e1befac25,Rabat,10,99,f6e8cee3-3335-4d12-992c-5d2e1befac25@example.com,"Micronesia, Federated States of",2021-01-04T22:16:55.378Z,tablet
+db93fd31-cf51-4e3f-8b9c-19b49904e10f,Milan,4,51,db93fd31-cf51-4e3f-8b9c-19b49904e10f@example.com,Heard Island and Mcdonald Islands,2021-01-08T01:47:38.543Z,desktop
+c7a9fc13-10b1-44c3-a84b-f151d758ff5d,Asmara,8,102,c7a9fc13-10b1-44c3-a84b-f151d758ff5d@example.com,Svalbard and Jan Mayen,2021-01-10T12:08:24.019Z,unknown
+6c686804-9437-45de-9109-5491c424b873,Antwerp,1,108,6c686804-9437-45de-9109-5491c424b873@example.com,Costa Rica,2021-01-03T17:16:42.771Z,mobile
+6bd06d9d-3a69-4cdf-b100-e21bce15935c,Seattle,4,114,6bd06d9d-3a69-4cdf-b100-e21bce15935c@example.com,Ukraine,2021-01-13T23:07:18.718Z,desktop
+32210c38-3401-42a6-acfb-556f74b1a693,Phnom Penh,10,106,32210c38-3401-42a6-acfb-556f74b1a693@example.com,Kyrgyzstan,2021-01-05T21:28:46.408Z,mobile
+49990025-d74d-42d7-9cd7-3144e6d6f294,Cartagena,11,34,49990025-d74d-42d7-9cd7-3144e6d6f294@example.com,Uruguay,2021-01-07T13:32:05.281Z,unknown
+9668aa15-5258-4202-aa47-29c277acf4bb,Bandung,15,111,9668aa15-5258-4202-aa47-29c277acf4bb@example.com,Nigeria,2021-01-13T14:27:00.673Z,mobile
+97ff853d-b0c1-4605-8403-81716efcbe5f,Bursa,13,19,97ff853d-b0c1-4605-8403-81716efcbe5f@example.com,Portugal,2021-01-08T06:09:49.550Z,unknown
+d77e83aa-d436-4270-bf66-60324bbb0cef,El Aaiún,2,74,d77e83aa-d436-4270-bf66-60324bbb0cef@example.com,Guinea-Bissau,2021-01-04T17:34:05.004Z,unknown
+6cd80877-b0fb-4bff-bc41-ad304aa1386e,Karachi,8,14,6cd80877-b0fb-4bff-bc41-ad304aa1386e@example.com,Bermuda,2021-01-08T10:52:57.602Z,unknown
+c8df8dcf-a172-4773-98f3-8e00d637dc07,Edmonton,1,6,c8df8dcf-a172-4773-98f3-8e00d637dc07@example.com,Central African Republic,2021-01-10T07:23:11.697Z,tablet
+6462a9bf-19d2-42e0-8979-96bdda5f72b3,Glasgow,15,114,6462a9bf-19d2-42e0-8979-96bdda5f72b3@example.com,Svalbard and Jan Mayen,2021-01-07T16:43:56.918Z,mobile
+da95654e-b6fa-4f9b-a61d-ddafcdd7aefb,Jacksonville,9,89,da95654e-b6fa-4f9b-a61d-ddafcdd7aefb@example.com,Gambia,2021-01-06T04:38:58.512Z,desktop
+adacaba7-3ac0-43c6-81e9-a475e00b1461,Gaborone,14,72,adacaba7-3ac0-43c6-81e9-a475e00b1461@example.com,Mozambique,2021-01-08T19:31:16.280Z,mobile
+e766061a-06f5-43de-be8b-4de3a88087a7,Wichita,6,113,e766061a-06f5-43de-be8b-4de3a88087a7@example.com,Nauru,2021-01-10T08:22:13.018Z,desktop
+6bbeed16-0618-4d79-b93d-8afaed62b141,Taipei,7,46,6bbeed16-0618-4d79-b93d-8afaed62b141@example.com,Christmas Island,2021-01-04T01:15:27.903Z,unknown
+4fe72875-d40b-467a-8ce6-d110a27f1540,Gaza,13,58,4fe72875-d40b-467a-8ce6-d110a27f1540@example.com,United Arab Emirates,2021-01-06T00:03:30.596Z,mobile
+c5ba304f-191e-4e02-b188-c96ddf41e125,Vladivostok,14,72,c5ba304f-191e-4e02-b188-c96ddf41e125@example.com,Belarus,2021-01-09T20:43:14.560Z,desktop
+0dc737cc-5455-4cb0-aaa8-d85e89c4d8d3,Riverside,3,59,0dc737cc-5455-4cb0-aaa8-d85e89c4d8d3@example.com,Mexico,2021-01-06T23:52:23.548Z,desktop
+62f2dbbd-c4bd-43bd-a426-4817aef2bccf,Curitiba,7,37,62f2dbbd-c4bd-43bd-a426-4817aef2bccf@example.com,Sudan,2021-01-12T02:22:22.567Z,mobile
+c003bb65-87e1-43d9-b1c4-05349add4eb1,Siem Reap,8,78,c003bb65-87e1-43d9-b1c4-05349add4eb1@example.com,Solomon Islands,2021-01-11T11:32:09.532Z,mobile
+99b68f8e-f25d-457b-a56d-c7d753ce55ab,Ibadan,9,68,99b68f8e-f25d-457b-a56d-c7d753ce55ab@example.com,Liechtenstein,2021-01-08T20:23:03.127Z,desktop
+a20a4eb6-f8b0-4d82-ad29-79d043ea7722,Saint John,8,66,a20a4eb6-f8b0-4d82-ad29-79d043ea7722@example.com,Madagascar,2021-01-14T08:56:24.691Z,desktop
+36d21eac-6e95-4b0e-9294-1d206637f7d7,Xi'an,12,11,36d21eac-6e95-4b0e-9294-1d206637f7d7@example.com,France,2021-01-07T16:02:05.659Z,tablet
+982a4f19-c431-4a8d-b843-f957bf997958,Palma,12,120,982a4f19-c431-4a8d-b843-f957bf997958@example.com,Saudi Arabia,2021-01-04T12:32:46.245Z,mobile
+2bdf17d4-8db7-48e2-b0bf-0e1c22b6c8ce,Palembang,4,116,2bdf17d4-8db7-48e2-b0bf-0e1c22b6c8ce@example.com,RWANDA,2021-01-04T10:37:09.659Z,unknown
+2847ea2e-819f-4fe7-a7ee-92264cda90ac,Suez,9,14,2847ea2e-819f-4fe7-a7ee-92264cda90ac@example.com,Burkina Faso,2021-01-10T23:44:59.851Z,desktop
+94e64ebb-b527-4f11-b660-e765117028c3,Charlotte Amalie,14,46,94e64ebb-b527-4f11-b660-e765117028c3@example.com,Guinea,2021-01-03T02:40:44.239Z,unknown
+80dca12e-9bf5-4f0d-969a-e6ebf12767de,Tagbilaran,7,1,80dca12e-9bf5-4f0d-969a-e6ebf12767de@example.com,Niger,2021-01-14T21:31:43.809Z,unknown
+5fcfd6e4-61c8-4b1d-aabc-39b5b2f99784,Horta (Azores),7,50,5fcfd6e4-61c8-4b1d-aabc-39b5b2f99784@example.com,Germany,2021-01-04T16:44:12.078Z,tablet
+f3ae3c02-297f-4b46-a585-f7f87134ced0,Oranjestad,15,48,f3ae3c02-297f-4b46-a585-f7f87134ced0@example.com,Svalbard and Jan Mayen,2021-01-08T14:05:35.055Z,desktop
+80c063b5-7d5c-4647-84e6-3e729f048560,Skopje,9,1,80c063b5-7d5c-4647-84e6-3e729f048560@example.com,Guyana,2021-01-02T14:58:23.445Z,tablet
+88265423-5b14-48b0-ba3d-8a34931da075,Dammam,1,31,88265423-5b14-48b0-ba3d-8a34931da075@example.com,Timor-Leste,2021-01-14T22:01:11.854Z,tablet
+a445b157-58b5-4eb6-b4b7-a0c229814b21,Cape Town,7,58,a445b157-58b5-4eb6-b4b7-a0c229814b21@example.com,Luxembourg,2021-01-12T16:25:35.504Z,desktop
+60cde18f-42bc-4fbb-b25b-78247bb4466c,Los Angeles,7,10,60cde18f-42bc-4fbb-b25b-78247bb4466c@example.com,Mexico,2021-01-14T21:32:17.151Z,mobile
+984fd642-1d64-4127-9f14-bbd8bc9b867c,Macau,11,12,984fd642-1d64-4127-9f14-bbd8bc9b867c@example.com,Chile,2021-01-10T13:41:16.588Z,unknown
+8f07dac0-1026-460b-a315-1f2cd04af422,Barranquilla,2,115,8f07dac0-1026-460b-a315-1f2cd04af422@example.com,"Congo, The Democratic Republic of the",2021-01-11T19:39:27.692Z,tablet
+4c8e9bc1-33d8-4879-9651-070434b7feea,Pretoria,2,82,4c8e9bc1-33d8-4879-9651-070434b7feea@example.com,New Caledonia,2021-01-04T22:48:10.261Z,mobile
+3ed435c5-6907-4ac3-8816-f5b71f99351f,Dibrugarh,3,64,3ed435c5-6907-4ac3-8816-f5b71f99351f@example.com,Saint Kitts and Nevis,2021-01-07T23:24:34.970Z,tablet
+436846c0-c2b7-44e2-8146-f3d85bf10962,Agartala,7,31,436846c0-c2b7-44e2-8146-f3d85bf10962@example.com,Jamaica,2021-01-06T14:30:38.243Z,tablet
+d7ab28d7-6940-4038-8ef4-48f3dc3de072,Jacksonville,3,99,d7ab28d7-6940-4038-8ef4-48f3dc3de072@example.com,Antigua and Barbuda,2021-01-05T11:39:43.294Z,tablet
+9db62905-b45e-4b96-bcdb-caa95b3dbbea,San José,14,78,9db62905-b45e-4b96-bcdb-caa95b3dbbea@example.com,Bouvet Island,2021-01-05T23:22:39.113Z,mobile
+949c00a8-dd8a-4a92-a40f-0dfd6c28dc2d,Aberdeen,3,119,949c00a8-dd8a-4a92-a40f-0dfd6c28dc2d@example.com,Botswana,2021-01-02T05:51:44.510Z,mobile
+5487552f-a88f-4a0d-89ce-6868900e7b23,Santa Cruz de Tenerife,13,68,5487552f-a88f-4a0d-89ce-6868900e7b23@example.com,Kuwait,2021-01-10T15:25:54.359Z,mobile
+ea9b7113-121c-42ad-8436-ce47bcfcb096,Ahmedabad,14,8,ea9b7113-121c-42ad-8436-ce47bcfcb096@example.com,Christmas Island,2021-01-13T07:22:25.678Z,desktop
+88fa313f-66d2-4727-b062-334d96e6ea77,Serekunda,1,43,88fa313f-66d2-4727-b062-334d96e6ea77@example.com,Sierra Leone,2021-01-02T02:12:30.011Z,mobile
+c6393102-c403-4a3d-9329-5b927c4fbbd6,Praia,11,58,c6393102-c403-4a3d-9329-5b927c4fbbd6@example.com,Netherlands Antilles,2021-01-06T17:15:59.291Z,desktop
+2fe30832-4457-4aab-ade1-cfec870faeeb,Miami,8,8,2fe30832-4457-4aab-ade1-cfec870faeeb@example.com,Algeria,2021-01-03T20:11:04.666Z,mobile
+a855d806-8161-491b-8aa9-c22b84883bc9,Providence,9,92,a855d806-8161-491b-8aa9-c22b84883bc9@example.com,Kenya,2021-01-13T16:14:15.233Z,desktop
+11cb4ccc-2693-497c-ab49-d55044613e1a,Boa Vista,9,113,11cb4ccc-2693-497c-ab49-d55044613e1a@example.com,Cameroon,2021-01-10T16:02:04.965Z,mobile
+50dc86e0-5bf1-4c12-8d37-5cbd4127e328,Belfast,6,114,50dc86e0-5bf1-4c12-8d37-5cbd4127e328@example.com,Gambia,2021-01-14T02:43:34.142Z,desktop
+ceb3de85-4e26-47fe-9f1a-78d0054bd76f,Sitka,13,9,ceb3de85-4e26-47fe-9f1a-78d0054bd76f@example.com,Myanmar,2021-01-13T23:57:51.350Z,mobile
+2b01c722-6083-4bd0-b378-a84525b025e4,Paramaribo,7,21,2b01c722-6083-4bd0-b378-a84525b025e4@example.com,Cyprus,2021-01-11T07:48:31.919Z,mobile
+de09cc2e-4113-4e37-9c26-d4a070e020eb,Chuí,15,61,de09cc2e-4113-4e37-9c26-d4a070e020eb@example.com,RWANDA,2021-01-11T10:33:20.337Z,desktop
+77919e97-126e-49cb-9d86-39323d3a2ed7,Curitiba,4,91,77919e97-126e-49cb-9d86-39323d3a2ed7@example.com,Chile,2021-01-06T22:48:00.894Z,mobile
+e1155bf8-eb88-437e-bf70-e9ca9c2ddc3b,Thessaloniki,4,105,e1155bf8-eb88-437e-bf70-e9ca9c2ddc3b@example.com,Romania,2021-01-13T14:33:51.180Z,mobile
+bdd5662e-7863-4f43-b6a9-f14380b1c818,Faisalabad,13,117,bdd5662e-7863-4f43-b6a9-f14380b1c818@example.com,Fiji,2021-01-03T20:47:19.786Z,mobile
+be663176-a1c3-4fd4-82b3-e4e4bf000d30,Pristina,12,15,be663176-a1c3-4fd4-82b3-e4e4bf000d30@example.com,Lesotho,2021-01-03T06:38:41.496Z,mobile
+28b0053d-5986-40ae-8a18-5a33d1d2736b,Sucre,12,99,28b0053d-5986-40ae-8a18-5a33d1d2736b@example.com,Denmark,2021-01-13T19:13:17.302Z,unknown
+6f833e6d-8db4-4352-affe-694aa3c4079f,Montreal,6,106,6f833e6d-8db4-4352-affe-694aa3c4079f@example.com,Western Sahara,2021-01-11T10:11:51.853Z,mobile
+fb8b16f9-288b-4342-aabe-4259207ad14d,Taichung,12,27,fb8b16f9-288b-4342-aabe-4259207ad14d@example.com,Cyprus,2021-01-12T00:32:08.576Z,tablet
+f516f1ea-d42c-45f2-a91b-9c2b3b606623,Lilongwe,8,59,f516f1ea-d42c-45f2-a91b-9c2b3b606623@example.com,Estonia,2021-01-06T04:40:57.248Z,unknown
+6d9256fd-b22b-483f-8594-cbecb97d8827,Port Elizabeth,9,38,6d9256fd-b22b-483f-8594-cbecb97d8827@example.com,"Congo, The Democratic Republic of the",2021-01-14T14:10:46.179Z,desktop
+f995d0c5-f958-487a-aaf4-c8becf47d3e7,Lyon,4,109,f995d0c5-f958-487a-aaf4-c8becf47d3e7@example.com,Ireland,2021-01-05T02:46:36.675Z,desktop
+13906b4f-b306-435f-a208-45aeacaa53c4,Malmö,6,36,13906b4f-b306-435f-a208-45aeacaa53c4@example.com,Sierra Leone,2021-01-01T12:38:14.321Z,desktop
+47fa9f10-f6de-45e9-89eb-ccec675c0441,Seville,8,39,47fa9f10-f6de-45e9-89eb-ccec675c0441@example.com,Mali,2021-01-09T13:50:16.603Z,tablet
+df1ed3a2-7696-4279-9e5e-71cefe325925,Kuwait City,9,120,df1ed3a2-7696-4279-9e5e-71cefe325925@example.com,Barbados,2021-01-10T09:08:10.004Z,mobile
+1cbefe51-c8f6-4597-a9d3-2cc9e70b707d,Hong Kong,4,2,1cbefe51-c8f6-4597-a9d3-2cc9e70b707d@example.com,Morocco,2021-01-10T02:52:00.206Z,mobile
+6508b60b-cbe8-4881-b8af-4c66aeaf49a8,Hangzhou,9,76,6508b60b-cbe8-4881-b8af-4c66aeaf49a8@example.com,Kyrgyzstan,2021-01-12T13:28:39.720Z,tablet
+d118592e-efb3-49f6-8f9e-fc2a50f2cad4,Colombo,10,79,d118592e-efb3-49f6-8f9e-fc2a50f2cad4@example.com,Fiji,2021-01-01T16:40:05.079Z,tablet
+2093ee99-1df2-4e46-b63f-aacbf45ed5ea,Ulan Bator,13,65,2093ee99-1df2-4e46-b63f-aacbf45ed5ea@example.com,Guinea-Bissau,2021-01-01T13:35:09.789Z,unknown
+8a95a4e7-e1b4-4cdc-9003-dd739bc21f81,Multan,3,18,8a95a4e7-e1b4-4cdc-9003-dd739bc21f81@example.com,Botswana,2021-01-11T15:57:54.228Z,desktop
+8a5bb62d-bcb5-475f-9388-d864b03e45ff,Malé,15,42,8a5bb62d-bcb5-475f-9388-d864b03e45ff@example.com,Kazakhstan,2021-01-13T23:08:22.186Z,mobile
+ea253b12-080d-49ca-854d-81bc46fbbe54,Liverpool,14,47,ea253b12-080d-49ca-854d-81bc46fbbe54@example.com,Albania,2021-01-08T00:01:43.725Z,desktop
+be0fab7d-fdcb-4bae-b7aa-760cac4cc42d,Port Said,15,118,be0fab7d-fdcb-4bae-b7aa-760cac4cc42d@example.com,Nigeria,2021-01-10T07:41:03.515Z,mobile
+0234a3a3-b1e0-4f4a-b8d6-db12c6bdba9e,Budapest,4,115,0234a3a3-b1e0-4f4a-b8d6-db12c6bdba9e@example.com,Greenland,2021-01-01T08:42:23.568Z,mobile
+8f78281c-0101-4af1-bc26-a16bd7ca0bdc,Juneau,13,4,8f78281c-0101-4af1-bc26-a16bd7ca0bdc@example.com,Papua New Guinea,2021-01-12T16:39:18.381Z,tablet
+15d2a6ce-fd62-4e44-b59a-6813922074ff,Bishkek,4,82,15d2a6ce-fd62-4e44-b59a-6813922074ff@example.com,Guinea,2021-01-12T14:06:03.804Z,mobile
+a5af9395-7f9e-46a7-bbcf-a05efe5d845e,Fort-de-France,13,9,a5af9395-7f9e-46a7-bbcf-a05efe5d845e@example.com,Kenya,2021-01-02T08:05:08.072Z,desktop
+299f9e23-8d6c-4727-9faf-251ff069b5a5,Wuhan,15,20,299f9e23-8d6c-4727-9faf-251ff069b5a5@example.com,Jordan,2021-01-05T07:23:41.371Z,desktop
+227656be-61dd-4ccb-8ab9-289c7666564b,Indianapolis,8,51,227656be-61dd-4ccb-8ab9-289c7666564b@example.com,Algeria,2021-01-13T02:57:50.238Z,mobile
+05f909c8-3fb2-49f6-b73c-06610d5d11b1,Medan,3,50,05f909c8-3fb2-49f6-b73c-06610d5d11b1@example.com,Burundi,2021-01-08T13:41:42.433Z,desktop
+87835b9d-2f1d-41ee-90e0-3a20c50735fa,Monrovia,9,7,87835b9d-2f1d-41ee-90e0-3a20c50735fa@example.com,Bhutan,2021-01-01T03:26:37.293Z,unknown
+9c369d0d-2962-47c7-b235-c6be5b041a5b,Phuket (city),14,101,9c369d0d-2962-47c7-b235-c6be5b041a5b@example.com,Libyan Arab Jamahiriya,2021-01-01T06:39:31.343Z,unknown
+8de33414-b9e6-4058-b074-0e8b05a69644,Milwaukee,7,29,8de33414-b9e6-4058-b074-0e8b05a69644@example.com,Hong Kong,2021-01-03T01:34:42.814Z,desktop
+a8ef883d-6366-4fad-83c2-f9c74b4b038b,Phnom Penh,5,112,a8ef883d-6366-4fad-83c2-f9c74b4b038b@example.com,Tuvalu,2021-01-14T21:01:50.084Z,unknown
+0c5d7d64-2aac-4a3e-9725-7bec6ef341c3,Monterrey,2,66,0c5d7d64-2aac-4a3e-9725-7bec6ef341c3@example.com,"Virgin Islands, British",2021-01-06T18:58:10.384Z,desktop
+8094c104-fa8b-4e46-b9a5-e1c91eb947b1,Skopje,12,77,8094c104-fa8b-4e46-b9a5-e1c91eb947b1@example.com,Djibouti,2021-01-13T05:51:48.079Z,mobile
+e9929c17-9036-4331-b10b-a24a7e6eaf97,La Paz,14,12,e9929c17-9036-4331-b10b-a24a7e6eaf97@example.com,Guatemala,2021-01-03T20:16:43.952Z,mobile
+d8a752b8-4776-4826-99fd-f9e94810e281,Hanoi,4,29,d8a752b8-4776-4826-99fd-f9e94810e281@example.com,Honduras,2021-01-08T02:19:53.359Z,mobile
+949480da-6b72-4481-b3fa-06a8d33b63c6,Mérida,6,29,949480da-6b72-4481-b3fa-06a8d33b63c6@example.com,Germany,2021-01-09T22:39:54.177Z,desktop
+b26758ec-55bf-4e4b-9998-d88f2005e9ed,Maseru,15,47,b26758ec-55bf-4e4b-9998-d88f2005e9ed@example.com,Tokelau,2021-01-14T15:53:45.462Z,unknown
+8b00a85f-0e3d-4784-9ed0-45ca48e4d735,Shillong,8,3,8b00a85f-0e3d-4784-9ed0-45ca48e4d735@example.com,Peru,2021-01-04T16:46:39.238Z,mobile
+cb42b1e7-a76c-48d7-9aad-3d8ac28df0ab,Kuala Lumpur,3,22,cb42b1e7-a76c-48d7-9aad-3d8ac28df0ab@example.com,Bahrain,2021-01-09T19:24:11.502Z,unknown
+c4230a73-3a96-4a04-8c9b-7eb69e912dec,Minsk,15,111,c4230a73-3a96-4a04-8c9b-7eb69e912dec@example.com,Saint Kitts and Nevis,2021-01-05T03:12:15.216Z,desktop
+b5a09cb4-b3f8-47ce-9055-3e59bd712c38,Medina,1,90,b5a09cb4-b3f8-47ce-9055-3e59bd712c38@example.com,"Virgin Islands, British",2021-01-07T16:37:19.103Z,unknown
+44cb4981-24c5-4b48-a9a6-87e1e8253387,Macau,13,93,44cb4981-24c5-4b48-a9a6-87e1e8253387@example.com,RWANDA,2021-01-11T18:59:10.118Z,unknown
+18d3f11f-5e51-40b2-a92e-00b0209b28a5,Papeete,10,39,18d3f11f-5e51-40b2-a92e-00b0209b28a5@example.com,Colombia,2021-01-14T06:38:52.219Z,desktop
+e4640ed7-ad48-468c-b588-57fb77c5aa62,Bandar Seri Begawan,13,50,e4640ed7-ad48-468c-b588-57fb77c5aa62@example.com,Papua New Guinea,2021-01-11T03:53:01.443Z,unknown
+d8f2a1db-860a-43f9-8b26-61b04f229ce8,Riga,3,45,d8f2a1db-860a-43f9-8b26-61b04f229ce8@example.com,"Moldova, Republic of",2021-01-12T06:29:33.277Z,desktop
+a5a2600e-1a81-4d53-afbd-01e456d24433,Gaborone,10,62,a5a2600e-1a81-4d53-afbd-01e456d24433@example.com,Gibraltar,2021-01-04T20:34:11.196Z,mobile
+962304dc-3bb6-45c9-89b6-23208e5f2e04,Minsk,11,57,962304dc-3bb6-45c9-89b6-23208e5f2e04@example.com,Åland Islands,2021-01-03T17:37:38.603Z,desktop
+fe373f5a-e466-42d4-b6b9-8e4b036621b4,Munich,11,116,fe373f5a-e466-42d4-b6b9-8e4b036621b4@example.com,Tuvalu,2021-01-14T03:10:49.505Z,mobile
+3564b2cb-405f-491c-aa21-27636bf9eeec,Maracaibo,15,51,3564b2cb-405f-491c-aa21-27636bf9eeec@example.com,Nepal,2021-01-12T02:45:19.841Z,tablet
+a583459b-08f5-477d-84fc-a2057a855c9f,Kano,3,6,a583459b-08f5-477d-84fc-a2057a855c9f@example.com,Czech Republic,2021-01-01T12:14:31.339Z,tablet
+4ef63c8a-ef3a-4d05-a53a-0562809a112d,Yaren District,7,96,4ef63c8a-ef3a-4d05-a53a-0562809a112d@example.com,Solomon Islands,2021-01-14T18:10:39.408Z,unknown
+2215b011-c4e8-4e1c-b212-0088e861c7bb,Sofia,12,116,2215b011-c4e8-4e1c-b212-0088e861c7bb@example.com,Pitcairn,2021-01-02T03:03:34.667Z,unknown
+e314c17e-7be2-4cce-844a-f45208a78ff8,Maracaibo,11,66,e314c17e-7be2-4cce-844a-f45208a78ff8@example.com,Maldives,2021-01-04T19:55:26.741Z,desktop
+7d3f82c0-b00f-4b17-8e2e-67bda450ca63,Mwanza,13,46,7d3f82c0-b00f-4b17-8e2e-67bda450ca63@example.com,Benin,2021-01-02T13:01:22.948Z,tablet
+5213283f-aa1f-4345-9596-c946df30d15d,Salt Lake City,8,106,5213283f-aa1f-4345-9596-c946df30d15d@example.com,Martinique,2021-01-03T06:52:52.175Z,desktop
+71eb401f-3680-4a35-9209-1db3c4f6beda,Louisville,3,11,71eb401f-3680-4a35-9209-1db3c4f6beda@example.com,New Zealand,2021-01-02T04:31:17.990Z,desktop
+8d271711-2660-4905-ac91-2397a1ea9ffc,Surat Thani,1,13,8d271711-2660-4905-ac91-2397a1ea9ffc@example.com,Saint Helena,2021-01-10T16:50:27.734Z,mobile
+606974ca-0c23-4815-8930-6305bf5a1c5b,Aberdeen,5,78,606974ca-0c23-4815-8930-6305bf5a1c5b@example.com,Bahamas,2021-01-10T07:01:28.773Z,mobile
+6d15f41f-21eb-4cb5-aed0-dc9fdc592546,Cebu City,8,29,6d15f41f-21eb-4cb5-aed0-dc9fdc592546@example.com,South Africa,2021-01-12T09:05:52.314Z,tablet
+85c784a9-2286-4ff0-8e64-f9cf4b0b54a9,Cebu City,6,102,85c784a9-2286-4ff0-8e64-f9cf4b0b54a9@example.com,Liberia,2021-01-01T18:44:34.568Z,unknown
+eba644b1-9c89-4ec9-9c03-5e9971cb372c,Port Hedland,5,41,eba644b1-9c89-4ec9-9c03-5e9971cb372c@example.com,Senegal,2021-01-01T01:05:06.163Z,mobile
+fbb31a3c-9a7b-4298-87d7-8f43e7cd1d51,St. Louis,3,53,fbb31a3c-9a7b-4298-87d7-8f43e7cd1d51@example.com,Cayman Islands,2021-01-10T16:14:44.826Z,unknown
+0e5ad1bf-161f-4567-aa9d-f518e2d8a569,Vitória,5,84,0e5ad1bf-161f-4567-aa9d-f518e2d8a569@example.com,Tuvalu,2021-01-07T23:52:18.678Z,tablet
+83561a55-3b63-4cbc-a043-877679653eca,Port Elizabeth,10,99,83561a55-3b63-4cbc-a043-877679653eca@example.com,Seychelles,2021-01-13T21:56:54.310Z,mobile
+7df5b8c5-dc3e-48f1-8706-6158050b18ad,City of Halifax,6,104,7df5b8c5-dc3e-48f1-8706-6158050b18ad@example.com,China,2021-01-03T19:17:59.345Z,unknown
+26e51093-779f-4da9-8c60-1169c4610da7,Tripoli,4,46,26e51093-779f-4da9-8c60-1169c4610da7@example.com,South Georgia and the South Sandwich Islands,2021-01-11T23:59:51.246Z,desktop
+68910d78-8ec7-4799-a9b3-34d148a91db6,Cincinnati,1,14,68910d78-8ec7-4799-a9b3-34d148a91db6@example.com,United States Minor Outlying Islands,2021-01-11T05:47:23.530Z,mobile
+999b3f9f-895d-40d1-9e23-38fbf8e606f9,Ahmedabad,6,90,999b3f9f-895d-40d1-9e23-38fbf8e606f9@example.com,Turks and Caicos Islands,2021-01-04T00:28:18.374Z,desktop
+e91ce1ce-8464-4f6e-94f8-130b934374de,Kawasaki,11,79,e91ce1ce-8464-4f6e-94f8-130b934374de@example.com,Poland,2021-01-11T05:47:27.582Z,desktop
+0e7040cb-d184-454d-b538-5e948249f391,Aberdeen,13,78,0e7040cb-d184-454d-b538-5e948249f391@example.com,Mauritania,2021-01-12T08:18:56.056Z,mobile
+51cfc3e9-d1d3-49d8-9e18-8aed85b896b3,Jeddah,15,55,51cfc3e9-d1d3-49d8-9e18-8aed85b896b3@example.com,Uruguay,2021-01-10T20:48:38.631Z,desktop
+9a82ee8c-8d3f-46cf-a11e-750c30e6a454,Denpasar,11,20,9a82ee8c-8d3f-46cf-a11e-750c30e6a454@example.com,Belize,2021-01-11T03:53:27.584Z,mobile
+a57f6c6b-6f01-484e-a751-91dd0bac7493,Fukuoka,9,54,a57f6c6b-6f01-484e-a751-91dd0bac7493@example.com,Netherlands Antilles,2021-01-08T20:30:32.726Z,tablet
+3cfec00f-79f8-4a6b-bcd8-213de35ca1b6,Koror,3,95,3cfec00f-79f8-4a6b-bcd8-213de35ca1b6@example.com,Yemen,2021-01-14T18:44:44.978Z,mobile
+2c3997ae-5006-48c8-8f43-613253ec8c9f,Milwaukee,1,93,2c3997ae-5006-48c8-8f43-613253ec8c9f@example.com,Barbados,2021-01-05T22:08:54.839Z,tablet
+dea2664f-62b5-458c-8e79-1a9619307c72,Hargeisa,4,28,dea2664f-62b5-458c-8e79-1a9619307c72@example.com,Trinidad and Tobago,2021-01-08T16:37:50.659Z,tablet
+1f3f5507-b359-4af7-98a1-4b9486a55ffb,Sacramento,13,21,1f3f5507-b359-4af7-98a1-4b9486a55ffb@example.com,Iceland,2021-01-01T13:09:11.130Z,desktop
+1a57259b-1056-4b3d-b7f9-388b7b64deba,Fredericton,14,68,1a57259b-1056-4b3d-b7f9-388b7b64deba@example.com,Ireland,2021-01-08T10:46:05.040Z,tablet
+0f835812-7569-4e03-8010-197396e01081,The Valley,15,16,0f835812-7569-4e03-8010-197396e01081@example.com,Hungary,2021-01-07T10:45:53.685Z,mobile
+e203652e-75b2-4a08-b12f-a96ed9df0ef8,Vaduz,1,79,e203652e-75b2-4a08-b12f-a96ed9df0ef8@example.com,Gabon,2021-01-05T23:23:49.880Z,mobile
+35120e9a-84ab-41f1-89e4-4300ae248408,Tartu,5,9,35120e9a-84ab-41f1-89e4-4300ae248408@example.com,Bahamas,2021-01-14T10:20:32.676Z,tablet
+bf8bbafa-7c5a-424b-acf4-aecaa4b988f7,Cali,15,112,bf8bbafa-7c5a-424b-acf4-aecaa4b988f7@example.com,Bangladesh,2021-01-05T18:31:33.604Z,desktop
+cdeba91d-141b-48ee-a5a2-b9a0ee043390,São Tomé,4,12,cdeba91d-141b-48ee-a5a2-b9a0ee043390@example.com,Monaco,2021-01-06T02:33:42.525Z,desktop
+37c7f350-f07e-4f2b-bc28-5ef62b804a55,New Orleans,4,74,37c7f350-f07e-4f2b-bc28-5ef62b804a55@example.com,Georgia,2021-01-07T07:21:28.420Z,mobile
+b207d8db-5af3-4eca-8104-a0eb1220c5cf,Shigatse,9,53,b207d8db-5af3-4eca-8104-a0eb1220c5cf@example.com,"Lao People""S Democratic Republic",2021-01-10T08:38:58.419Z,mobile
+bb7b4b90-c18e-4623-abfd-ff361ff7a172,Rawalpindi,9,55,bb7b4b90-c18e-4623-abfd-ff361ff7a172@example.com,Turkey,2021-01-06T11:07:49.850Z,mobile
+b7e59e7a-31ea-41d0-838e-70c316194a94,Nicosia,7,73,b7e59e7a-31ea-41d0-838e-70c316194a94@example.com,El Salvador,2021-01-13T01:53:21.596Z,mobile
+58eeb30d-0eae-4037-a2f2-ed40fd0aec2d,Frankfurt,8,93,58eeb30d-0eae-4037-a2f2-ed40fd0aec2d@example.com,Turkmenistan,2021-01-04T17:43:26.089Z,desktop
+e63de460-3099-43ce-ae3c-4a279422b0be,Perth,2,70,e63de460-3099-43ce-ae3c-4a279422b0be@example.com,Cocos (Keeling) Islands,2021-01-12T18:33:41.314Z,mobile
+1f991e5f-2dc6-446d-a923-2a746a80f523,Douala,10,16,1f991e5f-2dc6-446d-a923-2a746a80f523@example.com,"Lao People""S Democratic Republic",2021-01-08T02:36:50.910Z,unknown
+273381c3-7b1d-43c4-8c6a-e42ccb24c949,Boston,13,90,273381c3-7b1d-43c4-8c6a-e42ccb24c949@example.com,Libyan Arab Jamahiriya,2021-01-08T11:47:08.295Z,tablet
+6b18beb2-8141-44c2-8e32-38a4b0bf06cc,Graz,8,56,6b18beb2-8141-44c2-8e32-38a4b0bf06cc@example.com,Netherlands Antilles,2021-01-02T15:57:16.159Z,unknown
+4f061db2-a177-461a-a4f2-bdce0e918652,Calgary,5,107,4f061db2-a177-461a-a4f2-bdce0e918652@example.com,Bosnia and Herzegovina,2021-01-07T15:59:00.934Z,desktop
+47a96e97-0523-4e59-917e-82e4c31748c1,Vitória,15,78,47a96e97-0523-4e59-917e-82e4c31748c1@example.com,Pitcairn,2021-01-14T12:45:40.850Z,mobile
+9dd8dd80-2720-4c43-bdc7-3f1482d114a8,Nairobi,11,82,9dd8dd80-2720-4c43-bdc7-3f1482d114a8@example.com,South Africa,2021-01-05T04:35:27.945Z,unknown
+d7307d69-d352-49fc-ba4a-bbc758282078,Reykjavík,10,105,d7307d69-d352-49fc-ba4a-bbc758282078@example.com,Belgium,2021-01-08T00:00:25.070Z,unknown
+46865040-849e-4609-8efd-97993d4a6559,Abu Dhabi,12,57,46865040-849e-4609-8efd-97993d4a6559@example.com,Croatia,2021-01-03T06:19:15.813Z,desktop
+785fbefa-b723-4021-a844-f7a668b61c9a,Semarang,11,113,785fbefa-b723-4021-a844-f7a668b61c9a@example.com,Montserrat,2021-01-13T16:12:14.293Z,tablet
+20c2ad25-f361-41fc-a6de-efbfd824a3fe,Lomé,2,4,20c2ad25-f361-41fc-a6de-efbfd824a3fe@example.com,Netherlands,2021-01-13T22:20:31.903Z,mobile
+3fa65b97-64bc-4ba4-9a40-d497c85ef161,Bucharest,8,55,3fa65b97-64bc-4ba4-9a40-d497c85ef161@example.com,Haiti,2021-01-04T00:16:27.286Z,mobile
+773033e6-769b-4095-861b-a1752e2506dc,Jinan,11,116,773033e6-769b-4095-861b-a1752e2506dc@example.com,Syrian Arab Republic,2021-01-07T10:03:45.637Z,desktop
+79ce2fb8-ffcb-4e73-aa1c-2d9966e7b6fc,Honiara,6,32,79ce2fb8-ffcb-4e73-aa1c-2d9966e7b6fc@example.com,RWANDA,2021-01-05T05:42:04.077Z,mobile
+dbeb9a1e-998f-4a15-86ef-b9aeac76f052,Portland,2,12,dbeb9a1e-998f-4a15-86ef-b9aeac76f052@example.com,Saint Helena,2021-01-11T18:33:15.952Z,mobile
+dcadfa48-b37d-43eb-961b-71bc2c4f3a3c,Udon Thani,8,59,dcadfa48-b37d-43eb-961b-71bc2c4f3a3c@example.com,Liberia,2021-01-06T02:29:44.295Z,mobile
+ece45dc7-3b43-4001-8ba9-1049faa4958e,Macau,2,100,ece45dc7-3b43-4001-8ba9-1049faa4958e@example.com,Serbia and Montenegro,2021-01-09T04:23:31.770Z,tablet
+f1371230-3c02-4495-aefc-64ecaabec480,Skopje,10,76,f1371230-3c02-4495-aefc-64ecaabec480@example.com,Heard Island and Mcdonald Islands,2021-01-05T06:22:07.649Z,tablet
+501d629d-3467-431a-a983-12bd01534d87,Cartagena,13,105,501d629d-3467-431a-a983-12bd01534d87@example.com,Reunion,2021-01-13T22:44:44.294Z,tablet
+262da83d-de28-428a-997a-57c06acf706a,Mamoudzou,1,119,262da83d-de28-428a-997a-57c06acf706a@example.com,Belgium,2021-01-07T06:05:49.903Z,mobile
+83c2ed34-5cd9-4be1-8127-318b254fc7c0,Antofagasta,2,14,83c2ed34-5cd9-4be1-8127-318b254fc7c0@example.com,Ukraine,2021-01-02T16:51:27.687Z,unknown
+20aed470-9a2a-4a86-befc-a4c0fa8b05d3,Rochester,4,59,20aed470-9a2a-4a86-befc-a4c0fa8b05d3@example.com,Saint Kitts and Nevis,2021-01-13T05:45:09.088Z,tablet
+a3133cd3-f7c1-45c5-993f-ae68d0cd80e6,Omsk,13,100,a3133cd3-f7c1-45c5-993f-ae68d0cd80e6@example.com,Gabon,2021-01-05T09:47:37.928Z,desktop
+b1d34c6a-b665-4bd3-aa9f-1d6f5d8dd0e6,Bridgetown,10,106,b1d34c6a-b665-4bd3-aa9f-1d6f5d8dd0e6@example.com,Guernsey,2021-01-05T13:22:35.045Z,desktop
+bf3aa548-4128-4167-8313-d016628d1129,Providence,10,99,bf3aa548-4128-4167-8313-d016628d1129@example.com,Brunei Darussalam,2021-01-04T06:12:40.512Z,tablet
+48a4bd23-3c7c-431e-8239-4b8ce0df1d4a,La Paz,10,85,48a4bd23-3c7c-431e-8239-4b8ce0df1d4a@example.com,RWANDA,2021-01-07T21:37:17.068Z,unknown
+493a980f-80ed-4b72-b48a-f74d3651aa57,Rawalpindi,4,39,493a980f-80ed-4b72-b48a-f74d3651aa57@example.com,Sudan,2021-01-09T07:33:54.377Z,mobile
+896ee9c2-7210-4ae3-a0f5-ff013381de0b,Norilsk,13,98,896ee9c2-7210-4ae3-a0f5-ff013381de0b@example.com,Sweden,2021-01-08T09:27:07.741Z,tablet
+40da83da-76fe-4557-a5ac-d808d9af75ae,Anadyr (town),2,45,40da83da-76fe-4557-a5ac-d808d9af75ae@example.com,Thailand,2021-01-02T09:34:38.463Z,desktop
+23b5fe08-fec8-4a2d-9f70-464bb8a37810,Chengdu,3,99,23b5fe08-fec8-4a2d-9f70-464bb8a37810@example.com,Mali,2021-01-11T23:49:25.157Z,desktop
+d9e17cb7-6a9f-469e-8a14-545053479a0e,Providence,4,103,d9e17cb7-6a9f-469e-8a14-545053479a0e@example.com,Tuvalu,2021-01-10T19:50:40.955Z,unknown
+c8f5642b-feac-45a1-86cc-d105927cf657,Dar es Salaam,15,13,c8f5642b-feac-45a1-86cc-d105927cf657@example.com,Luxembourg,2021-01-06T15:28:00.178Z,desktop
+6fdca3bc-24b8-4495-909e-763e22f7b003,Lusaka,7,27,6fdca3bc-24b8-4495-909e-763e22f7b003@example.com,Romania,2021-01-13T08:50:30.329Z,mobile
+2d278664-03c7-472d-96e2-1c42a4e48f2f,Rockhampton,12,7,2d278664-03c7-472d-96e2-1c42a4e48f2f@example.com,Nigeria,2021-01-01T14:41:38.086Z,mobile
+a4420947-82f5-4c5d-89cd-bb2d4e286188,Stepanakert,4,38,a4420947-82f5-4c5d-89cd-bb2d4e286188@example.com,Albania,2021-01-01T09:04:25.322Z,tablet
+6329cd45-0987-4f94-87ae-059b95f40bab,Manila,10,50,6329cd45-0987-4f94-87ae-059b95f40bab@example.com,"Micronesia, Federated States of",2021-01-05T11:16:46.222Z,tablet
+cde78d97-26a6-4668-925c-5ca9c617a2b4,Santa Cruz de Tenerife,6,20,cde78d97-26a6-4668-925c-5ca9c617a2b4@example.com,"Virgin Islands, British",2021-01-02T14:57:55.615Z,desktop
+a907ffe7-b1d3-4589-8197-3eb624678da3,Bandar Seri Begawan,10,96,a907ffe7-b1d3-4589-8197-3eb624678da3@example.com,Seychelles,2021-01-14T02:55:01.343Z,unknown
+dddfc61c-a6b0-4a9a-ae9e-540ae72a0dfc,Pittsburgh,11,50,dddfc61c-a6b0-4a9a-ae9e-540ae72a0dfc@example.com,Bosnia and Herzegovina,2021-01-12T14:14:49.570Z,desktop
+eb3a2b58-2ab9-49fd-bb9a-4a29912e3d41,Dublin,11,53,eb3a2b58-2ab9-49fd-bb9a-4a29912e3d41@example.com,Malaysia,2021-01-09T16:20:52.778Z,mobile
+a5aaa05e-660d-47fe-b6c9-23e56872d40b,Cleveland,2,40,a5aaa05e-660d-47fe-b6c9-23e56872d40b@example.com,Bulgaria,2021-01-05T17:53:13.076Z,desktop
+edd77bc5-0fd9-4ac8-bd55-97e9f81be1d2,Turin,7,90,edd77bc5-0fd9-4ac8-bd55-97e9f81be1d2@example.com,Madagascar,2021-01-02T01:57:58.028Z,unknown
+5d592683-90b5-4a7c-a532-c1283f399d95,Algiers,11,83,5d592683-90b5-4a7c-a532-c1283f399d95@example.com,Puerto Rico,2021-01-12T00:21:12.833Z,unknown
+55deebe9-a181-432a-bbc4-3af139e527ef,Nakhon Ratchasima,12,119,55deebe9-a181-432a-bbc4-3af139e527ef@example.com,Burkina Faso,2021-01-07T20:13:52.896Z,desktop
+3780fd01-2f22-4251-a488-35e2e288156e,Guayaquil,1,50,3780fd01-2f22-4251-a488-35e2e288156e@example.com,Slovenia,2021-01-11T17:30:05.225Z,unknown
+baf01dd3-2390-4661-b4a8-b80201d104f8,Gold Coast,14,92,baf01dd3-2390-4661-b4a8-b80201d104f8@example.com,Turks and Caicos Islands,2021-01-13T03:18:40.320Z,unknown
+261842ea-454b-4dad-b6a6-447e45a75807,Yangon,9,76,261842ea-454b-4dad-b6a6-447e45a75807@example.com,South Georgia and the South Sandwich Islands,2021-01-05T03:58:03.618Z,desktop
+13f3e79b-da3a-4aa2-aa14-e0bc9bf87021,Denver,1,44,13f3e79b-da3a-4aa2-aa14-e0bc9bf87021@example.com,Aruba,2021-01-14T05:44:08.249Z,mobile
+dcbe829f-5464-42f8-80bf-dfcf66398f78,Boston,14,29,dcbe829f-5464-42f8-80bf-dfcf66398f78@example.com,Liechtenstein,2021-01-05T06:10:12.367Z,mobile
+47ad310c-c8ab-4b38-9605-c2552c06e7a7,Providence,15,39,47ad310c-c8ab-4b38-9605-c2552c06e7a7@example.com,Somalia,2021-01-09T18:44:34.249Z,unknown
+4a7acf91-79bc-4a29-9e6d-6e70c830b4d8,Lusaka,2,70,4a7acf91-79bc-4a29-9e6d-6e70c830b4d8@example.com,Mali,2021-01-14T03:20:04.207Z,desktop
+0cd7d57e-713b-433d-ac40-3c207b5eec32,Singapore,8,9,0cd7d57e-713b-433d-ac40-3c207b5eec32@example.com,Uzbekistan,2021-01-06T07:02:29.109Z,unknown
+3761ce56-af1b-458a-ab85-9934db1d7b85,Nassau,1,93,3761ce56-af1b-458a-ab85-9934db1d7b85@example.com,Norfolk Island,2021-01-13T15:22:22.494Z,mobile
+aa3f82ba-fdd9-4a80-a2a6-0063875ef2c4,Ludhiana,9,3,aa3f82ba-fdd9-4a80-a2a6-0063875ef2c4@example.com,Cyprus,2021-01-12T04:31:36.657Z,unknown
+38578eeb-5309-43d5-9b49-bb7d85e3e5be,Handan,8,34,38578eeb-5309-43d5-9b49-bb7d85e3e5be@example.com,Iceland,2021-01-14T14:15:01.675Z,unknown
+006ea9a8-27a4-46ad-b966-152a08703321,Port Vila,6,83,006ea9a8-27a4-46ad-b966-152a08703321@example.com,Namibia,2021-01-12T02:37:16.726Z,mobile
+26131747-4ee8-4b6e-90d3-6c02697b36ed,Gaza,10,50,26131747-4ee8-4b6e-90d3-6c02697b36ed@example.com,Lebanon,2021-01-12T08:17:16.352Z,tablet
+02b483ed-6ec6-4c49-adb8-f5b49c18eea8,Nashville,6,103,02b483ed-6ec6-4c49-adb8-f5b49c18eea8@example.com,French Guiana,2021-01-12T01:45:24.091Z,mobile
+f57ff573-0d92-4604-954d-e6fbd333bda5,Nizhny Novgorod,15,85,f57ff573-0d92-4604-954d-e6fbd333bda5@example.com,Slovakia,2021-01-10T23:24:17.445Z,tablet
+9b870f71-71e3-4fd5-8c6b-7ae914d52f82,Cork (city),10,81,9b870f71-71e3-4fd5-8c6b-7ae914d52f82@example.com,Syrian Arab Republic,2021-01-10T14:49:59.972Z,tablet
+9b38d2db-ae8b-4502-8188-1c6031f2311d,Lisbon,9,31,9b38d2db-ae8b-4502-8188-1c6031f2311d@example.com,Morocco,2021-01-07T12:13:24.456Z,desktop
+b0d3c0cb-db64-429b-b833-def2815c6410,Magadan,6,110,b0d3c0cb-db64-429b-b833-def2815c6410@example.com,Hong Kong,2021-01-11T15:06:10.942Z,unknown
+6e7e7ab5-3bd7-42e4-8d28-0f39356af611,Adamstown,4,64,6e7e7ab5-3bd7-42e4-8d28-0f39356af611@example.com,Spain,2021-01-05T12:03:25.396Z,desktop
+6ed4caf9-2f27-4166-ad00-9a8c4cc00117,Madrid,9,95,6ed4caf9-2f27-4166-ad00-9a8c4cc00117@example.com,Kyrgyzstan,2021-01-09T10:55:04.782Z,unknown
+6c7f266f-17b9-4834-8d5d-f0daf5e68082,Palma,13,64,6c7f266f-17b9-4834-8d5d-f0daf5e68082@example.com,France,2021-01-04T09:26:24.314Z,desktop
+c90c9036-22a5-437f-b8fc-942873a5b319,Yaoundé,7,28,c90c9036-22a5-437f-b8fc-942873a5b319@example.com,Antarctica,2021-01-12T15:33:41.318Z,mobile
+2e5dadee-c170-41b0-9ca7-ce4190a8a007,Durango,15,54,2e5dadee-c170-41b0-9ca7-ce4190a8a007@example.com,AndorrA,2021-01-13T08:21:34.745Z,desktop
+10512014-566e-428c-b9f9-dd792359e00e,Kinshasa,1,55,10512014-566e-428c-b9f9-dd792359e00e@example.com,Gambia,2021-01-05T23:54:08.558Z,mobile
+6bf40fa6-96e8-472a-98fc-198af6ce2ebe,Providence,10,23,6bf40fa6-96e8-472a-98fc-198af6ce2ebe@example.com,Mexico,2021-01-03T14:24:17.564Z,mobile
+247c975c-9fd9-420b-95d0-1a9dd8d23da8,Semarang,4,93,247c975c-9fd9-420b-95d0-1a9dd8d23da8@example.com,French Polynesia,2021-01-06T20:22:42.205Z,mobile
+0692ee20-7d74-47ce-bc27-301a04e22c01,Campinas,1,107,0692ee20-7d74-47ce-bc27-301a04e22c01@example.com,Peru,2021-01-07T01:10:04.441Z,unknown
+69f98652-a7e7-4e9d-a1cc-9712356ae775,Funafuti,7,77,69f98652-a7e7-4e9d-a1cc-9712356ae775@example.com,Israel,2021-01-03T13:29:26.217Z,mobile
+b251b006-7ae3-4fe7-8b95-d96bf6e688b5,Bilbao,5,84,b251b006-7ae3-4fe7-8b95-d96bf6e688b5@example.com,Wallis and Futuna,2021-01-12T04:27:49.583Z,mobile
+3cad9f76-3424-4936-8772-a34864508f9e,Manaus,5,34,3cad9f76-3424-4936-8772-a34864508f9e@example.com,Aruba,2021-01-08T23:49:57.731Z,unknown
+b800fd1a-49c5-478e-9bda-b2e5ff9b0184,Thessaloniki,9,73,b800fd1a-49c5-478e-9bda-b2e5ff9b0184@example.com,Uzbekistan,2021-01-05T14:01:20.475Z,desktop
+6c9025db-2f5c-4aad-aa9c-99053288cb5a,Dakar,11,102,6c9025db-2f5c-4aad-aa9c-99053288cb5a@example.com,Gibraltar,2021-01-06T21:34:09.762Z,mobile
+777e6694-d7ad-42bb-836c-7bc11497e1ee,Zürich,4,12,777e6694-d7ad-42bb-836c-7bc11497e1ee@example.com,Egypt,2021-01-08T19:59:52.516Z,desktop
+c3d49be5-a9d6-4305-954e-b7dc4e0bb735,Innsbruck,14,54,c3d49be5-a9d6-4305-954e-b7dc4e0bb735@example.com,Luxembourg,2021-01-02T22:38:38.589Z,unknown
+4b23efe0-b81f-4c6d-94a1-7664d8efb907,Nukuʻalofa,14,38,4b23efe0-b81f-4c6d-94a1-7664d8efb907@example.com,Namibia,2021-01-13T00:29:53.952Z,mobile
+4d5a26f5-7466-44fc-96a9-d820e30c7b46,Chihuahua,15,47,4d5a26f5-7466-44fc-96a9-d820e30c7b46@example.com,Chile,2021-01-07T13:30:39.686Z,unknown
+b8641d48-da3a-47e2-bb52-315b0df2c798,Hamilton,11,85,b8641d48-da3a-47e2-bb52-315b0df2c798@example.com,Greece,2021-01-09T03:57:02.338Z,desktop
+a752d851-1206-463f-a16d-0369693d590a,Podgorica,8,104,a752d851-1206-463f-a16d-0369693d590a@example.com,Sri Lanka,2021-01-12T02:27:20.347Z,tablet
+b18df01a-5d42-4b14-9d67-5b8d1a66aa9b,Hargeisa,13,37,b18df01a-5d42-4b14-9d67-5b8d1a66aa9b@example.com,Algeria,2021-01-01T08:22:28.331Z,desktop
+649f03ec-9bea-43d2-a123-1f4b723e796e,Prague,5,53,649f03ec-9bea-43d2-a123-1f4b723e796e@example.com,Viet Nam,2021-01-04T10:26:56.223Z,desktop
+137c366c-a3cb-410b-9d51-ac733bb1fb8f,Adak,13,20,137c366c-a3cb-410b-9d51-ac733bb1fb8f@example.com,Finland,2021-01-12T03:04:20.583Z,unknown
+5f656fbd-fccd-4ced-b033-684b7ee3e0c7,Qingdao,5,95,5f656fbd-fccd-4ced-b033-684b7ee3e0c7@example.com,Italy,2021-01-06T09:18:02.118Z,tablet
+b0e3cdbe-4233-4380-8fe6-13574e700757,Tskhinvali,2,61,b0e3cdbe-4233-4380-8fe6-13574e700757@example.com,Bangladesh,2021-01-06T21:24:45.892Z,mobile
+8f880f2d-7a22-4372-803c-ee304e066fad,Philadelphia,10,89,8f880f2d-7a22-4372-803c-ee304e066fad@example.com,Spain,2021-01-07T20:58:03.615Z,unknown
+100578a2-2072-4c93-a3e9-39e3fb95d298,Kuching,13,1,100578a2-2072-4c93-a3e9-39e3fb95d298@example.com,Morocco,2021-01-08T03:52:57.795Z,mobile
+0d0c7a3a-5a12-401e-aa5e-530a86ede69d,Singapore,5,58,0d0c7a3a-5a12-401e-aa5e-530a86ede69d@example.com,Botswana,2021-01-14T14:06:58.804Z,unknown
+4ca6f088-1871-4345-9e5f-4363974cb574,Tampere,8,21,4ca6f088-1871-4345-9e5f-4363974cb574@example.com,Aruba,2021-01-01T14:01:37.986Z,desktop
+53798891-fe4d-4c16-aa49-0437a0b9007e,Tegucigalpa,6,73,53798891-fe4d-4c16-aa49-0437a0b9007e@example.com,Zambia,2021-01-04T21:18:52.473Z,tablet
+e5e1c507-3dcb-42b3-96a7-d79652f05162,Caracas,3,5,e5e1c507-3dcb-42b3-96a7-d79652f05162@example.com,Benin,2021-01-02T05:30:24.471Z,mobile
+4a9051c5-563c-4c1e-840b-aa37d46fc478,Arbil,1,61,4a9051c5-563c-4c1e-840b-aa37d46fc478@example.com,Saint Vincent and the Grenadines,2021-01-02T07:10:23.481Z,unknown
+50140b7e-9b42-47c5-a583-3941d8d7f53c,Campo Grande,3,91,50140b7e-9b42-47c5-a583-3941d8d7f53c@example.com,Oman,2021-01-05T20:36:27.756Z,desktop
+63a6e1f5-ee9a-4b42-9633-48fb8ad3bccc,Dubai,8,103,63a6e1f5-ee9a-4b42-9633-48fb8ad3bccc@example.com,Macao,2021-01-11T10:11:55.410Z,tablet
+6f1338a6-f24f-4fd4-a528-40acdb9ecdff,Bucharest,6,8,6f1338a6-f24f-4fd4-a528-40acdb9ecdff@example.com,Antigua and Barbuda,2021-01-06T06:59:05.633Z,unknown
+fac790cb-4924-49f1-b109-839d2ec39c57,City of Halifax,8,22,fac790cb-4924-49f1-b109-839d2ec39c57@example.com,Malaysia,2021-01-04T21:09:19.395Z,desktop
+2ae23cbb-00f6-4ba5-855a-edfb511a5d58,Mogadishu,13,16,2ae23cbb-00f6-4ba5-855a-edfb511a5d58@example.com,Dominica,2021-01-06T13:34:07.698Z,desktop
+f1736ff6-0513-4694-baba-de0deaa3fd62,Chişinău,9,20,f1736ff6-0513-4694-baba-de0deaa3fd62@example.com,Philippines,2021-01-07T11:19:55.224Z,desktop
+8c0295b3-2983-4194-b99f-33fc98d57d37,Johannesburg,12,3,8c0295b3-2983-4194-b99f-33fc98d57d37@example.com,Gabon,2021-01-09T00:51:58.733Z,desktop
+7fad7a3b-7a6b-46b6-bc2f-6efdbc8e2c2c,Gdańsk,7,116,7fad7a3b-7a6b-46b6-bc2f-6efdbc8e2c2c@example.com,Belarus,2021-01-14T23:28:01.650Z,desktop
+ed9df30c-444f-4d42-9d1a-70e5e2d542e5,Maputo,7,8,ed9df30c-444f-4d42-9d1a-70e5e2d542e5@example.com,Zambia,2021-01-01T14:33:13.621Z,mobile
+b9b46640-d162-4b92-bf9e-b54676b106ce,Abuja,8,97,b9b46640-d162-4b92-bf9e-b54676b106ce@example.com,Georgia,2021-01-14T06:37:14.718Z,tablet
+76c7bb9e-3f99-4367-a467-34fe8169d2e6,Kharkiv,6,99,76c7bb9e-3f99-4367-a467-34fe8169d2e6@example.com,Denmark,2021-01-03T11:51:45.514Z,tablet
+a020b322-bca2-425a-b3c9-949711d67dff,Denpasar,5,55,a020b322-bca2-425a-b3c9-949711d67dff@example.com,Lithuania,2021-01-11T21:06:24.768Z,desktop
+5528436e-dff7-4e56-80d3-ff9063adfb9e,Salt Lake City,9,30,5528436e-dff7-4e56-80d3-ff9063adfb9e@example.com,France,2021-01-02T08:32:44.930Z,tablet
+aff9859c-dab7-4149-affb-4c1bbb77680e,Kabul,6,26,aff9859c-dab7-4149-affb-4c1bbb77680e@example.com,Bhutan,2021-01-01T01:13:41.136Z,unknown
+7293f6a9-333d-4ebb-869e-cfe4acf56605,Paramaribo,10,101,7293f6a9-333d-4ebb-869e-cfe4acf56605@example.com,Iceland,2021-01-13T02:44:44.317Z,mobile
+6df90eff-f988-40e5-ad3f-c927c3f0fb14,Adak,12,106,6df90eff-f988-40e5-ad3f-c927c3f0fb14@example.com,Uzbekistan,2021-01-12T06:18:34.143Z,unknown
+37f6e451-3b68-43d4-95c9-4395f150dd20,Quebec City,10,47,37f6e451-3b68-43d4-95c9-4395f150dd20@example.com,Guinea,2021-01-12T01:25:37.990Z,desktop
+91a85843-9c13-46d1-bea3-2be7b4c22372,San Fernando,14,39,91a85843-9c13-46d1-bea3-2be7b4c22372@example.com,Comoros,2021-01-02T10:04:50.356Z,tablet
+c9f438e2-3955-4125-8bcd-4a021bd92971,Tehran,6,63,c9f438e2-3955-4125-8bcd-4a021bd92971@example.com,Namibia,2021-01-14T14:25:07.055Z,tablet
+4d4850f1-e064-4bc8-8b4c-3f982dd893bb,Leeds,3,13,4d4850f1-e064-4bc8-8b4c-3f982dd893bb@example.com,Swaziland,2021-01-14T07:11:21.693Z,tablet
+885693a5-0304-49e9-b5cf-2a3b4035a7fb,Tel Aviv,3,27,885693a5-0304-49e9-b5cf-2a3b4035a7fb@example.com,Mexico,2021-01-04T11:52:28.473Z,unknown
+a32ab5d6-6579-4f31-b3d6-8d655c7a5bbd,Brikama,10,75,a32ab5d6-6579-4f31-b3d6-8d655c7a5bbd@example.com,Iraq,2021-01-03T10:05:43.742Z,desktop
+95b2a8a3-2bf5-436f-92fd-c1110bd20f82,Abuja,12,48,95b2a8a3-2bf5-436f-92fd-c1110bd20f82@example.com,French Southern Territories,2021-01-08T01:26:02.650Z,unknown
+8ec7a519-f228-42c4-87de-b0e81eed5f2b,Xi'an,6,101,8ec7a519-f228-42c4-87de-b0e81eed5f2b@example.com,Ukraine,2021-01-12T04:19:06.949Z,desktop
+e28fd98d-c100-405c-84f7-6c0c9ef20a28,Wellington,11,104,e28fd98d-c100-405c-84f7-6c0c9ef20a28@example.com,Solomon Islands,2021-01-13T04:55:35.864Z,tablet
+675216cb-320c-497a-8cd1-c7cefb7bbd94,Mexico City,13,25,675216cb-320c-497a-8cd1-c7cefb7bbd94@example.com,Mayotte,2021-01-07T19:53:26.377Z,mobile
+62b64063-8dbe-4812-94c3-8f708657ef53,Sarajevo,5,6,62b64063-8dbe-4812-94c3-8f708657ef53@example.com,Philippines,2021-01-03T01:21:39.416Z,desktop
+84f62722-7cb6-427c-a316-f764897cfbb7,Mendoza,6,106,84f62722-7cb6-427c-a316-f764897cfbb7@example.com,Eritrea,2021-01-12T16:18:14.480Z,mobile
+4a41cb22-181d-42d9-ad41-a2cc0c198b8e,Edmonton,15,29,4a41cb22-181d-42d9-ad41-a2cc0c198b8e@example.com,Yemen,2021-01-04T12:50:54.509Z,unknown
+729ebfc7-39db-4697-99b1-69c6a3e62c81,Xi'an,1,103,729ebfc7-39db-4697-99b1-69c6a3e62c81@example.com,Italy,2021-01-10T05:14:59.706Z,tablet
+fdfb42d8-2051-4795-82f9-415b622f78f5,Naypyidaw,14,21,fdfb42d8-2051-4795-82f9-415b622f78f5@example.com,Kuwait,2021-01-02T01:36:16.939Z,mobile
+d3821738-4234-48d1-8fea-6a8ca193fa65,Washington,1,94,d3821738-4234-48d1-8fea-6a8ca193fa65@example.com,Eritrea,2021-01-02T18:09:00.626Z,tablet
+1b009a0d-bc30-4114-a50b-86feccbbd511,Johor Bahru,10,99,1b009a0d-bc30-4114-a50b-86feccbbd511@example.com,Hong Kong,2021-01-11T03:45:39.683Z,tablet
+c2ed4a88-dbc0-4c2b-b0dc-6c0dde938579,Denver,8,32,c2ed4a88-dbc0-4c2b-b0dc-6c0dde938579@example.com,Palau,2021-01-06T09:49:10.003Z,tablet
+aeabb22d-6acf-4fc7-9274-8fdef92a27f7,Wichita,10,17,aeabb22d-6acf-4fc7-9274-8fdef92a27f7@example.com,Cameroon,2021-01-13T07:37:30.869Z,tablet
+6bbccde9-7667-43e1-860b-966cfc1cd28c,Buffalo,5,26,6bbccde9-7667-43e1-860b-966cfc1cd28c@example.com,Christmas Island,2021-01-11T05:03:32.314Z,unknown
+45c64d51-9075-4df1-89cf-bf2ccc59cf34,Zamboanga City,6,22,45c64d51-9075-4df1-89cf-bf2ccc59cf34@example.com,Lebanon,2021-01-09T17:20:08.117Z,desktop
+7f27253f-7e6b-4127-a828-46c2f738586b,Nagoya,4,78,7f27253f-7e6b-4127-a828-46c2f738586b@example.com,Ukraine,2021-01-09T08:00:02.534Z,unknown
+593debb2-c1e8-46b0-8118-0998a515cf30,Port Blair,5,63,593debb2-c1e8-46b0-8118-0998a515cf30@example.com,Saint Pierre and Miquelon,2021-01-03T01:08:02.910Z,mobile
+4fa2d635-a6c5-4d3c-b6fa-b06d4dde1fee,Mexico City,2,1,4fa2d635-a6c5-4d3c-b6fa-b06d4dde1fee@example.com,Fiji,2021-01-05T09:06:49.332Z,unknown
+6ce6abf0-9c04-4b7e-b943-3c45c9f0a8c5,Port-au-Prince,13,28,6ce6abf0-9c04-4b7e-b943-3c45c9f0a8c5@example.com,Romania,2021-01-06T13:30:05.276Z,desktop
+f4f1686b-6449-4cbb-8c77-d788ffa15fb5,Blantyre,14,71,f4f1686b-6449-4cbb-8c77-d788ffa15fb5@example.com,Colombia,2021-01-12T16:33:43.080Z,mobile
+58b6bd8e-2bf2-45d0-9fe7-89b311a68d5e,Nouakchott,6,11,58b6bd8e-2bf2-45d0-9fe7-89b311a68d5e@example.com,Bosnia and Herzegovina,2021-01-09T06:22:49.382Z,unknown
+aaed7251-17de-4af3-97aa-bab4ada08d10,Hanover,10,54,aaed7251-17de-4af3-97aa-bab4ada08d10@example.com,Brazil,2021-01-04T09:30:28.567Z,mobile
+eda856a8-3f78-4029-9938-f316fd3f25c9,Shanghai,14,7,eda856a8-3f78-4029-9938-f316fd3f25c9@example.com,Guernsey,2021-01-12T04:10:19.553Z,mobile
+9bab478e-42ba-4709-b35c-91958cc41759,Anchorage,12,88,9bab478e-42ba-4709-b35c-91958cc41759@example.com,Oman,2021-01-04T14:59:34.837Z,desktop
+43666398-009f-4e41-bb94-a14629965bd7,Hai Phong,13,53,43666398-009f-4e41-bb94-a14629965bd7@example.com,Egypt,2021-01-05T11:22:58.490Z,mobile
+f7fe161b-2fb6-4f09-aa54-7d66b4a612a2,Puebla,3,117,f7fe161b-2fb6-4f09-aa54-7d66b4a612a2@example.com,Luxembourg,2021-01-01T00:18:15.282Z,desktop
+a71384bf-5bbd-4318-9efa-46368b7e3e2b,Sapporo,2,25,a71384bf-5bbd-4318-9efa-46368b7e3e2b@example.com,Norway,2021-01-01T06:58:36.808Z,unknown
+04999c11-4daf-4ee6-bad3-54628c026ffd,Melekeok,9,7,04999c11-4daf-4ee6-bad3-54628c026ffd@example.com,Liechtenstein,2021-01-12T20:26:00.763Z,tablet
+8bf57d72-8714-4f90-a712-098feab23b9b,Quito,10,6,8bf57d72-8714-4f90-a712-098feab23b9b@example.com,Holy See (Vatican City State),2021-01-05T21:08:05.156Z,mobile
+542730fb-aad2-4057-abd7-d45ba470a97f,Virginia Beach,10,88,542730fb-aad2-4057-abd7-d45ba470a97f@example.com,Cape Verde,2021-01-04T21:10:48.345Z,tablet
+bb8dd3f5-9eb8-4927-864a-098037972ab7,Hiroshima,3,7,bb8dd3f5-9eb8-4927-864a-098037972ab7@example.com,Gibraltar,2021-01-03T18:17:18.615Z,tablet
+87105a17-fc61-4f74-b862-d8966b5239e7,Winnipeg,1,98,87105a17-fc61-4f74-b862-d8966b5239e7@example.com,Thailand,2021-01-08T19:13:40.317Z,desktop
+8a8a6ddd-bce0-43be-b104-c4f902c4202e,Qingdao,3,55,8a8a6ddd-bce0-43be-b104-c4f902c4202e@example.com,Bosnia and Herzegovina,2021-01-14T00:35:49.591Z,mobile
+a0f0feac-5d3c-4966-a9b8-e0bdc09f7bf0,Hamilton,12,1,a0f0feac-5d3c-4966-a9b8-e0bdc09f7bf0@example.com,Monaco,2021-01-11T15:21:40.089Z,desktop
+c72fb6cc-dacc-4a72-9262-cabbd8dcd239,Rio de Janeiro,5,15,c72fb6cc-dacc-4a72-9262-cabbd8dcd239@example.com,Morocco,2021-01-13T21:48:08.078Z,tablet
+6b0d9fd2-a107-4026-a60d-769d1e67074c,Milan,6,5,6b0d9fd2-a107-4026-a60d-769d1e67074c@example.com,Gibraltar,2021-01-01T22:09:59.860Z,tablet
+1ea8cc8a-9016-4c22-a6b3-acd174c65e31,Vienna,6,15,1ea8cc8a-9016-4c22-a6b3-acd174c65e31@example.com,Zimbabwe,2021-01-03T19:44:59.450Z,desktop
+aa04c5c3-bd8a-41cf-924f-a50ab2bd207c,Nantes,12,22,aa04c5c3-bd8a-41cf-924f-a50ab2bd207c@example.com,Tonga,2021-01-12T12:22:44.378Z,unknown
+5c0c477b-a58f-4c03-a588-040706c19c5e,Tijuana,5,103,5c0c477b-a58f-4c03-a588-040706c19c5e@example.com,Guadeloupe,2021-01-11T19:28:52.449Z,unknown
+298e111c-c79b-4b30-98b2-af9ca9a00a76,Cartagena,1,106,298e111c-c79b-4b30-98b2-af9ca9a00a76@example.com,Tunisia,2021-01-13T09:26:16.547Z,desktop
+95d25b51-b474-42d0-b499-70551e055597,Dibrugarh,9,36,95d25b51-b474-42d0-b499-70551e055597@example.com,Czech Republic,2021-01-05T11:29:56.028Z,tablet
+44fbf297-2d02-4964-9bb1-b577a56d68d1,Paramaribo,4,120,44fbf297-2d02-4964-9bb1-b577a56d68d1@example.com,Tonga,2021-01-12T08:57:16.886Z,tablet
+587b2054-f397-4bc3-aa25-0da190ba68a5,Buenos Aires,10,6,587b2054-f397-4bc3-aa25-0da190ba68a5@example.com,Viet Nam,2021-01-08T22:05:23.130Z,unknown
+1812722f-b45b-4639-bb37-098e74b57687,Ludhiana,13,74,1812722f-b45b-4639-bb37-098e74b57687@example.com,Saint Kitts and Nevis,2021-01-10T16:19:32.474Z,tablet
+d61a67a5-00b9-4f2a-9cab-0593a6946254,City of San Marino,1,112,d61a67a5-00b9-4f2a-9cab-0593a6946254@example.com,"Korea, Democratic People""S Republic of",2021-01-05T14:09:56.875Z,unknown
+6edf1dfc-9450-4238-8258-57880aa694cd,Medan,9,41,6edf1dfc-9450-4238-8258-57880aa694cd@example.com,Eritrea,2021-01-14T02:22:38.081Z,mobile
+5c2d18ee-1597-4e1b-9091-94b545baf0ca,Yaoundé,9,117,5c2d18ee-1597-4e1b-9091-94b545baf0ca@example.com,Aruba,2021-01-10T06:55:19.563Z,desktop
+3b8689bc-a53a-4774-8d64-fc071690cc85,Dammam,15,73,3b8689bc-a53a-4774-8d64-fc071690cc85@example.com,Cape Verde,2021-01-08T13:49:14.615Z,unknown
+aace081c-4ce1-441e-9f96-9ee6b8340577,Cusco,8,61,aace081c-4ce1-441e-9f96-9ee6b8340577@example.com,Iraq,2021-01-05T07:33:48.893Z,desktop
+dc0c6a3f-954b-428c-a869-3c5a5c7324f4,Miri,13,79,dc0c6a3f-954b-428c-a869-3c5a5c7324f4@example.com,Samoa,2021-01-07T19:20:04.022Z,tablet
+76cb0cbd-d347-4ee9-b8d0-64043ed220ab,Indianapolis,11,25,76cb0cbd-d347-4ee9-b8d0-64043ed220ab@example.com,Jersey,2021-01-14T06:31:44.876Z,unknown
+3b5e63a2-f2e5-4d91-a15d-d5dca37684f0,Maracaibo,4,119,3b5e63a2-f2e5-4d91-a15d-d5dca37684f0@example.com,Guernsey,2021-01-13T18:28:05.883Z,unknown
+06ac0b90-8b88-4afc-84ed-9e4a5e6787fc,Iquitos,6,87,06ac0b90-8b88-4afc-84ed-9e4a5e6787fc@example.com,Guadeloupe,2021-01-07T21:00:25.520Z,desktop
+258129af-75a8-4777-8ad4-050212df12c4,Gangtok,15,23,258129af-75a8-4777-8ad4-050212df12c4@example.com,Nauru,2021-01-05T02:11:11.449Z,desktop
+564de1c8-d54b-44e3-b06e-b4254aafb508,Berlin,14,101,564de1c8-d54b-44e3-b06e-b4254aafb508@example.com,Senegal,2021-01-02T06:48:15.565Z,unknown
+30506d11-3af5-4386-9be0-412f6dac36f3,Dunedin,9,82,30506d11-3af5-4386-9be0-412f6dac36f3@example.com,Ecuador,2021-01-08T15:54:41.991Z,unknown
+d2947637-b42f-4c3c-8712-1f8197b696e8,Aarhus,3,18,d2947637-b42f-4c3c-8712-1f8197b696e8@example.com,Mayotte,2021-01-08T21:39:35.681Z,unknown
+aa02d634-223f-4fa1-960c-506841c729f0,Kuala Lumpur,14,113,aa02d634-223f-4fa1-960c-506841c729f0@example.com,Comoros,2021-01-13T16:33:22.954Z,tablet
+600c0b60-d9a5-47cf-b5f5-b0e89d365620,Chongjin,15,97,600c0b60-d9a5-47cf-b5f5-b0e89d365620@example.com,Turks and Caicos Islands,2021-01-01T17:41:18.731Z,tablet
+2e327d6b-9b85-486f-addb-8bbfc99a1724,Lubumbashi,1,95,2e327d6b-9b85-486f-addb-8bbfc99a1724@example.com,United Arab Emirates,2021-01-10T11:57:12.583Z,desktop
+22cc7e4a-b4c0-44d8-a88b-00bcf3e19dd8,El Aaiún,9,42,22cc7e4a-b4c0-44d8-a88b-00bcf3e19dd8@example.com,Peru,2021-01-10T12:31:00.207Z,tablet
+64a97675-8780-4cf7-ab9b-8c151fdc9a65,Abu Dhabi,3,51,64a97675-8780-4cf7-ab9b-8c151fdc9a65@example.com,El Salvador,2021-01-13T08:12:23.181Z,tablet
+2b137d60-439a-4322-9713-8d8b57dd2398,Denver,9,59,2b137d60-439a-4322-9713-8d8b57dd2398@example.com,Martinique,2021-01-03T02:22:15.408Z,mobile
+b40e2e21-c8de-445b-90a9-f64a2f431f12,Lisbon,2,70,b40e2e21-c8de-445b-90a9-f64a2f431f12@example.com,Mauritania,2021-01-07T06:45:25.786Z,mobile
+11cf2c3a-3b41-4675-8c0b-f7f56cb6b1a8,Toulouse,6,82,11cf2c3a-3b41-4675-8c0b-f7f56cb6b1a8@example.com,Panama,2021-01-01T02:11:36.164Z,mobile
+ef114d57-bdea-48d9-a48a-010753bb64ab,Belmopan,7,108,ef114d57-bdea-48d9-a48a-010753bb64ab@example.com,Pakistan,2021-01-03T00:15:37.106Z,desktop
+8d6aef3f-087d-4e34-90ce-daa095866536,Rabi Island,5,29,8d6aef3f-087d-4e34-90ce-daa095866536@example.com,Antarctica,2021-01-01T01:44:24.105Z,unknown
+c86cc280-c55d-4eb8-9a0e-530009d26743,Guatemala City,11,35,c86cc280-c55d-4eb8-9a0e-530009d26743@example.com,Saint Pierre and Miquelon,2021-01-10T02:54:53.095Z,tablet
+5379475d-42e0-4848-a613-63e4fbd9704e,Handan,6,102,5379475d-42e0-4848-a613-63e4fbd9704e@example.com,French Guiana,2021-01-08T09:07:18.900Z,unknown
+857bfb47-cafd-4b06-8297-77e6c5e2572d,Xining,1,98,857bfb47-cafd-4b06-8297-77e6c5e2572d@example.com,Kenya,2021-01-03T11:54:34.972Z,tablet
+1995b1a6-5ae1-4b29-b93b-bf0cd864c522,Cotonou,13,67,1995b1a6-5ae1-4b29-b93b-bf0cd864c522@example.com,Faroe Islands,2021-01-10T03:28:45.429Z,unknown
+4ef7e730-b1d4-4648-9073-e1b359f71be4,Johor Bahru,12,72,4ef7e730-b1d4-4648-9073-e1b359f71be4@example.com,Tuvalu,2021-01-08T19:59:36.747Z,unknown
+e1185374-5bcb-4ea6-aaad-700159d4ad61,Lubumbashi,4,84,e1185374-5bcb-4ea6-aaad-700159d4ad61@example.com,"Korea, Republic of",2021-01-05T01:19:08.428Z,unknown
+17d5f508-b8a3-4f77-98d6-c43ff0644712,Maceió,10,80,17d5f508-b8a3-4f77-98d6-c43ff0644712@example.com,Guinea-Bissau,2021-01-02T11:49:03.486Z,unknown
+28819881-d139-4be6-8440-6d64edaecdff,Minsk,12,60,28819881-d139-4be6-8440-6d64edaecdff@example.com,Papua New Guinea,2021-01-14T10:45:51.300Z,tablet
+88644563-7131-469b-825b-c7760ee1f05a,Istanbul,6,76,88644563-7131-469b-825b-c7760ee1f05a@example.com,Cayman Islands,2021-01-03T19:03:53.573Z,desktop
+aa82b35c-1c0a-497d-9a9b-748d6886f176,Fairbanks,14,109,aa82b35c-1c0a-497d-9a9b-748d6886f176@example.com,Israel,2021-01-01T14:19:59.331Z,tablet
+c7fd6f52-2763-493b-83ee-6fc1224bd88d,Peshawar,1,51,c7fd6f52-2763-493b-83ee-6fc1224bd88d@example.com,Thailand,2021-01-11T11:17:12.171Z,desktop
+f444b285-72e9-4d12-8711-660fca9d2778,Winnipeg,9,71,f444b285-72e9-4d12-8711-660fca9d2778@example.com,Singapore,2021-01-11T19:41:04.603Z,mobile
+07d2f429-6f21-445a-9998-5dd4d96f1d01,Riyadh,15,106,07d2f429-6f21-445a-9998-5dd4d96f1d01@example.com,Falkland Islands (Malvinas),2021-01-11T04:04:40.362Z,unknown
+a686f8fb-435e-4d2b-ac1d-2d2c2d1a247e,Las Palmas de Gran Canaria,1,52,a686f8fb-435e-4d2b-ac1d-2d2c2d1a247e@example.com,Japan,2021-01-14T13:48:58.775Z,desktop
+6ce79e12-3aae-41fc-ba68-f81434c8c0b2,Antofagasta,4,106,6ce79e12-3aae-41fc-ba68-f81434c8c0b2@example.com,China,2021-01-12T16:42:35.402Z,mobile
+4ffda7b7-12c0-4a84-942b-6a878a095e52,Medellín,11,59,4ffda7b7-12c0-4a84-942b-6a878a095e52@example.com,Uruguay,2021-01-12T12:04:51.029Z,unknown
+faa948bc-dbef-4bae-8b8b-d951275513d1,Mersin,11,51,faa948bc-dbef-4bae-8b8b-d951275513d1@example.com,Lithuania,2021-01-10T20:20:49.000Z,tablet
+bd487ef3-8d42-4cbb-a5e7-30f4085c7681,Nassau,4,9,bd487ef3-8d42-4cbb-a5e7-30f4085c7681@example.com,Guatemala,2021-01-13T00:51:16.239Z,tablet
+9dcc4a31-e71d-4d4a-81e2-14094ecb2c0b,Pittsburgh,14,9,9dcc4a31-e71d-4d4a-81e2-14094ecb2c0b@example.com,El Salvador,2021-01-09T00:21:59.095Z,mobile
+4f22e0ec-082d-4c38-ae5d-76c497be1161,Chittagong,4,118,4f22e0ec-082d-4c38-ae5d-76c497be1161@example.com,Dominica,2021-01-06T15:11:45.282Z,tablet
+6f7d9bcf-2aaf-4a15-aa23-0122c231d1e4,Valparaíso,11,36,6f7d9bcf-2aaf-4a15-aa23-0122c231d1e4@example.com,Latvia,2021-01-12T10:15:23.441Z,mobile
+dbe65a0e-7ffe-4237-ab22-6e68f664f90a,Amsterdam,3,87,dbe65a0e-7ffe-4237-ab22-6e68f664f90a@example.com,Nauru,2021-01-11T15:19:09.398Z,tablet
+63e1bf87-6050-4a57-86db-7a5d8f1a9a73,Skopje,12,117,63e1bf87-6050-4a57-86db-7a5d8f1a9a73@example.com,"Virgin Islands, U.S.",2021-01-08T01:09:44.543Z,tablet
+e790cc99-7cf4-4316-beca-a7511f823210,Port Elizabeth,7,119,e790cc99-7cf4-4316-beca-a7511f823210@example.com,Maldives,2021-01-06T19:43:19.828Z,tablet
+1c2a0662-f8ae-42cb-ae23-57ed09016cf3,Mata-Utu,6,60,1c2a0662-f8ae-42cb-ae23-57ed09016cf3@example.com,Russian Federation,2021-01-02T20:11:33.273Z,desktop
+477a4b92-1938-4626-bb9e-2b67b5f60418,Magadan,2,16,477a4b92-1938-4626-bb9e-2b67b5f60418@example.com,Maldives,2021-01-12T10:12:11.977Z,desktop
+c977f202-edf1-471a-b82e-a00821ecb069,Odessa,3,86,c977f202-edf1-471a-b82e-a00821ecb069@example.com,Saudi Arabia,2021-01-06T01:13:33.490Z,desktop
+e60529a3-1a4a-4acf-b535-abcaf6dba33c,Sapporo,3,66,e60529a3-1a4a-4acf-b535-abcaf6dba33c@example.com,"Lao People""S Democratic Republic",2021-01-09T02:50:36.296Z,desktop
+5e85ddd4-a960-4c8e-af5d-ed25b086593e,Nizhny Novgorod,13,58,5e85ddd4-a960-4c8e-af5d-ed25b086593e@example.com,Russian Federation,2021-01-08T04:41:21.593Z,mobile
+b70ac789-897d-4ec8-a52d-cdd58744ee86,Kandy,14,11,b70ac789-897d-4ec8-a52d-cdd58744ee86@example.com,Congo,2021-01-12T17:45:49.527Z,tablet
+22d7524a-6b16-4aa7-92d4-0a1b987073b9,Kyoto,3,120,22d7524a-6b16-4aa7-92d4-0a1b987073b9@example.com,Armenia,2021-01-11T15:33:28.226Z,unknown
+c14283d8-f014-45a3-893c-65e12e073fed,Maracaibo,8,13,c14283d8-f014-45a3-893c-65e12e073fed@example.com,Netherlands Antilles,2021-01-13T22:51:45.325Z,desktop
+268337ab-5671-409c-8333-d9a577bcf79f,Petropavlovsk-Kamchatsky,10,75,268337ab-5671-409c-8333-d9a577bcf79f@example.com,Kyrgyzstan,2021-01-04T02:01:12.601Z,mobile
+bf13eed7-a04e-4de8-a866-f905952e9da0,Port Louis,7,109,bf13eed7-a04e-4de8-a866-f905952e9da0@example.com,Trinidad and Tobago,2021-01-11T22:23:23.695Z,mobile
+a4962ad2-cf86-4cf6-9eab-ef638abfc11a,Mérida,8,70,a4962ad2-cf86-4cf6-9eab-ef638abfc11a@example.com,British Indian Ocean Territory,2021-01-10T17:14:07.328Z,unknown
+7549dddb-0c09-4e81-9196-dca295db7d1e,Davao City,4,52,7549dddb-0c09-4e81-9196-dca295db7d1e@example.com,Pakistan,2021-01-01T09:12:02.895Z,desktop
+84717b5f-108f-46ca-8770-5afb0df60db6,Sapporo,13,17,84717b5f-108f-46ca-8770-5afb0df60db6@example.com,France,2021-01-08T07:17:45.704Z,tablet
+96b5be21-9bc5-4fcd-8de8-e2b2b0c77533,Hanoi,5,75,96b5be21-9bc5-4fcd-8de8-e2b2b0c77533@example.com,United Arab Emirates,2021-01-07T20:21:56.853Z,unknown
+16b4193b-cbbf-4341-ba00-3e826b480e1d,Dededo,7,119,16b4193b-cbbf-4341-ba00-3e826b480e1d@example.com,Tokelau,2021-01-05T17:57:19.557Z,mobile
+a8a75c18-424d-4e20-98b3-f3167606d8ee,Beirut,3,27,a8a75c18-424d-4e20-98b3-f3167606d8ee@example.com,Nicaragua,2021-01-12T21:10:32.197Z,unknown
+d5fb7e09-c30b-4f6a-aa2e-d01d8edf220c,Mexico City,11,80,d5fb7e09-c30b-4f6a-aa2e-d01d8edf220c@example.com,AndorrA,2021-01-04T20:06:39.902Z,unknown
+c1438c56-ca17-4f90-8267-741197ff51d0,Jerusalem,11,21,c1438c56-ca17-4f90-8267-741197ff51d0@example.com,Western Sahara,2021-01-04T12:47:05.384Z,mobile
+8226dc5e-ccd0-42f7-93d3-a3a621267e25,Gdańsk,5,117,8226dc5e-ccd0-42f7-93d3-a3a621267e25@example.com,Falkland Islands (Malvinas),2021-01-06T15:49:38.724Z,mobile
+4613ff7f-90d3-4b64-b3d9-4c21c1f109b5,Brazzaville,1,3,4613ff7f-90d3-4b64-b3d9-4c21c1f109b5@example.com,Bahamas,2021-01-02T12:41:55.301Z,mobile
+0d47ee4e-099f-4790-9d30-605f551d99e5,Yokohama,13,105,0d47ee4e-099f-4790-9d30-605f551d99e5@example.com,French Polynesia,2021-01-09T05:03:57.275Z,tablet
+1f2ccb13-fcfa-4215-b1f9-8dbc27309b03,Nouakchott,6,18,1f2ccb13-fcfa-4215-b1f9-8dbc27309b03@example.com,Tuvalu,2021-01-05T18:24:54.671Z,mobile
+ce926269-2cab-42e5-bad6-31a57c99776d,Madrid,2,99,ce926269-2cab-42e5-bad6-31a57c99776d@example.com,Bouvet Island,2021-01-14T01:55:46.922Z,unknown
+f6138352-2d1c-40f3-973b-d974e8ac7e95,Düsseldorf,9,85,f6138352-2d1c-40f3-973b-d974e8ac7e95@example.com,Jordan,2021-01-10T09:46:29.397Z,mobile
+7c7306d4-4379-4def-9fbb-c499c3d47264,Shillong,4,57,7c7306d4-4379-4def-9fbb-c499c3d47264@example.com,Spain,2021-01-12T12:01:56.491Z,unknown
+b476f0a3-e19c-4a8a-a1e8-307444e8d469,Manchester,14,90,b476f0a3-e19c-4a8a-a1e8-307444e8d469@example.com,Guinea,2021-01-01T03:05:28.708Z,mobile
+ceac8d4b-f4db-4fc3-ae5b-11368658d0b2,Gaza,2,33,ceac8d4b-f4db-4fc3-ae5b-11368658d0b2@example.com,San Marino,2021-01-11T15:00:37.411Z,unknown
+a2006e5c-0133-4e77-803c-c7dc91a96f3c,Port Said,10,9,a2006e5c-0133-4e77-803c-c7dc91a96f3c@example.com,Luxembourg,2021-01-10T04:32:36.385Z,tablet
+a7936435-5848-413f-a31f-88b2ea7b34c4,Lobamba,12,2,a7936435-5848-413f-a31f-88b2ea7b34c4@example.com,Turkmenistan,2021-01-09T18:35:24.356Z,tablet
+bbc1e12e-1657-4edb-8de4-573166e65aa9,San Fernando,10,38,bbc1e12e-1657-4edb-8de4-573166e65aa9@example.com,Trinidad and Tobago,2021-01-01T08:28:05.652Z,desktop
+20ddcb96-1e19-431f-a5f5-f58b7d3274d0,Pelotas,15,10,20ddcb96-1e19-431f-a5f5-f58b7d3274d0@example.com,"Macedonia, The Former Yugoslav Republic of",2021-01-08T14:12:41.737Z,tablet
+d43820b3-e41e-4d22-baf5-cd85e9d9058d,St. George's,8,82,d43820b3-e41e-4d22-baf5-cd85e9d9058d@example.com,Guinea,2021-01-10T00:55:59.624Z,desktop
+a9815e5c-f887-42d5-9210-b8fd718b36df,Gold Coast,5,21,a9815e5c-f887-42d5-9210-b8fd718b36df@example.com,Kiribati,2021-01-07T17:23:11.862Z,mobile
+8f4fc8ec-7670-4d31-bf2a-45fea2467d31,Tunis,5,78,8f4fc8ec-7670-4d31-bf2a-45fea2467d31@example.com,Saint Pierre and Miquelon,2021-01-14T03:40:23.950Z,tablet
+76e9e8d8-ddd4-43a5-8d42-6b574fe8e0b2,Barranquilla,11,94,76e9e8d8-ddd4-43a5-8d42-6b574fe8e0b2@example.com,Libyan Arab Jamahiriya,2021-01-12T16:40:59.623Z,mobile
+fe2c1a31-3ffc-4bea-99d6-8a5341907523,Conakry,6,17,fe2c1a31-3ffc-4bea-99d6-8a5341907523@example.com,Dominica,2021-01-06T03:40:51.714Z,desktop
+3710daa0-8166-4b39-9beb-80b8a0941177,Dalian,15,75,3710daa0-8166-4b39-9beb-80b8a0941177@example.com,Argentina,2021-01-12T02:13:47.658Z,mobile
+b1dd9053-250b-4479-8a26-7d3c8b3d9f0c,Monrovia,2,89,b1dd9053-250b-4479-8a26-7d3c8b3d9f0c@example.com,Comoros,2021-01-05T12:21:40.313Z,unknown
+0b36ff84-4d7b-48f6-83b7-9087b156e27a,Pekanbaru,6,60,0b36ff84-4d7b-48f6-83b7-9087b156e27a@example.com,Swaziland,2021-01-03T12:08:58.395Z,mobile
+d2690af6-cc75-449a-a593-a3991605c8e3,Chicago,8,59,d2690af6-cc75-449a-a593-a3991605c8e3@example.com,Macao,2021-01-03T16:59:52.731Z,tablet
+6802a571-53b0-4331-93be-8d2f36649357,Huế,15,22,6802a571-53b0-4331-93be-8d2f36649357@example.com,Cook Islands,2021-01-04T00:50:17.981Z,mobile

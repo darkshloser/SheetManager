@@ -1,0 +1,239 @@
+{
+	"info": {
+		"_postman_id": "3b48e189-2d6a-46d1-9c6d-3839ae0ad436",
+		"name": "Initial API testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CSV upload",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "///wsl.localhost/Ubuntu/home/darkshloser/sendbox/Adverity/simpleapp/backend/postman/users_posts_audience.csv"
+						},
+						{
+							"key": "name",
+							"value": "document_name5",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/v1/file/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"file",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV delete",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": [],
+							"disabled": true
+						},
+						{
+							"key": "name",
+							"value": "c11132",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/v1/file/?name=document_name2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"file",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "document_name2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV list specific object",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/v1/file?name=document_name5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"file"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "document_name5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV list all objects",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/v1/file/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"file",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV update",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"json_data\": \"[{\\n\\t\\\"impression_id\\\": \\\"221112-4cf5-4d7a-a99e-5bdd76eb1171\\\",\\n\\t\\\"impression_city\\\": \\\"New City\\\",\\n\\t\\\"posting_user_id\\\": \\\"15\\\",\\n\\t\\\"post_id\\\": \\\"37\\\",\\n\\t\\\"viewer_email\\\": \\\"@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Mauritania\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-04T15:50:27.590Z\\\",\\n\\t\\\"device\\\": \\\"mobile\\\"\\n}, {\\n\\t\\\"impression_id\\\": \\\"4d883a2c-f75d-4344-ba00-cfaba84c7f9a\\\",\\n\\t\\\"impression_city\\\": \\\"Rockhampton\\\",\\n\\t\\\"posting_user_id\\\": \\\"7\\\",\\n\\t\\\"post_id\\\": \\\"20\\\",\\n\\t\\\"viewer_email\\\": \\\"4d883a2c-f75d-4344-ba00-cfaba84c7f9a@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Tokelau\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-04T08:21:38.956Z\\\",\\n\\t\\\"device\\\": \\\"unknown\\\"\\n}, {\\n\\t\\\"impression_id\\\": \\\"472f5f10-5dd9-43a1-aa4c-b70f721ef316\\\",\\n\\t\\\"impression_city\\\": \\\"Brikama\\\",\\n\\t\\\"posting_user_id\\\": \\\"1\\\",\\n\\t\\\"post_id\\\": \\\"7\\\",\\n\\t\\\"viewer_email\\\": \\\"472f5f10-5dd9-43a1-aa4c-b70f721ef316@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Thailand\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-10T01:25:14.764Z\\\",\\n\\t\\\"device\\\": \\\"tablet\\\"\\n}, {\\n\\t\\\"impression_id\\\": \\\"62c97cc9-3ca9-46b3-af5f-6fd0a363e3e6\\\",\\n\\t\\\"impression_city\\\": \\\"Graz\\\",\\n\\t\\\"posting_user_id\\\": \\\"12\\\",\\n\\t\\\"post_id\\\": \\\"109\\\",\\n\\t\\\"viewer_email\\\": \\\"62c97cc9-3ca9-46b3-af5f-6fd0a363e3e6@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Jamaica\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-10T11:25:17.629Z\\\",\\n\\t\\\"device\\\": \\\"mobile\\\"\\n}, {\\n\\t\\\"impression_id\\\": \\\"736b000d-a445-4ba3-950a-81483257481e\\\",\\n\\t\\\"impression_city\\\": \\\"Cotonou\\\",\\n\\t\\\"posting_user_id\\\": \\\"11\\\",\\n\\t\\\"post_id\\\": \\\"86\\\",\\n\\t\\\"viewer_email\\\": \\\"736b000d-a445-4ba3-950a-81483257481e@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Belgium\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-10T02:35:20.032Z\\\",\\n\\t\\\"device\\\": \\\"desktop\\\"\\n}, {\\n\\t\\\"impression_id\\\": \\\"4efc3a97-30ed-4822-adf8-c244fe8e6093\\\",\\n\\t\\\"impression_city\\\": \\\"Paris\\\",\\n\\t\\\"posting_user_id\\\": \\\"12\\\",\\n\\t\\\"post_id\\\": \\\"82\\\",\\n\\t\\\"viewer_email\\\": \\\"4efc3a97-30ed-4822-adf8-c244fe8e6093@example.com\\\",\\n\\t\\\"impression_country\\\": \\\"Denmark\\\",\\n\\t\\\"timestamp\\\": \\\"2021-01-07T21:08:21.258Z\\\",\\n\\t\\\"device\\\": \\\"unknown\\\"\\n}]\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/v1/file/?name=document_name5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"file",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "document_name5"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "a93deccb-12b0-4167-ac8d-3e3c7c9fadbe",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "4c55c14a-fc28-45c7-b906-ddf3a2c03ce2",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

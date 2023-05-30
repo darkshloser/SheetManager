@@ -1,0 +1,5 @@
+impression_id,impression_city,posting_user_id,post_id,viewer_email,impression_country,timestamp,device
+4d883a2c-f75d-4344-ba00-cfaba84c7f9a,Rockhampton,7,20,4d883a2c-f75d-4344-ba00-cfaba84c7f9a@example.com,Tokelau,2021-01-04T08:21:38.956Z,unknown
+e306dfec-469c-485a-8fcd-fb5e1f2c75f6,Castries,7,46,e306dfec-469c-485a-8fcd-fb5e1f2c75f6@example.com,China,2021-01-09T02:03:48.320Z,desktop
+cee562e3-ebb5-4e9a-89d5-06fcfc53dd0f,Kota Kinabalu,3,2,cee562e3-ebb5-4e9a-89d5-06fcfc53dd0f@example.com,Yemen,2021-01-06T00:04:21.266Z,mobile
+ae4e4096-d626-4350-9487-086552fc8a06,Lisbon,9,55,ae4e4096-d626-4350-9487-086552fc8a06@example.com,El Salvador,2021-01-01T01:02:36.021Z,unknown

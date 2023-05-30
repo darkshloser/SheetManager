@@ -1,0 +1,75 @@
+version: "3.8"
+
+services:
+  # Database service
+  database:
+    container_name: adverity-transformer-challenge-database
+    image: postgres:9.6-alpine
+    environment:
+      POSTGRES_DB: transformer
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+  # Async tasks broker service
+  redis:
+    container_name: adverity-transformer-challenge-redis
+    image: redis:6
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+  # Async tasks worker
+  celery:
+    container_name: adverity-transformer-challenge-celery
+    build:
+      context: ${PWD}/backend/
+      dockerfile: Dockerfile.development
+    image: adverity-transformer-challenge-backend
+    environment:
+      BROKER_URL: redis://redis:6379
+      DATABASE_HOST: database
+      DATABASE_USER: postgres
+      DATABASE_NAME: transformer
+    command: watchmedo auto-restart --pattern '*.py' --signal SIGINT --recursive -- celery -A transformer worker -l debug
+    volumes:
+      - ${PWD}/backend/:/home/user/backend/:delegated
+
+  # Main backend application
+  backend:
+    container_name: adverity-transformer-challenge-backend
+    build:
+      context: ${PWD}/backend/
+      dockerfile: Dockerfile.development
+    image: adverity-transformer-challenge-backend
+    ports:
+      - "8000:8000"
+    environment:
+      BROKER_URL: redis://redis:6379
+      DATABASE_HOST: database
+      DATABASE_USER: postgres
+      DATABASE_NAME: transformer
+    volumes:
+      - ${PWD}/backend/:/home/user/backend/:delegated
+      - ${PWD}/frontend/:/home/user/frontend/:delegated
+    depends_on:
+      - database
+      - redis
+      - celery
+    restart: on-failure
+
+  # Vue.js application
+  frontend:
+    container_name: adverity-transformer-challenge-frontend
+    build:
+      context: ${PWD}/frontend/
+      dockerfile: Dockerfile.development
+    stdin_open: true
+    tty: true
+    image: adverity-transformer-challenge-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    restart: on-failure
